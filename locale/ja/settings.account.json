@@ -28,6 +28,7 @@
   "modelSignInRequired": "モデルを利用できません。サインインしてからもう一度お試しください。",
   "more": "その他",
   "nav": "アカウント",
+  "noResponse": "問題が発生しました。ネットワーク接続を確認して、もう一度お試しください。",
   "onboardingArtworkLocale": "en",
   "onboardingBack": "戻る",
   "onboardingBrand": "DeepSeek Harness",

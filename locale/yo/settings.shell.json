@@ -1,0 +1,16 @@
+{
+  "description": "Ṣàkósò ìgbà tí àṣẹ̀ kọ̀ọ̀kán lè lò àtí ìyé àbájádé tí ó lè jádé.",
+  "invalidNumber": "Tẹ́ nọ́mbà kán, tàbí fí òfò sílẹ̀ látí lò ìṣètò àtẹ̀lẹ̀.",
+  "maxOutputBytes": "Òpín àbájádé fún ọ̀nà ìṣán kán (bytes)",
+  "maxOutputBytesHint": "Àbájádé tí ó kọ́já èyí yóò lọ́ sí fáìlì ìgbà díẹ̀ kí ó má ṣé sọ́nù.",
+  "overridden": "Tí à tí yí pàdà",
+  "readOnly": "Ìránṣẹ́ yìí kò jẹ́ kí à yí ìṣètò pàdà.",
+  "reset": "Pàdà sí ìṣètò àtẹ̀lẹ̀",
+  "save": "Fípámọ́",
+  "saveFailed": "Ìránṣẹ́ náà kò gbà àwọ́n ìníyẹ̀ yìí; à fí wọ́n sílẹ̀ fún ọ̀ látí ṣé àtúnṣé.",
+  "saving": "Ńṣípámọ́…",
+  "timeoutMs": "Àkókò ìdádúró fún àṣẹ̀ (ms)",
+  "timeoutMsHint": "Bí àṣẹ̀ kán ṣé lè pẹ́ tó kí ó tó dá dúró.",
+  "title": "Ìkáráhùn Àṣẹ̀",
+  "unavailable": "Àpẹẹrẹ ìṣètò yìí kò tíì ṣí, nítorí náà a kò lè ṣètò rẹ̀ báyìí."
+}

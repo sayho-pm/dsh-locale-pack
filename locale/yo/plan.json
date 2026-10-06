@@ -1,0 +1,19 @@
+{
+  "chip.exitFailed": "Kò lè jáde kúrò ní Ìpò ètò",
+  "chip.label": "Ètò",
+  "chip.on.aria": "Ìpò ètò ti wà nílẹ̀, tẹ láti yọ kúrò",
+  "chip.on.title": "Ìpò ètò ti wà nílẹ̀, tẹ láti yọ kúrò (/plan off)",
+  "preview.action": "Ṣí",
+  "preview.document": "Ètò · Markdown",
+  "preview.expired": "Àwòrán ètò ìgbà díẹ̀ yìí tí dópin. Tún ṣí i láti káàdì àtúnyẹ̀wò tó ń dúró.",
+  "preview.failed": "Kò lè gbé ètò",
+  "preview.full": "Wò ètò kíkún",
+  "preview.historyUnavailable": "Ìtàn ìpàdé kò sí",
+  "preview.invalidAddress": "Àdírẹ́sì ètò kò tọ́",
+  "preview.loading": "Ètò ń bọ̀...",
+  "preview.notFound": "Ètò yìí kò sí",
+  "preview.open": "Ṣí ètò ní ọ̀pá ẹ̀gbẹ́",
+  "preview.openNamed": "Ṣí ètò: {title}",
+  "preview.title": "Ètò",
+  "preview.unavailable": "Àwòrán ètò kò sí"
+}

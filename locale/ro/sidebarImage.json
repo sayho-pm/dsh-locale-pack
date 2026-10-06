@@ -1,0 +1,7 @@
+{
+  "failed": "Această imagine nu a putut fi afișată.",
+  "loading": "Se randează documentul...",
+  "preview": "Previzualizare imagine: {name}",
+  "title": "Imagine",
+  "unsupported": "Previzualizarea imaginii necesită conținutul complet al fișierului."
+}

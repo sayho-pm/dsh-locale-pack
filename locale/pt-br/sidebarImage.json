@@ -1,0 +1,7 @@
+{
+  "failed": "Esta imagem não pôde ser exibida.",
+  "loading": "Renderizando documento...",
+  "preview": "Pré-visualização da imagem: {name}",
+  "title": "Imagem",
+  "unsupported": "A pré-visualização da imagem requer o conteúdo completo do arquivo."
+}

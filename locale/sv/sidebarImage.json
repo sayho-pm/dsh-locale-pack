@@ -1,0 +1,7 @@
+{
+  "failed": "Den här bilden kunde inte visas.",
+  "loading": "Renderar dokument...",
+  "preview": "Bildförhandsvisning: {name}",
+  "title": "Bild",
+  "unsupported": "Bildförhandsvisning kräver det fullständiga filinnehållet."
+}

@@ -2,6 +2,11 @@
   "brokenBadge": "Hindi na-load",
   "builtInGroup": "Naka-built-in",
   "close": "Isara",
+  "createPlugin": "Hayaan ang agent na gumawa ng plugin",
+  "createPluginChecking": "Sinusuri kung magagamit ang Creator mode",
+  "createPluginDescription": "Pumasok sa Creator mode at gumawa ng sarili mong DSH plugin",
+  "createPluginMissing": "Hindi kasama ang Creator mode sa konpigurasyong ito",
+  "createPluginUnavailable": "Pansamantalang hindi magagamit. Buksan muli ang menu na ito upang subukang muli",
   "creatorDraft": "Hayaang tulungan ako ng agent na gumawa ng preset",
   "customGroup": "Pasadya",
   "guideCopied": "Nakopya",
@@ -38,6 +43,7 @@
   "seatHint": "Piliin ang agent preset para sa bago mong gawain",
   "sectionIntro": "Piliin ang mga tool ng agent at kung paano ito gumagana. Gamitin ang Standard mode para sa pang-araw-araw na gawain, o ang Creator mode para magdagdag ng mga kakayahan sa DSH.",
   "setDefault": "Itakda bilang default para sa bagong task",
+  "standardUnavailable": "Hindi magagamit ang Standard mode. Ibalik ito o pumili ng ibang magagamit na mode.",
   "switchRefused": "Hindi makalipat sa {name}: {reason}",
   "view": "Tingnan ang kumpigurasyon"
 }

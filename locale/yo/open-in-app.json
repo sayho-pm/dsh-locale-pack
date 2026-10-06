@@ -1,0 +1,17 @@
+{
+  "app.explorer": "File Explorer",
+  "app.filemanager": "Files",
+  "app.finder": "Finder",
+  "app.terminal": "Terminal",
+  "open.title": "Ṣí nínú {app}",
+  "open.tooltip": "Ṣí ní ìbílẹ̀",
+  "path.appDefault": "{app} (àìyípàdà)",
+  "path.appsError": "À kò lè kó àwọ́n ìṣàmúlò wọ́lé",
+  "path.more": "Ọ̀nà mìíràn látí ṣí",
+  "path.open": "Ṣí",
+  "path.openError": "À kò lè ṣí. Gbìyànjú lẹ́ẹ̀kán sí.",
+  "path.reveal": "Ṣàfìhàn ìbì fáìlì",
+  "path.revealError": "À kò lè ṣàfìhàn ìbì fáìlì. Gbìyànjú lẹ́ẹ̀kán sí.",
+  "shortcut.busy": "Ṣíṣí ààyè ìṣẹ́",
+  "shortcut.unavailable": "Ààyè ìṣẹ́ lọ́wọ́lọ́wọ́ tàbí ìṣàmúlò ìbílẹ̀ kò sí"
+}

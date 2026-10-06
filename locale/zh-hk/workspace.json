@@ -28,6 +28,8 @@
   "delete.desc": "這會將「{name}」從工作區清單中移除，資料夾及工作階段記錄將會保留，其工作階段將會顯示於未分組之下。",
   "delete.pending": "正在刪除工作區…",
   "delete.workspace": "刪除工作區",
+  "draft.initializationFailed": "無法填寫草稿，請稍後再試。",
+  "draft.workspaceRequired": "請先選擇工作區。",
   "empty.noMatches": "沒有相符結果",
   "empty.none": "尚無工作階段",
   "empty.noneArchived": "尚無已封存工作階段",

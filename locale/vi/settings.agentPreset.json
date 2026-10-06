@@ -2,6 +2,11 @@
   "brokenBadge": "Không tải được",
   "builtInGroup": "Tích hợp sẵn",
   "close": "Đóng",
+  "createPlugin": "Để tác tử tạo plugin",
+  "createPluginChecking": "Đang kiểm tra xem chế độ Trình tạo có khả dụng hay không",
+  "createPluginDescription": "Vào chế độ Trình tạo và tạo plugin DSH của riêng bạn",
+  "createPluginMissing": "Chế độ Trình tạo không có trong cấu hình này",
+  "createPluginUnavailable": "Tạm thời không khả dụng. Hãy mở lại menu này để thử lại",
   "creatorDraft": "Để tác tử giúp tôi tạo cài đặt sẵn",
   "customGroup": "Tùy chỉnh",
   "guideCopied": "Đã sao chép",
@@ -38,6 +43,7 @@
   "seatHint": "Chọn cài đặt sẵn tác tử cho nhiệm vụ mới của bạn",
   "sectionIntro": "Chọn công cụ của tác tử và cách thức hoạt động. Dùng chế độ Standard cho các tác vụ hằng ngày, hoặc chế độ Creator để bổ sung khả năng cho DSH.",
   "setDefault": "Đặt làm mặc định cho tác vụ mới",
+  "standardUnavailable": "Chế độ Tiêu chuẩn không khả dụng. Hãy khôi phục hoặc chọn một chế độ khả dụng khác.",
   "switchRefused": "Không thể chuyển sang {name}: {reason}",
   "view": "Xem cấu hình"
 }

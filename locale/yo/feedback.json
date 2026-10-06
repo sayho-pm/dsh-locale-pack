@@ -1,0 +1,22 @@
+{
+  "action.dislike": "Ìdáhùn tí kò dára",
+  "action.dislikeActive": "Yọ̀ ìdíyelé kúrò",
+  "action.like": "Ìdáhùn tó dára",
+  "action.likeActive": "Yọ̀ ìdíyelé kúrò",
+  "category.instruction-following": "Òye àti títẹ̀lé ìtọ́ni",
+  "category.other": "Míràn",
+  "category.product-interaction": "Àwọ́n ẹ̀yà ọjà àti ìbáṣepọ̀",
+  "category.resource-cost": "Lílo Àwọ́n ohùn èlò àti iye owó",
+  "category.security-privacy-permission": "Ààbò, ìkọ̀kọ̀, àti ìyọ̀ọ̀dà",
+  "category.service-stability": "Ìdúróṣinṣin àti ìyárá",
+  "category.task-result": "Èsì iṣẹ́",
+  "dialog.categories": "Ẹ̀kà èsì",
+  "dialog.detail": "Àwọ́n àlàyé èsì",
+  "dialog.hint": "Ṣàfikún àlàyé láti ràn wá lọ́wọ́ láti ṣe àtúnṣe. Ìfiranṣẹ́ rẹ yóò ní àkọsílẹ̀ ìfọrọ̀wérọ̀ lọ́wọ́lọ́wọ́ nínú.",
+  "dialog.title": "Fí èsì ránṣẹ́",
+  "error.conflict": "Èsì yìí ti yípàdà níbòmíràn; ìpo tùntùn ni à ń fi hàn",
+  "error.generic": "À kò lè fi èsì pàmọ́",
+  "error.load": "À kò lè gbé èsì wọlé",
+  "error.noteTooLarge": "Àpèjúwe náà gùn jù; ṣe é ní kúkúrú kí o sì tún fi ránṣẹ́",
+  "toast.recorded": "Ẹ ṣeùn fún èsì rẹ"
+}

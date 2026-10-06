@@ -1,0 +1,6 @@
+{
+  "band": "Claude Code Mods",
+  "press.failed": "Die Schaltfläche ist fehlgeschlagen: {message}",
+  "press.stale": "Diese Schaltfläche gehörte zu einer früheren Zeichnung; das Band wurde aktualisiert",
+  "pressing": "Wird bearbeitet…"
+}

@@ -1,0 +1,14 @@
+{
+  "confirm.acknowledge": "Ninaelewa hatari na ninataka kuendelea",
+  "confirm.cancel": "Sitisha",
+  "confirm.description": "Ufikiaji kamili huruhusu vipindi vipya kupunguza hatua za uthibitisho na kutekeleza vitendo zaidi moja kwa moja, ikiwa ni pamoja na kazi nyeti, mabadiliko ya faili, au amri za nje. Tumia tu unapoamini kazi zinazofuata.",
+  "confirm.enable": "Washa Ufikiaji kamili",
+  "confirm.title": "Washa Ufikiaji kamili?",
+  "description": "Chagua hali ya ruhusa ya chaguo-msingi kwa vipindi vipya",
+  "loading": "Inapakia",
+  "preset.fullAccess": "Ufikiaji kamili",
+  "preset.readOnly": "Kusoma Pekee",
+  "preset.workspaceWrite": "Kuandika eneo la kazi",
+  "title": "Ruhusa",
+  "unavailable": "Haipatikani"
+}

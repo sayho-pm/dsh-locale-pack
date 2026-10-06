@@ -1,0 +1,20 @@
+{
+  "member.empty": "Jina tupu la mwanachama",
+  "member.open": "Fungua {name}",
+  "phase.empty": "Jina tupu la awamu",
+  "phase.unassigned": "Haina awamu",
+  "run.empty": "Hakuna wanachama walioanza",
+  "run.members.one": "{count} mwanachama",
+  "run.members.other": "{count} wanachama",
+  "run.title": "{name}",
+  "status.cancelled": "Imesitishwa",
+  "status.completed": "Imemalizika",
+  "status.failed": "Imeshindwa",
+  "status.interrupted": "Imekatizwa",
+  "status.running": "Inaendelea",
+  "statusCount.cancelled": "Zilizositishwa {count}",
+  "statusCount.completed": "Zilizomalizika {count}",
+  "statusCount.failed": "Zilizoshindwa {count}",
+  "statusCount.interrupted": "Zilizokatizwa {count}",
+  "statusCount.running": "Zinazoendelea {count}"
+}

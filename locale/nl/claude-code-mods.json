@@ -1,0 +1,6 @@
+{
+  "band": "Claude Code mods",
+  "press.failed": "De knop is mislukt: {message}",
+  "press.stale": "Die knop hoorde bij een eerdere tekening; de band is vernieuwd",
+  "pressing": "Bezig…"
+}

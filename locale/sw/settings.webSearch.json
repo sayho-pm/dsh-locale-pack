@@ -1,0 +1,20 @@
+{
+  "apiKey": "Ufunguo wa API",
+  "apiKeyHint": "Imehifadhiwa nje ya faili la mipangilio. Acha tupu ili kubaki na ufunguo uliopo.",
+  "apiKeySet": "Ufunguo umesanidiwa.",
+  "apiKeyUnset": "Hakuna ufunguo uliosanidiwa; mazungumzo yanayotumia kielelezo cha akaunti ya DeepSeek pekee ndiyo yanaweza kutafuta, kupitia kituo cha mwisho chaguo-msingi.",
+  "baseUrl": "Kituo cha mwisho",
+  "baseUrlHint": "Acha tupu ili kutumia chaguo-msingi cha mtoa huduma.",
+  "description": "Sanidi mtoa huduma wa utafutaji wa DeepSeek.",
+  "invalidNumber": "Weka idadi, au acha tupu ili kutumia chaguo-msingi.",
+  "maxUses": "Upeo wa utafutaji kwa ombi",
+  "maxUsesHint": "Ni mara ngapi ombi moja linaweza kutafuta kabla ya kujibu.",
+  "overridden": "Imepitilizwa",
+  "readOnly": "Usakinishaji huu huhifadhi mipangilio kwa kusoma tu.",
+  "reset": "Rudisha chaguo-msingi",
+  "save": "Hifadhi",
+  "saveFailed": "Usakinishaji haukukubali thamani hizi; zimeachwa ili uzirekebishe.",
+  "saving": "Inahifadhi…",
+  "title": "Utafutaji wa wavuti",
+  "unavailable": "Kijalizi hiki hakijapakiwa, kwa hivyo hakiwezi kusanidiwa kwa sasa."
+}

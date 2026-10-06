@@ -28,6 +28,7 @@
   "modelSignInRequired": "Modelul nu este disponibil. Te rugăm să te conectezi și să încerci din nou.",
   "more": "Mai mult",
   "nav": "Cont",
+  "noResponse": "A apărut o eroare. Vă rugăm să verificați conexiunea la rețea și să încercați din nou.",
   "onboardingArtworkLocale": "en",
   "onboardingBack": "Înapoi",
   "onboardingBrand": "DeepSeek Harness",

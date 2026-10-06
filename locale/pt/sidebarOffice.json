@@ -1,0 +1,17 @@
+{
+  "busy": "A pré-visualização do Office está ocupada. Tenta novamente dentro de instantes.",
+  "changed": "O ficheiro foi alterado durante a leitura. Volta a abrir a pré-visualização.",
+  "closeDetails": "Fechar detalhes dos tipos de letra",
+  "failed": "A conversão do Office não produziu um PDF utilizável. Verifica o ficheiro e tenta novamente.",
+  "invalid": "Este ficheiro do Office não pode ser pré-visualizado. Pode estar danificado, protegido por palavra-passe ou ter a extensão errada.",
+  "loading": "A apresentar o documento...",
+  "missingFontsCount": "Tipos de letra: {count}",
+  "missingFontsDescription": "Estes tipos de letra estão indisponíveis para esta pré-visualização. O texto e a disposição podem diferir do documento original.",
+  "missingFontsTitle": "Tipos de letra em falta",
+  "retry": "Voltar a tentar",
+  "timeout": "A conversão do Office excedeu o tempo limite. Tenta novamente.",
+  "title": "Documento do Office",
+  "tooLarge": "O ficheiro do Office ou o PDF convertido excede o limite de tamanho da pré-visualização. Reduz o tamanho do ficheiro ou ajusta a configuração da pré-visualização.",
+  "unavailable": "As pré-visualizações do Office estão indisponíveis. Activa o serviço de pré-visualização de documentos no computador que executa o DeepSeek Harness.",
+  "viewMissingFonts": "Tipos de letra em falta: {count}. Clica para ver."
+}

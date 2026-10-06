@@ -28,6 +28,8 @@
   "delete.desc": "Ini menghapus “{name}” dari daftar ruang kerja. Folder dan log sesi akan tetap disimpan. Sesinya akan muncul di bawah Tidak dikelompokkan.",
   "delete.pending": "Menghapus ruang kerja…",
   "delete.workspace": "Hapus ruang kerja",
+  "draft.initializationFailed": "Tidak dapat mengisi draf. Silakan coba lagi sebentar lagi.",
+  "draft.workspaceRequired": "Pilih ruang kerja terlebih dahulu.",
   "empty.noMatches": "Tidak ada yang cocok",
   "empty.none": "Belum ada sesi",
   "empty.noneArchived": "Belum ada sesi yang diarsipkan",

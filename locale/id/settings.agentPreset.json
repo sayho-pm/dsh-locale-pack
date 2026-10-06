@@ -2,6 +2,11 @@
   "brokenBadge": "Gagal memuat",
   "builtInGroup": "Bawaan",
   "close": "Tutup",
+  "createPlugin": "Biarkan agen membuat plugin",
+  "createPluginChecking": "Memeriksa apakah mode Kreator tersedia",
+  "createPluginDescription": "Masuk ke mode Kreator dan buat plugin DSH Anda sendiri",
+  "createPluginMissing": "Mode Kreator tidak disertakan dalam konfigurasi ini",
+  "createPluginUnavailable": "Sementara tidak tersedia. Buka kembali menu ini untuk mencoba lagi",
   "creatorDraft": "Biarkan agen membantu saya membuat preset",
   "customGroup": "Kustom",
   "guideCopied": "Disalin",
@@ -38,6 +43,7 @@
   "seatHint": "Pilih preset agen untuk tugas baru Anda",
   "sectionIntro": "Pilih alat agen dan cara kerjanya. Gunakan mode Standard untuk tugas sehari-hari, atau mode Creator untuk menambahkan kemampuan ke DSH.",
   "setDefault": "Tetapkan sebagai bawaan tugas baru",
+  "standardUnavailable": "Mode standar tidak tersedia. Pulihkan atau pilih mode lain yang tersedia.",
   "switchRefused": "Tidak dapat beralih ke {name}: {reason}",
   "view": "Lihat konfigurasi"
 }

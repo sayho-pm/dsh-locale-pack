@@ -1,0 +1,17 @@
+{
+  "charts": "Diagramme",
+  "conditionalFormatting": "bedingte Formatierung",
+  "encoding": "Diese Textcodierung konnte nicht gelesen werden. Speichern Sie die Datei als UTF-8 oder UTF-16 mit BOM und versuchen Sie es erneut.",
+  "featureSeparator": ", ",
+  "formulaWarning": "Diese Arbeitsmappe enthält Formeln. Angezeigte Ergebnisse können fehlen oder ungenau sein.",
+  "images": "Bilder",
+  "invalid": "Diese Tabellenkalkulation konnte nicht geöffnet werden. Überprüfen Sie Format, Inhalt oder Kennwortschutz.",
+  "language": "en",
+  "loading": "Dokument wird gerendert...",
+  "retry": "Wiederholen",
+  "shapes": "Formen",
+  "timeout": "Das Öffnen dieser Arbeitsmappe hat zu lange gedauert. Versuchen Sie es mit einer kleineren Datei.",
+  "title": "Tabellenkalkulation",
+  "tooLarge": "Diese Arbeitsmappe überschreitet das Größenlimit für die Vorschau.",
+  "unsupportedNotice": "Diese Vorschau unterstützt {features} in dieser Arbeitsmappe nicht. Öffnen Sie sie in einer Systemanwendung für die volle Erfahrung."
+}

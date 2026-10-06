@@ -28,6 +28,7 @@
   "modelSignInRequired": "模型無法使用。請登入後再試一次。",
   "more": "更多",
   "nav": "帳戶",
+  "noResponse": "發生錯誤。請檢查網絡連接後再試一次。",
   "onboardingArtworkLocale": "en",
   "onboardingBack": "返回",
   "onboardingBrand": "DeepSeek Harness",

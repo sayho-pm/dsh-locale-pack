@@ -37,6 +37,9 @@ const LANGS = [
   { id: 'ur', label: 'اردو' },
   { id: 'he', label: 'עברית' },
   { id: 'fa', label: 'فارسی' },
+  { id: 'pt', label: 'Português (Portugal)' },
+  { id: 'sw', label: 'Kiswahili' },
+  { id: 'yo', label: 'Yorùbá' },
 ];
 
 // namespace per file: "common.json" -> "common", "settings.locale.json" -> "settings.locale"

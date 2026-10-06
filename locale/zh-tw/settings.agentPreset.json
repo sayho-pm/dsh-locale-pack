@@ -2,6 +2,11 @@
   "brokenBadge": "載入失敗",
   "builtInGroup": "內建",
   "close": "關閉",
+  "createPlugin": "讓代理建立外掛",
+  "createPluginChecking": "正在檢查創作者模式是否可用",
+  "createPluginDescription": "進入創作者模式並製作您自己的 DSH 外掛",
+  "createPluginMissing": "此設定不包含創作者模式",
+  "createPluginUnavailable": "暫時無法使用。重新開啟此選單以重試",
   "creatorDraft": "讓代理程式協助我建立預設模式",
   "customGroup": "自訂",
   "guideCopied": "已複製",
@@ -38,6 +43,7 @@
   "seatHint": "為新任務選擇代理人預設",
   "sectionIntro": "選擇代理人的工具與運作方式。日常任務請使用標準模式，或使用創作者模式為 DSH 新增功能。",
   "setDefault": "設為新任務預設值",
+  "standardUnavailable": "標準模式無法使用。請還原它或選擇其他可用的模式。",
   "switchRefused": "無法切換至{name}：{reason}",
   "view": "檢視設定"
 }

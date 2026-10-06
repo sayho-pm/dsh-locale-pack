@@ -1,0 +1,6 @@
+{
+  "band": "Claude Code mods",
+  "press.failed": "Le bouton a échoué : {message}",
+  "press.stale": "Ce bouton appartenait à un affichage précédent ; le bandeau a été actualisé",
+  "pressing": "En cours…"
+}

@@ -1,0 +1,19 @@
+{
+  "autoRefresh": "Kuonyesha upya kiotomatiki",
+  "autoRefresh.disable": "Zima kuonyesha upya kiotomatiki",
+  "autoRefresh.enable": "Washa kuonyesha upya kiotomatiki",
+  "empty": "Saraka tupu",
+  "entry.other": "Si faili wala saraka, kwa hivyo haiwezi kufunguliwa.",
+  "error.notDirectory": "Hiyo si saraka.",
+  "error.notFound": "Saraka hiyo haipo tena. Inaweza ilihamishwa au kufutwa.",
+  "error.outsideWorkspace": "Saraka hiyo iko nje ya eneo la kazi, kwa hivyo kidirisha cha kando hakitaisoma.",
+  "error.unavailable": "Kusoma kumeshindwa: {message}",
+  "guide.description": "Vinjari Files katika eneo la kazi la kipindi hiki",
+  "guide.title": "Files za eneo la kazi",
+  "loading": "Inasoma…",
+  "noWorkspace": "Kipindi hiki hakina saraka ya eneo la kazi.",
+  "reload": "Pakia upya",
+  "shortcut.noSession": "Chagua kipindi kwanza",
+  "truncated": "Maingizo ni mengi mno, baadhi tu yanaonyeshwa.",
+  "type.label": "Files"
+}

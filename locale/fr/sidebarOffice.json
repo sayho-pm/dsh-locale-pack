@@ -1,0 +1,17 @@
+{
+  "busy": "L'aperçu Office est occupé. Réessayez dans un instant.",
+  "changed": "Le fichier a été modifié pendant la lecture. Rouvrez l'aperçu.",
+  "closeDetails": "Fermer les détails des polices",
+  "failed": "La conversion Office n'a pas produit de PDF utilisable. Vérifiez le fichier et réessayez.",
+  "invalid": "Ce fichier Office ne peut pas être prévisualisé. Il est peut-être endommagé, protégé par mot de passe ou son extension est incorrecte.",
+  "loading": "Rendu du document...",
+  "missingFontsCount": "Polices : {count}",
+  "missingFontsDescription": "Ces polices ne sont pas disponibles pour cet aperçu. Le texte et la mise en page peuvent différer du document d'origine.",
+  "missingFontsTitle": "Polices manquantes",
+  "retry": "Réessayer",
+  "timeout": "La conversion Office a expiré. Réessayez.",
+  "title": "Document Office",
+  "tooLarge": "Le fichier Office ou le PDF converti dépasse la limite de taille d'aperçu. Réduisez la taille du fichier ou ajustez la configuration de l'aperçu.",
+  "unavailable": "Les aperçus Office sont indisponibles. Activez le service d'aperçu des documents sur l'ordinateur exécutant DeepSeek Harness.",
+  "viewMissingFonts": "Polices manquantes : {count}. Cliquez pour afficher."
+}

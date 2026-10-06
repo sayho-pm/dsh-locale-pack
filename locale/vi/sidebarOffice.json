@@ -1,0 +1,17 @@
+{
+  "busy": "Bản xem trước Office đang bận. Thử lại sau.",
+  "changed": "Tệp đã thay đổi trong khi đang đọc. Mở lại bản xem trước.",
+  "closeDetails": "Đóng chi tiết phông chữ",
+  "failed": "Quá trình chuyển đổi Office không tạo được PDF có thể sử dụng. Kiểm tra tệp và thử lại.",
+  "invalid": "Không thể xem trước tệp Office này. Tệp có thể bị hỏng, được bảo vệ bằng mật khẩu hoặc có phần mở rộng không đúng.",
+  "loading": "Đang hiển thị tài liệu...",
+  "missingFontsCount": "Phông chữ: {count}",
+  "missingFontsDescription": "Các phông chữ này không khả dụng cho bản xem trước này. Văn bản và bố cục có thể khác với tài liệu gốc.",
+  "missingFontsTitle": "Phông chữ bị thiếu",
+  "retry": "Thử lại",
+  "timeout": "Quá trình chuyển đổi Office đã hết thời gian chờ. Thử lại.",
+  "title": "Tài liệu Office",
+  "tooLarge": "Tệp Office hoặc PDF đã chuyển đổi vượt quá giới hạn kích thước xem trước. Giảm kích thước tệp hoặc điều chỉnh cấu hình xem trước.",
+  "unavailable": "Bản xem trước Office không khả dụng. Bật dịch vụ xem trước tài liệu trên máy tính đang chạy DeepSeek Harness.",
+  "viewMissingFonts": "Thiếu phông chữ: {count}. Nhấp để xem."
+}

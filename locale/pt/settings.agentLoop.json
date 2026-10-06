@@ -1,0 +1,14 @@
+{
+  "description": "Controla como o Agente distribui as chamadas de ferramentas.",
+  "invalidNumber": "Introduz um número ou deixa em branco para usar o valor predefinido.",
+  "maxParallel": "Chamadas de ferramentas paralelas",
+  "maxParallelHint": "Limite máximo de chamadas seguras em paralelo a executar de uma só vez num passo.",
+  "overridden": "Substituído",
+  "readOnly": "Esta implementação guarda as definições apenas para leitura.",
+  "reset": "Repor predefinição",
+  "save": "Guardar",
+  "saveFailed": "A implementação não aceitou estes valores; foram mantidos para correção.",
+  "saving": "A guardar…",
+  "title": "Ciclo do agente",
+  "unavailable": "Este plug-in não está carregado, por isso não pode ser configurado de momento."
+}

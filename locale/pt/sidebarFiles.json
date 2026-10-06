@@ -1,0 +1,19 @@
+{
+  "autoRefresh": "Actualização automática",
+  "autoRefresh.disable": "Desactiva a actualização automática",
+  "autoRefresh.enable": "Activa a actualização automática",
+  "empty": "Directório vazio",
+  "entry.other": "Não é um ficheiro nem um directório, por isso não pode ser aberto.",
+  "error.notDirectory": "Isso não é um directório.",
+  "error.notFound": "Esse directório desapareceu. Pode ter sido movido ou eliminado.",
+  "error.outsideWorkspace": "Esse directório está fora do espaço de trabalho, por isso a barra lateral não o vai ler.",
+  "error.unavailable": "Falha de leitura: {message}",
+  "guide.description": "Explora os ficheiros do espaço de trabalho desta sessão",
+  "guide.title": "Ficheiros do espaço de trabalho",
+  "loading": "A ler…",
+  "noWorkspace": "Esta sessão não tem directório de espaço de trabalho.",
+  "reload": "Recarrega",
+  "shortcut.noSession": "Selecciona primeiro uma sessão",
+  "truncated": "Demasiadas entradas, a mostrar apenas algumas.",
+  "type.label": "Files"
+}

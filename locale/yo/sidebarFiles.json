@@ -1,0 +1,19 @@
+{
+  "autoRefresh": "Ìtúnṣe ara ẹni",
+  "autoRefresh.disable": "Mú ìtúnwá àìlánú dín",
+  "autoRefresh.enable": "Mu Ìtúnṣe ara ẹni ṣiṣẹ́",
+  "empty": "Ìtọ́sọ́nà òfo",
+  "entry.other": "Kì í ṣe fáìlì tàbí ìtọ́sọ́nà, nítorí náà kò ṣeé ṣí i.",
+  "error.notDirectory": "Èyí kì í ṣe ìtọ́sọ́nà.",
+  "error.notFound": "Ìtọ́sọ́nà náà ti lọ. Bóyá wọ́n ti gbé e kúrò tàbí wọ́n ti pa á rẹ́.",
+  "error.outsideWorkspace": "Ìtọ́sọ́nà náà wà ní òde ààyè iṣẹ́, nítorí náà ọ̀pá ẹ̀gbẹ́ kò ní kà á.",
+  "error.unavailable": "Kíkà kùnà: {message}",
+  "guide.description": "Ṣàwárí Files ní ààyè iṣẹ́ ìpàdé yìí",
+  "guide.title": "Ààyè iṣẹ́ Files",
+  "loading": "Ń kà...",
+  "noWorkspace": "Ìpàdé yìí kò ní ààyè iṣẹ́.",
+  "reload": "Tún gbe e",
+  "shortcut.noSession": "Yàn ìpàdé kan ní àkọ́kọ́",
+  "truncated": "Àwọn àkọsílẹ̀ pọ̀ jù, a ń fi díẹ̀ nìkan hàn.",
+  "type.label": "Files"
+}

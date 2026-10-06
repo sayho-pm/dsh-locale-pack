@@ -1,0 +1,14 @@
+{
+  "action.cancel": "Fágilé àtúnṣe",
+  "action.clear": "Nù àfọjúsùn kúrò",
+  "action.edit": "Ṣe àtúnṣe àfọjúsùn",
+  "action.pause": "Dá àfọjúsùn dúró",
+  "action.resume": "Tẹ̀síwájú àfọjúsùn",
+  "action.save": "Fí àfọjúsùn pàmọ́",
+  "commandInput.aria": "Ìkọ̀wé àṣẹ",
+  "objective.aria": "Èròngbà àfọjúsùn",
+  "phase.active": "Àfọjúsùn tí ń lọ lọ́wọ́",
+  "phase.active.disarmed": "Àfọjúsùn àláìṣìṣẹ́",
+  "phase.blocked": "Àfọjúsùn tí á dí lọ́nà",
+  "phase.paused": "Àfọjúsùn tí á dá dúró"
+}

@@ -1,0 +1,6 @@
+{
+  "band": "Moduri Claude Code",
+  "press.failed": "Butonul a eșuat: {message}",
+  "press.stale": "Acel buton aparținea unei afișări anterioare; banda s-a reîmprospătat",
+  "pressing": "Se lucrează…"
+}

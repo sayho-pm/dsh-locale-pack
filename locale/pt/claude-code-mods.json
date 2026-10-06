@@ -1,0 +1,6 @@
+{
+  "band": "Mods do Claude Code",
+  "press.failed": "O botão falhou: {message}",
+  "press.stale": "Esse botão pertencia a um desenho anterior; a faixa foi actualizada",
+  "pressing": "A trabalhar…"
+}

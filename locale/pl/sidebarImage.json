@@ -1,0 +1,7 @@
+{
+  "failed": "Nie można wyświetlić tego obrazu.",
+  "loading": "Renderowanie dokumentu...",
+  "preview": "Podgląd obrazu: {name}",
+  "title": "Obraz",
+  "unsupported": "Podgląd obrazu wymaga pełnej zawartości pliku."
+}

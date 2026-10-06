@@ -28,6 +28,8 @@
   "delete.desc": "Aalisin nito ang “{name}” mula sa listahan ng workspace. Ang folder at mga log ng sesyon ay mananatili. Ang mga sesyon nito ay lalabas sa ilalim ng Ungrouped.",
   "delete.pending": "Tinatanggal ang workspace…",
   "delete.workspace": "Tanggalin ang workspace",
+  "draft.initializationFailed": "Hindi mapunan ang burador. Pakisubukang muli sa ilang sandali.",
+  "draft.workspaceRequired": "Pumili muna ng workspace.",
   "empty.noMatches": "Walang tugma",
   "empty.none": "Wala pang sesyon",
   "empty.noneArchived": "Wala pang naka-archive na sesyon",

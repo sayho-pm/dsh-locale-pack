@@ -28,6 +28,7 @@
   "modelSignInRequired": "โมเดลไม่พร้อมใช้งาน โปรดลงชื่อเข้าใช้แล้วลองอีกครั้ง",
   "more": "เพิ่มเติม",
   "nav": "บัญชี",
+  "noResponse": "เกิดข้อผิดพลาดบางอย่าง โปรดตรวจสอบการเชื่อมต่อเครือข่ายของคุณแล้วลองอีกครั้ง",
   "onboardingArtworkLocale": "en",
   "onboardingBack": "ย้อนกลับ",
   "onboardingBrand": "DeepSeek Harness",

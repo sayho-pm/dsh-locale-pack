@@ -1,0 +1,17 @@
+{
+  "busy": "辦公室預覽忙碌中。請稍後再試。",
+  "changed": "讀取期間檔案已變更。請重新開啟預覽。",
+  "closeDetails": "關閉字體詳情",
+  "failed": "辦公室轉換未能產生可用的 PDF。請檢查檔案並再試一次。",
+  "invalid": "無法預覽此辦公室檔案。檔案可能已損毀、受密碼保護，或副檔名錯誤。",
+  "loading": "正在渲染文件…",
+  "missingFontsCount": "字體：{count}",
+  "missingFontsDescription": "此預覽無法使用這些字體。文字及版面可能與原文件不同。",
+  "missingFontsTitle": "缺少字體",
+  "retry": "重試",
+  "timeout": "辦公室轉換逾時。請再試一次。",
+  "title": "辦公室文件",
+  "tooLarge": "辦公室檔案或轉換後的 PDF 超出預覽大小上限。請縮小檔案大小或調整預覽設定。",
+  "unavailable": "無法使用辦公室預覽。請在執行 DeepSeek Harness 的電腦上啟用文件預覽服務。",
+  "viewMissingFonts": "缺少字體：{count}。按一下以檢視。"
+}

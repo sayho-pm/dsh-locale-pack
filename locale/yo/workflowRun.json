@@ -1,0 +1,20 @@
+{
+  "member.empty": "Orúkọ ọmọ ẹgbẹ́ òfo",
+  "member.open": "Ṣí {name}",
+  "phase.empty": "Orúkọ ìpele òfo",
+  "phase.unassigned": "Láìsí ìpele",
+  "run.empty": "Kò sí ọmọ ẹgbẹ́ tí ó bẹ̀rẹ̀",
+  "run.members.one": "{count} ọmọ ẹgbẹ́",
+  "run.members.other": "{count} àwọn ọmọ ẹgbẹ́",
+  "run.title": "{name}",
+  "status.cancelled": "Ti fagilé",
+  "status.completed": "Ti parí",
+  "status.failed": "Ti kùnà",
+  "status.interrupted": "Ti dẹ́kun",
+  "status.running": "Ń ṣiṣẹ́",
+  "statusCount.cancelled": "Ti fagilé {count}",
+  "statusCount.completed": "Ti parí {count}",
+  "statusCount.failed": "Ti kùnà {count}",
+  "statusCount.interrupted": "Ti dẹ́kun {count}",
+  "statusCount.running": "Ń ṣiṣẹ́ {count}"
+}

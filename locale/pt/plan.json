@@ -1,0 +1,19 @@
+{
+  "chip.exitFailed": "Não foi possível sair do modo de plano",
+  "chip.label": "Plano",
+  "chip.on.aria": "Modo de plano activado, prime para desactivar",
+  "chip.on.title": "Modo de plano activado: clica para desactivar (/plan off)",
+  "preview.action": "Abrir",
+  "preview.document": "Plano · Markdown",
+  "preview.expired": "Esta pré-visualização temporária do plano expirou. Reabre-a a partir do cartão de revisão pendente.",
+  "preview.failed": "Não foi possível carregar o plano",
+  "preview.full": "Ver plano completo",
+  "preview.historyUnavailable": "O histórico da sessão está indisponível",
+  "preview.invalidAddress": "Endereço do plano inválido",
+  "preview.loading": "A carregar o plano…",
+  "preview.notFound": "Este plano não foi encontrado",
+  "preview.open": "Abrir plano na barra lateral",
+  "preview.openNamed": "Abrir plano: {title}",
+  "preview.title": "Plano",
+  "preview.unavailable": "A pré-visualização do plano está indisponível"
+}

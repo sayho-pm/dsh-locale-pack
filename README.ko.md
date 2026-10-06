@@ -2,9 +2,9 @@
 
 <p align="right"><a href="README.md">English</a> | <strong>한국어</strong></p>
 
-<p align="center"><img src="docs/banner.jpg" alt="DeepSeek Harness 다국어 팩: 26개 언어" width="100%"></p>
+<p align="center"><img src="docs/banner.jpg" alt="DeepSeek Harness 다국어 팩: 29개 언어" width="100%"></p>
 
-DeepSeek Harness 데스크톱 앱을 위한 로케일 팩입니다. 언어 선택 목록에 26개 언어를 등록하고 각 언어의 사전을 함께 싣습니다. 번역이 아직 없는 문구는 영어로 표시되므로 화면을 읽을 수 있는 상태가 유지됩니다. DeepSeek Harness가 기본으로 싣는 영어와 간체 중국어까지 합치면 화면에서 고를 수 있는 언어는 28개입니다.
+DeepSeek Harness 데스크톱 앱을 위한 로케일 팩입니다. 언어 선택 목록에 29개 언어를 등록하고 각 언어의 사전을 함께 싣습니다. 번역이 아직 없는 문구는 영어로 표시되므로 화면을 읽을 수 있는 상태가 유지됩니다. DeepSeek Harness가 기본으로 싣는 영어와 간체 중국어까지 합치면 화면에서 고를 수 있는 언어는 31개입니다.
 
 ## 만든 이유
 
@@ -29,8 +29,10 @@ DeepSeek Harness는 코딩 도구입니다. 할 일을 넘기면 에이전트가
 | Filipino | `tl` | Română | `ro` |
 | বাংলা | `bn` | اردو | `ur` |
 | עברית | `he` | فارسی | `fa` |
+| Português (Portugal) | `pt` | Kiswahili | `sw` |
+| Yorùbá | `yo` | | |
 
-26개 언어 × 2,322키 = 60,375개 문구입니다. 사전은 DeepSeek Harness `0.2.0-rc.2` 기준으로 맞췄습니다.
+29개 언어 × 2,528키 = 73,312개 문구입니다. 사전은 DeepSeek Harness `0.2.0-rc.2` 기준으로 맞췄습니다.
 
 ## 설치
 

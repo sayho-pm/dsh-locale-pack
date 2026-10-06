@@ -50,6 +50,9 @@ TONE = {
     "ur": "Urdu desktop app UI for developers",
     "he": "Hebrew desktop app UI for developers",
     "fa": "Persian desktop app UI for developers",
+    "pt": "European Portuguese (Portugal) desktop app UI for developers",
+    "sw": "Swahili desktop app UI for developers",
+    "yo": "Yorùbá desktop app UI for developers",
 }
 
 
@@ -71,7 +74,16 @@ HEADERS = {
 
 def read_tsv(lang, limit=None):
     rows = []
-    for line in open(os.path.join(TSV, f"{lang}.tsv"), encoding="utf-8"):
+    # 최신 버전 대조표를 읽는다. 이전 버전은 남아 있으므로 보존된다.
+    import re as _re
+    latest, highest = None, -1
+    for name in os.listdir(TSV) if os.path.isdir(TSV) else []:
+        m = _re.fullmatch(_re.escape(lang) + r"_v(\d+)\.tsv", name)
+        if m and int(m.group(1)) > highest:
+            highest, latest = int(m.group(1)), name
+    if latest is None:
+        latest = f"{lang}.tsv"  # 버저닝 이전 파일
+    for line in open(os.path.join(TSV, latest), encoding="utf-8"):
         if line.startswith("##") or not line.strip():
             continue
         parts = line.rstrip("\n").split("\t")
@@ -123,6 +135,22 @@ def score(answer):
     return None
 
 
+def versioned_path(out_dir: str, stem: str, ext: str) -> str:
+    """덮어쓰지 않고 다음 버전 파일 경로를 돌려준다.
+
+    같은 이름을 다시 쓰면 이전 채점 기록이 사라진다(2026-10-06 실측: 재검수
+    재시도가 원본 채점 파일을 지워 7,581줄이 날아갔다). 그래서 기존 파일을
+    절대 덮지 않고 번호를 하나 올린다: `<stem>_v1.<ext>`, `<stem>_v2.<ext>`, ...
+    """
+    import re as _re
+    highest = 0
+    for name in os.listdir(out_dir) if os.path.isdir(out_dir) else []:
+        m = _re.fullmatch(_re.escape(stem) + r"_v(\d+)\." + _re.escape(ext), name)
+        if m:
+            highest = max(highest, int(m.group(1)))
+    return os.path.join(out_dir, f"{stem}_v{highest + 1}.{ext}")
+
+
 def main():
     lang = sys.argv[1]
     limit = None
@@ -133,7 +161,8 @@ def main():
     rows = read_tsv(lang, limit)
     batches = [rows[i:i + BATCH] for i in range(0, len(rows), BATCH)]
     os.makedirs(OUT, exist_ok=True)
-    result_path = os.path.join(OUT, f"{lang}_결과.jsonl")
+    result_path = versioned_path(OUT, f"{lang}_결과", "jsonl")
+    assert not os.path.exists(result_path), f"덮어쓰기 차단: {result_path}"
     print(f"{lang}: {len(rows)}줄, {len(batches)}배치, 배치 크기 {BATCH}")
     done = 0
     with open(result_path, "w", encoding="utf-8") as fh:

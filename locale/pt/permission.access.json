@@ -1,0 +1,19 @@
+{
+  "auto.badge": "EXP",
+  "auto.confirm.acknowledge": "Compreendo estes riscos e quero continuar",
+  "auto.confirm.description": "A Revisão automática é executada sem ambiente isolado. Antes de cada chamada de ferramenta nativa e de cada chamada interna PTC, o mesmo modelo do agente actual revê se deve permitir a chamada; aprovas ou rejeitas cada chamada que ele recusar. Esta funcionalidade é experimental, pode permitir ou recusar acções de forma incorrecta e utiliza tokens adicionais.",
+  "auto.confirm.enable": "Activar Revisão automática",
+  "auto.confirm.title": "Activar Revisão automática (experimental)?",
+  "auto.description": "Executar sem ambiente isolado após uma revisão experimental pelo mesmo modelo de cada chamada de ferramenta nativa e de cada chamada interna PTC.",
+  "auto.label": "Revisão automática",
+  "close": "Fechar",
+  "confirm.acknowledge": "Compreendo os riscos e quero continuar",
+  "confirm.cancel": "Cancelar",
+  "confirm.description": "O Acesso total reduz os passos de confirmação e permite ao agente executar mais acções directamente, incluindo operações sensíveis, alterações de ficheiros ou comandos externos. Utiliza-o apenas quando confiares na tarefa actual.",
+  "confirm.enable": "Activar Acesso total",
+  "confirm.title": "Activar Acesso total?",
+  "mode": "Modo de acesso, actual: {name}",
+  "preset.fullAccess": "Acesso total",
+  "preset.readOnly": "Só de leitura",
+  "preset.workspaceWrite": "Escrita no espaço de trabalho"
+}

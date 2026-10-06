@@ -1,0 +1,16 @@
+{
+  "description": "Weka kikomo cha muda kila amri inaweza kuendeshwa na kiasi cha pato inaweza kutoa.",
+  "invalidNumber": "Weka nambari, au acha tupu ili kutumia chaguo msingi.",
+  "maxOutputBytes": "Kikomo cha pato kwa kila mkondo (baiti)",
+  "maxOutputBytesHint": "Pato linalozidi kikomo huhifadhiwa kwenye faili la muda badala ya kupotea.",
+  "overridden": "Imepinduliwa",
+  "readOnly": "Usambazaji huu huhifadhi mipangilio kwa njia ya kusoma tu.",
+  "reset": "Rudisha chaguo msingi",
+  "save": "Hifadhi",
+  "saveFailed": "Usambazaji haukukubali thamani hizi; zimeachwa ili uzisahihishe.",
+  "saving": "Inahifadhi…",
+  "timeoutMs": "Kikomo cha muda wa amri (ms)",
+  "timeoutMsHint": "Muda amri moja inaweza kuendeshwa kabla ya kusitishwa.",
+  "title": "Shell",
+  "unavailable": "Programu jalizi hii haijapakiwa, kwa hivyo haiwezi kusanidiwa kwa sasa."
+}

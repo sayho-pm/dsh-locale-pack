@@ -28,6 +28,8 @@
   "delete.desc": "Hiermee wordt “{name}” uit de werkruimtelijst verwijderd. De map en sessielogboeken blijven behouden. De sessies ervan verschijnen onder Ongegroepeerd.",
   "delete.pending": "Werkruimte verwijderen…",
   "delete.workspace": "Werkruimte verwijderen",
+  "draft.initializationFailed": "Het concept kon niet worden ingevuld. Probeer het binnenkort opnieuw.",
+  "draft.workspaceRequired": "Kies eerst een werkruimte.",
   "empty.noMatches": "Geen overeenkomsten",
   "empty.none": "Nog geen sessies",
   "empty.noneArchived": "Nog geen gearchiveerde sessies",

@@ -28,6 +28,7 @@
   "modelSignInRequired": "Mô hình không khả dụng. Vui lòng đăng nhập và thử lại.",
   "more": "Thêm",
   "nav": "Tài khoản",
+  "noResponse": "Đã xảy ra lỗi. Vui lòng kiểm tra kết nối mạng của bạn và thử lại.",
   "onboardingArtworkLocale": "en",
   "onboardingBack": "Quay lại",
   "onboardingBrand": "DeepSeek Harness",

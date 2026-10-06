@@ -2,6 +2,11 @@
   "brokenBadge": "Fehler beim Laden",
   "builtInGroup": "Integriert",
   "close": "Schließen",
+  "createPlugin": "Den Agenten ein Plugin erstellen lassen",
+  "createPluginChecking": "Prüfen, ob der Creator-Modus verfügbar ist",
+  "createPluginDescription": "Wechseln Sie in den Creator-Modus und erstellen Sie Ihr eigenes DSH-Plugin",
+  "createPluginMissing": "Der Creator-Modus ist in dieser Konfiguration nicht enthalten",
+  "createPluginUnavailable": "Vorübergehend nicht verfügbar. Öffnen Sie dieses Menü erneut, um es erneut zu versuchen",
   "creatorDraft": "Vom Agenten beim Erstellen eines Presets helfen lassen",
   "customGroup": "Benutzerdefiniert",
   "guideCopied": "Kopiert",
@@ -38,6 +43,7 @@
   "seatHint": "Wählen Sie die Agent-Voreinstellung für Ihre neue Aufgabe",
   "sectionIntro": "Wählen Sie die Tools des Agenten und seine Arbeitsweise. Verwenden Sie den Standardmodus für alltägliche Aufgaben oder den Erstellermodus, um DSH Funktionen hinzuzufügen.",
   "setDefault": "Als Standard für neue Aufgaben festlegen",
+  "standardUnavailable": "Standardmodus ist nicht verfügbar. Stellen Sie ihn wieder her oder wählen Sie einen anderen verfügbaren Modus.",
   "switchRefused": "Konnte nicht zu {name} wechseln: {reason}",
   "view": "Konfiguration anzeigen"
 }

@@ -1,0 +1,11 @@
+{
+  "failed": "PDF görüntülenemiyor: {message}",
+  "loading": "Belge oluşturuluyor...",
+  "pageImage": "PDF sayfası {page}",
+  "password": "Bu PDF bir parola gerektiriyor; parola korumalı önizlemeler desteklenmiyor.",
+  "rendering": "Sayfa oluşturuluyor…",
+  "retry": "Yeniden dene",
+  "title": "PDF",
+  "unsupported": "PDF önizlemesi dosyanın tüm içeriğini gerektirir.",
+  "workerFailed": "PDF oluşturma işlemi devam edemedi. Lütfen yeniden deneyin."
+}

@@ -1,0 +1,6 @@
+{
+  "band": "克勞德程式碼模組",
+  "press.failed": "按鈕失敗：{message}",
+  "press.stale": "該按鈕屬於較早嘅繪圖；組合已經更新",
+  "pressing": "處理中…"
+}

@@ -2,6 +2,11 @@
   "brokenBadge": "Laden mislukt",
   "builtInGroup": "Ingebouwd",
   "close": "Sluiten",
+  "createPlugin": "Laat de agent een plug-in maken",
+  "createPluginChecking": "Controleren of de Creatormodus beschikbaar is",
+  "createPluginDescription": "Ga naar de Creatormodus en maak je eigen DSH-plug-in",
+  "createPluginMissing": "Creatormodus is niet opgenomen in deze configuratie",
+  "createPluginUnavailable": "Tijdelijk niet beschikbaar. Open dit menu opnieuw om opnieuw te proberen",
   "creatorDraft": "Laat de agent me helpen een preset te maken",
   "customGroup": "Aangepast",
   "guideCopied": "Gekopieerd",
@@ -38,6 +43,7 @@
   "seatHint": "Kies de agentpreset voor je nieuwe taak",
   "sectionIntro": "Kies de tools van de agent en hoe deze werkt. Gebruik de Standaardmodus voor dagelijkse taken, of de Creatormodus om mogelijkheden toe te voegen aan DSH.",
   "setDefault": "Instellen als standaard voor nieuwe taken",
+  "standardUnavailable": "Standaardmodus is niet beschikbaar. Herstel deze of kies een andere beschikbare modus.",
   "switchRefused": "Kon niet overschakelen naar {name}: {reason}",
   "view": "Configuratie bekijken"
 }

@@ -64,6 +64,9 @@ LANGS = {
     "ur": {"name": "Urdu", "hint": "Urdu in Nastaliq/Arabic script"},
     "he": {"name": "Hebrew", "hint": "Hebrew in Hebrew script"},
     "fa": {"name": "Persian (Farsi)", "hint": "Modern Persian in Arabic script"},
+    "pt": {"name": "European Portuguese (Portugal)", "hint": "European Portuguese, not Brazilian. Prefer 2nd person (tu) or o senhor/a senhora; avoid Brazilian vocabulary and the heavy use of você. Spellings: acção, óptimo, contacto"},
+    "sw": {"name": "Swahili (Kiswahili)", "hint": "Standard Kiswahili as used in Tanzanian broadcasting. Latin script. Prefer Bantu vocabulary over Arabic or English loanwords where a common Kiswahili word exists"},
+    "yo": {"name": "Yorùbá", "hint": "Yorùbá in standard orthography. Every vowel carries its tone mark (à á e è é ẹ ẹ̀ ẹ́ i ì í o ò ó ọ ọ̀ ọ́ u ù ú) and the underdot letters ẹ ọ ṣ must appear where the word needs them. Never write plain e/o/s where ẹ/ọ/ṣ belongs"},
 }
 
 CJK_LANGS = {"ja", "zh-tw", "zh-hk"}
@@ -84,6 +87,8 @@ NATIVE = {
     "he": re.compile(r"[\u0590-\u05ff]"),
     "fa": re.compile(r"[\u0600-\u06ff]"),
     "bn": re.compile(r"[\u0980-\u09ff]"),
+    # 요루바어는 로마자를 쓰지만 ẹ ọ ṣ 밑점과 성조 표기가 반드시 들어간다.
+    "yo": re.compile(r"[ẹọṣẸỌṢàáèéìíòóùú]"),
 }
 
 CHAIN = [
@@ -95,7 +100,7 @@ CHAIN = [
     ("opencode-go", "https://opencode.ai/zen/go/v1/chat/completions", "OPENCODE_GO_3WK_API_KEY", "mimo-v2.6-pro", "chat"),
 ]
 
-BATCH = 25
+BATCH = 25  # --batch 로 바꿀 수 있다
 # OpenCode Go는 x-opencode-session 헤더가 없으면 라우팅을 거부한다(MissingSessionID).
 # 안정적인 값 하나를 써서 프롬프트 캐시를 타게 한다.
 SESSION_ID = "5f0d2c1a-7b3e-4c62-9a15-8d4b2f6e7c30"
@@ -352,15 +357,19 @@ def process_batch(lang_id: str, ns: str, batch: dict[str, str], log_entries: dic
 
 
 def main() -> int:
+    global BATCH
     ap = argparse.ArgumentParser()
     ap.add_argument("--langs", help="쉼표로 구분한 언어 id (예: ja,de)")
     ap.add_argument("--ns", help="네임스페이스 한 개만")
     ap.add_argument("--limit", type=int, help="언어당 배치 수 상한(시험용)")
     ap.add_argument("--all", action="store_true", help="대상 언어 전부")
     ap.add_argument("--workers", type=int, default=4)
+    ap.add_argument("--batch", type=int, help="배치 크기(기본 25). 여러 줄 값이 섞이면 줄여서 쓴다")
     args = ap.parse_args()
 
     load_env_keys()
+    if args.batch:
+        BATCH = args.batch
     if args.langs:
         lang_ids = [x.strip() for x in args.langs.split(",") if x.strip()]
     elif args.all:

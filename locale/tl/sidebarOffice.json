@@ -1,0 +1,17 @@
+{
+  "busy": "Abala ang preview ng Office. Subukang muli sa ilang sandali.",
+  "changed": "Nagbago ang file habang binabasa. Buksang muli ang preview.",
+  "closeDetails": "Isara ang mga detalye ng font",
+  "failed": "Hindi nakagawa ng magagamit na PDF ang conversion ng Office. Suriin ang file at subukang muli.",
+  "invalid": "Hindi ma-preview ang file na ito ng Office. Maaaring sira ito, protektado ng password, o may maling extension.",
+  "loading": "Nire-render ang dokumento...",
+  "missingFontsCount": "Mga font: {count}",
+  "missingFontsDescription": "Hindi available ang mga font na ito para sa preview na ito. Maaaring magkaiba ang teksto at layout sa orihinal na dokumento.",
+  "missingFontsTitle": "Nawawalang mga font",
+  "retry": "Subukang muli",
+  "timeout": "Nag-timeout ang conversion ng Office. Subukang muli.",
+  "title": "Dokumentong Office",
+  "tooLarge": "Lumampas sa limitasyon sa laki ng preview ang Office file o ang na-convert na PDF. Bawasan ang laki ng file o isaayos ang configuration ng preview.",
+  "unavailable": "Hindi available ang mga preview ng Office. Paganahin ang serbisyo ng preview ng dokumento sa computer na nagpapatakbo ng DeepSeek Harness.",
+  "viewMissingFonts": "Nawawalang mga font: {count}. I-click upang tingnan."
+}

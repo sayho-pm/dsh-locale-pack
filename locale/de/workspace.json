@@ -28,6 +28,8 @@
   "delete.desc": "Dadurch wird „{name}“ aus der Arbeitsbereichsliste entfernt. Der Ordner und die Sitzungsprotokolle bleiben erhalten. Seine Sitzungen werden unter Ungruppiert angezeigt.",
   "delete.pending": "Arbeitsbereich wird gelöscht…",
   "delete.workspace": "Arbeitsbereich löschen",
+  "draft.initializationFailed": "Der Entwurf konnte nicht ausgefüllt werden. Bitte versuchen Sie es in Kürze erneut.",
+  "draft.workspaceRequired": "Wählen Sie zuerst einen Arbeitsbereich.",
   "empty.noMatches": "Keine Treffer",
   "empty.none": "Noch keine Sitzungen",
   "empty.noneArchived": "Noch keine archivierten Sitzungen",

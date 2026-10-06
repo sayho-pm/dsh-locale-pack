@@ -1,0 +1,17 @@
+{
+  "busy": "Àfihàn ọ́fíìsì ń ṣiṣẹ́ lọ́wọ́. Tún gbìyànjú lọ́wọ́ díẹ̀.",
+  "changed": "Fáìlì náà yípadà nígbà tí ń kà á. Tún àfihàn ṣí.",
+  "closeDetails": "Ti àlàyé fóòntì",
+  "failed": "Ìyípadà ọ́fíìsì kò mú PDF tí ó ṣeé lò jáde. Ṣàyẹ̀wò fáìlì náà kí o sì tún gbìyànjú.",
+  "invalid": "Fáìlì ọ́fíìsì yìí kò lè ṣe àfihàn. Ó lè bàjẹ́, ó lè ní ọ̀rọ̀ìpàmọ́, tàbí ó ní ìtẹ̀síwájú fáìlì tí kò tọ́.",
+  "loading": "Ń ṣe ìfihàn ìwé...",
+  "missingFontsCount": "Fóòntì: {count}",
+  "missingFontsDescription": "Àwọn fóòntì wọ̀nyí kò sí fún àfihàn yìí. Ọ̀rọ̀ àti ìṣètò ojú ìwé lè yàtọ̀ sí ìwé àtilẹ̀wá.",
+  "missingFontsTitle": "Àwọn fóòntì tí ó sọnù",
+  "retry": "Tún gbìyànjú",
+  "timeout": "Ìyípadà ọ́fíìsì kọjá àkókò. Tún gbìyànjú.",
+  "title": "Ìwé ọ́fíìsì",
+  "tooLarge": "Fáìlì ọ́fíìsì tàbí PDF tí wọ́n yípadà kọjá ààlà ìwọ̀n àfihàn. Dín ìwọ̀n fáìlì kù tàbí ṣe àtúnṣe ìṣètò àfihàn.",
+  "unavailable": "Àwọn àfihàn ọ́fíìsì kò sí. Jọ̀wọ́ mú iṣẹ́ àfihàn ìwé ṣiṣẹ́ lórí kọ̀mpútà tí ń ṣiṣẹ́ DeepSeek Harness.",
+  "viewMissingFonts": "Àwọn fóòntì tí ó sọnù: {count}. Tẹ láti wo."
+}

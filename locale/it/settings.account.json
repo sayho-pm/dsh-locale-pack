@@ -28,6 +28,7 @@
   "modelSignInRequired": "Modello non disponibile. Accedi e riprova.",
   "more": "Altro",
   "nav": "Account",
+  "noResponse": "Qualcosa è andato storto. Controlla la connessione di rete e riprova.",
   "onboardingArtworkLocale": "en",
   "onboardingBack": "Indietro",
   "onboardingBrand": "DeepSeek Harness",

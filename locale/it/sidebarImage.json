@@ -1,0 +1,7 @@
+{
+  "failed": "Questa immagine non può essere visualizzata.",
+  "loading": "Visualizzazione del documento in corso...",
+  "preview": "Anteprima immagine: {name}",
+  "title": "Immagine",
+  "unsupported": "L'anteprima dell'immagine richiede il contenuto completo del file."
+}

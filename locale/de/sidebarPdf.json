@@ -1,0 +1,11 @@
+{
+  "failed": "PDF kann nicht angezeigt werden: {message}",
+  "loading": "Dokument wird gerendert...",
+  "pageImage": "PDF-Seite {page}",
+  "password": "Dieses PDF erfordert ein Passwort; passwortgeschützte Vorschauen werden nicht unterstützt.",
+  "rendering": "Seite wird gerendert…",
+  "retry": "Wiederholen",
+  "title": "PDF",
+  "unsupported": "PDF-Vorschau erfordert den vollständigen Dateiinhalt.",
+  "workerFailed": "Der PDF-Renderprozess konnte nicht fortgesetzt werden. Bitte erneut versuchen."
+}

@@ -28,6 +28,8 @@
   "delete.desc": "Thao tác này sẽ xóa “{name}” khỏi danh sách không gian làm việc. Thư mục và nhật ký phiên sẽ được giữ lại. Các phiên của nó sẽ hiển thị trong mục Chưa phân nhóm.",
   "delete.pending": "Đang xóa không gian làm việc…",
   "delete.workspace": "Xóa không gian làm việc",
+  "draft.initializationFailed": "Không thể tạo bản nháp. Vui lòng thử lại sau.",
+  "draft.workspaceRequired": "Chọn không gian làm việc trước.",
   "empty.noMatches": "Không có kết quả phù hợp",
   "empty.none": "Chưa có phiên nào",
   "empty.noneArchived": "Chưa có phiên đã lưu trữ nào",

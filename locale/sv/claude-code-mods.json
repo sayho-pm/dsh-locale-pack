@@ -1,0 +1,6 @@
+{
+  "band": "Claude Code moddar",
+  "press.failed": "Knappen misslyckades: {message}",
+  "press.stale": "Den knappen tillhörde en tidigare dragning; bandet har uppdaterats",
+  "pressing": "Arbetar…"
+}

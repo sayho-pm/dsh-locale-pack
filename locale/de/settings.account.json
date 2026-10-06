@@ -28,6 +28,7 @@
   "modelSignInRequired": "Modell nicht verfügbar. Bitte melden Sie sich an und versuchen Sie es erneut.",
   "more": "Mehr",
   "nav": "Konto",
+  "noResponse": "Etwas ist schiefgelaufen. Bitte überprüfen Sie Ihre Netzwerkverbindung und versuchen Sie es erneut.",
   "onboardingArtworkLocale": "en",
   "onboardingBack": "Zurück",
   "onboardingBrand": "DeepSeek Harness",

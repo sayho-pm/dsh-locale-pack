@@ -1,0 +1,6 @@
+{
+  "band": "Claude Code modları",
+  "press.failed": "Düğme başarısız oldu: {message}",
+  "press.stale": "Bu düğme daha önceki bir çizime aitti; bant yenilendi",
+  "pressing": "Çalışıyor…"
+}

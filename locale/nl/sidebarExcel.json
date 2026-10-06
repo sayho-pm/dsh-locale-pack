@@ -1,0 +1,17 @@
+{
+  "charts": "diagrammen",
+  "conditionalFormatting": "voorwaardelijke opmaak",
+  "encoding": "Deze tekstcodering kon niet worden gelezen. Sla het bestand op als UTF-8 of UTF-16 met een BOM en probeer het opnieuw.",
+  "featureSeparator": ", ",
+  "formulaWarning": "Deze werkmap bevat formules. Weergegeven resultaten kunnen ontbreken of onnauwkeurig zijn.",
+  "images": "afbeeldingen",
+  "invalid": "Dit rekenblad kon niet worden geopend. Controleer het formaat, de inhoud of de wachtwoordbeveiliging.",
+  "language": "en",
+  "loading": "Document wordt weergegeven...",
+  "retry": "Opnieuw proberen",
+  "shapes": "vormen",
+  "timeout": "Het openen van deze werkmap duurde te lang. Probeer een kleiner bestand.",
+  "title": "Rekenblad",
+  "tooLarge": "Deze werkmap overschrijdt de limiet voor de voorbeeldgrootte.",
+  "unsupportedNotice": "Dit voorbeeld ondersteunt {features} in deze werkmap niet. Open het in een systeemtoepassing voor de volledige ervaring."
+}

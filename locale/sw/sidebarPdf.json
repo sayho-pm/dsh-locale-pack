@@ -1,0 +1,11 @@
+{
+  "failed": "Imeshindwa kuonyesha PDF: {message}",
+  "loading": "Inachora hati...",
+  "pageImage": "Ukurasa {page} wa PDF",
+  "password": "PDF hii inahitaji nenosiri; mionekano ya awali yenye nenosiri haitumiki.",
+  "rendering": "Inachora ukurasa...",
+  "retry": "Jaribu tena",
+  "title": "PDF",
+  "unsupported": "Mwonekano awali wa PDF unahitaji maudhui kamili ya faili.",
+  "workerFailed": "Mchakato wa kuchora PDF hauwezi kuendelea. Tafadhali jaribu tena."
+}

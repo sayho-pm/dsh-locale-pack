@@ -1,0 +1,17 @@
+{
+  "charts": "diagram",
+  "conditionalFormatting": "villkorsstyrd formatering",
+  "encoding": "Den här textkodningen kunde inte läsas. Spara filen som UTF-8 eller UTF-16 med BOM och försök igen.",
+  "featureSeparator": ", ",
+  "formulaWarning": "Den här arbetsboken innehåller formler. Visade resultat kan saknas eller vara felaktiga.",
+  "images": "bilder",
+  "invalid": "Det här kalkylarket kunde inte öppnas. Kontrollera format, innehåll eller lösenordsskydd.",
+  "language": "en",
+  "loading": "Renderar dokument...",
+  "retry": "Försök igen",
+  "shapes": "former",
+  "timeout": "Det tog för lång tid att öppna den här arbetsboken. Prova med en mindre fil.",
+  "title": "Kalkylark",
+  "tooLarge": "Den här arbetsboken överskrider storleksgränsen för förhandsvisning.",
+  "unsupportedNotice": "Den här förhandsvisningen stöder inte {features} i den här arbetsboken. Öppna den i ett systemprogram för fullständig upplevelse."
+}

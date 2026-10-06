@@ -1,0 +1,17 @@
+{
+  "charts": "chati",
+  "conditionalFormatting": "uumbizaji wa masharti",
+  "encoding": "Usimbaji huu wa maandishi haukuweza kusomwa. Hifadhi faili kama UTF-8 au UTF-16 yenye BOM kisha ujaribu tena.",
+  "featureSeparator": ", ",
+  "formulaWarning": "Kitabu hiki cha kazi kina fomula. Matokeo yanayoonyeshwa yanaweza kukosekana au yasiwe sahihi.",
+  "images": "picha",
+  "invalid": "Lahajedwali hii haikuweza kufunguliwa. Angalia muundo wake, yaliyomo, au ulinzi wa nenosiri.",
+  "language": "en",
+  "loading": "Inaonyesha hati...",
+  "retry": "Jaribu tena",
+  "shapes": "maumbo",
+  "timeout": "Ufunguaji wa kitabu hiki cha kazi umechelewa. Jaribu faili ndogo zaidi.",
+  "title": "Lahajedwali",
+  "tooLarge": "Kitabu hiki cha kazi kimezidi kikomo cha ukubwa wa onyesho la awali.",
+  "unsupportedNotice": "Onyesho hili la awali halitumii {features} katika kitabu hiki cha kazi. Kifungue katika programu ya mfumo kwa uzoefu kamili."
+}

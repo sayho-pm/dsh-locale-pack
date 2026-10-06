@@ -1,0 +1,12 @@
+{
+  "dialog.close": "Funga",
+  "dialog.commandFailed": "Imeshindwa kuanzisha uhamishaji wa Kipindi.",
+  "dialog.errorTitle": "Uhamishaji wa Kipindi umeshindwa",
+  "dialog.preparingDescription": "Inaandaa ZIP yenye Kipindi hiki, Vipindi vidogo vyake, na viambatisho.",
+  "dialog.preparingTitle": "Inahamisha Kipindi",
+  "dialog.successDescription": "Kivinjari kinapakua ZIP ya Kipindi.",
+  "dialog.successTitle": "Upakuaji wa Kipindi umeanza",
+  "header.more": "Vitendo zaidi",
+  "menu.download": "Pakua kumbukumbu ya kipindi",
+  "menu.feedback": "Maoni"
+}

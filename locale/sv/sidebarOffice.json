@@ -1,0 +1,17 @@
+{
+  "busy": "Office-förhandsvisningen är upptagen. Försök igen snart.",
+  "changed": "Filen ändrades medan den lästes. Öppna förhandsvisningen igen.",
+  "closeDetails": "Stäng teckensnittsdetaljer",
+  "failed": "Office-konverteringen gav ingen användbar PDF. Kontrollera filen och försök igen.",
+  "invalid": "Den här Office-filen kan inte förhandsvisas. Den kan vara skadad, lösenordsskyddad eller ha fel filändelse.",
+  "loading": "Renderar dokument...",
+  "missingFontsCount": "Teckensnitt: {count}",
+  "missingFontsDescription": "Dessa teckensnitt är inte tillgängliga för den här förhandsvisningen. Text och layout kan skilja sig från originaldokumentet.",
+  "missingFontsTitle": "Saknade teckensnitt",
+  "retry": "Försök igen",
+  "timeout": "Office-konverteringen tog för lång tid. Försök igen.",
+  "title": "Office-dokument",
+  "tooLarge": "Office-filen eller den konverterade PDF-filen överskrider storleksgränsen för förhandsvisning. Minska filstorleken eller justera förhandsvisningskonfigurationen.",
+  "unavailable": "Office-förhandsvisningar är inte tillgängliga. Aktivera dokumentförhandsvisningstjänsten på datorn som kör DeepSeek Harness.",
+  "viewMissingFonts": "Saknade teckensnitt: {count}. Klicka för att visa."
+}

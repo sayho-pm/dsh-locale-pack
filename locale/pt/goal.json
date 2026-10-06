@@ -1,0 +1,14 @@
+{
+  "action.cancel": "Cancelar edição",
+  "action.clear": "Limpar meta",
+  "action.edit": "Editar meta",
+  "action.pause": "Pausar meta",
+  "action.resume": "Retomar meta",
+  "action.save": "Guardar meta",
+  "commandInput.aria": "Entrada de comando",
+  "objective.aria": "Objectivo da meta",
+  "phase.active": "Meta em curso",
+  "phase.active.disarmed": "Meta inactiva",
+  "phase.blocked": "Meta bloqueada",
+  "phase.paused": "Meta pausada"
+}

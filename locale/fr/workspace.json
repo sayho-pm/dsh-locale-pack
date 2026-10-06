@@ -28,6 +28,8 @@
   "delete.desc": "Cela retire « {name} » de la liste des espaces de travail. Le dossier et les journaux de session seront conservés. Ses sessions apparaîtront sous Non groupées.",
   "delete.pending": "Suppression de l’espace de travail…",
   "delete.workspace": "Supprimer l’espace de travail",
+  "draft.initializationFailed": "Le brouillon n'a pas pu être rempli. Veuillez réessayer dans un instant.",
+  "draft.workspaceRequired": "Choisissez d'abord un espace de travail.",
   "empty.noMatches": "Aucune correspondance",
   "empty.none": "Aucune session pour le moment",
   "empty.noneArchived": "Aucune session archivée pour le moment",

@@ -1,0 +1,17 @@
+{
+  "charts": "bagan",
+  "conditionalFormatting": "pemformatan bersyarat",
+  "encoding": "Pengodean teks ini tidak dapat dibaca. Simpan file sebagai UTF-8 atau UTF-16 dengan BOM dan coba lagi.",
+  "featureSeparator": ", ",
+  "formulaWarning": "Buku kerja ini berisi rumus. Hasil yang ditampilkan mungkin hilang atau tidak akurat.",
+  "images": "gambar",
+  "invalid": "Lembar bentang ini tidak dapat dibuka. Periksa format, isi, atau proteksi kata sandinya.",
+  "language": "en",
+  "loading": "Merender dokumen...",
+  "retry": "Coba lagi",
+  "shapes": "bentuk",
+  "timeout": "Pembukaan buku kerja ini kehabisan waktu. Coba file yang lebih kecil.",
+  "title": "Lembar Bentang",
+  "tooLarge": "Buku kerja ini melebihi batas ukuran pratinjau.",
+  "unsupportedNotice": "Pratinjau ini tidak mendukung {features} dalam buku kerja ini. Buka di aplikasi sistem untuk pengalaman lengkap."
+}

@@ -28,6 +28,7 @@
   "modelSignInRequired": "Model kullanılamıyor. Lütfen giriş yapın ve tekrar deneyin.",
   "more": "Daha fazla",
   "nav": "Hesap",
+  "noResponse": "Bir şeyler yanlış gitti. Lütfen ağ bağlantınızı kontrol edip tekrar deneyin.",
   "onboardingArtworkLocale": "en",
   "onboardingBack": "Geri",
   "onboardingBrand": "DeepSeek Harness",

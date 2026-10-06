@@ -1,0 +1,14 @@
+{
+  "confirm.acknowledge": "Mò lóyé èwú náà, mò sì fẹ́ látì tẹ̀síwájú",
+  "confirm.cancel": "Fágilé",
+  "confirm.description": "Ìwọ̀lé kíkún jẹ́ kí àwọ́n ìpàdé tútùn dín ìjẹ́rìísí kù, kí ó sì ṣé ọ̀pọ̀lọ́pọ̀ ìgbésẹ̀ tààrà, títí bí ìṣẹ́ àṣírí, àyípàdà fáìlì, tàbí àwọ́n àṣẹ̀ ìtà. Lò ó nìkàn nígbà tí ọ́ bá gbẹ́kẹ̀lé àwọ́n ìṣẹ́ tó ń bọ̀.",
+  "confirm.enable": "Mú Ìwọ̀lé kíkún ṣiṣẹ́",
+  "confirm.title": "Mú Ìwọ̀lé kíkún ṣiṣẹ́?",
+  "description": "Yàn ìpò àṣẹ́ àìyípàdà fún àwọ́n ìpàdé tútùn",
+  "loading": "Ń lọ́wọ́",
+  "preset.fullAccess": "Ìwọ̀lé kíkún",
+  "preset.readOnly": "Ka nìkàn",
+  "preset.workspaceWrite": "Àyè ìṣẹ́ ìkọ̀wé",
+  "title": "Àṣẹ̀",
+  "unavailable": "Kò wà níbẹ̀"
+}

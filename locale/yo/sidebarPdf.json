@@ -1,0 +1,11 @@
+{
+  "failed": "Á kò lè ṣè àfìhàn PDF: {message}",
+  "loading": "Á ń ṣé ìwé náà fún ìfàràhàn...",
+  "pageImage": "PDF òjú ìwé {page}",
+  "password": "PDF yìí nílò ọ̀rọ̀ ìpámọ́; á kò ṣè àtìlẹ́yìn fún àwòrán kíákíá tí ó ní ọ̀rọ̀ ìpámọ́.",
+  "rendering": "Á ń ṣé òjú ìwé náà fún ìfàràhàn…",
+  "retry": "Tún gbìyànjú",
+  "title": "PDF",
+  "unsupported": "Àwòrán kíákíá PDF nílò gbògbó àkóónú fáìlì náà.",
+  "workerFailed": "Ìlànà ṣíṣé àwòrán PDF kò lè tẹ̀síwájú. Jọ̀wọ́ gbìyànjú lẹ́ẹ̀kán síí."
+}

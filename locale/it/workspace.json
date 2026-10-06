@@ -28,6 +28,8 @@
   "delete.desc": "Rimuove “{name}” dall'elenco delle aree di lavoro. La cartella e i registri delle sessioni verranno conservati. Le relative sessioni verranno visualizzate in Non raggruppate.",
   "delete.pending": "Eliminazione area di lavoro in corso…",
   "delete.workspace": "Elimina area di lavoro",
+  "draft.initializationFailed": "Impossibile compilare la bozza. Riprova a breve.",
+  "draft.workspaceRequired": "Scegli prima un'area di lavoro.",
   "empty.noMatches": "Nessuna corrispondenza",
   "empty.none": "Ancora nessuna sessione",
   "empty.noneArchived": "Ancora nessuna sessione archiviata",

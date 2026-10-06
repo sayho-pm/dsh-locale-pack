@@ -1,0 +1,17 @@
+{
+  "charts": "grafikler",
+  "conditionalFormatting": "koşullu biçimlendirme",
+  "encoding": "Bu metin kodlaması okunamadı. Dosyayı UTF-8 veya UTF-16 olarak BOM ile kaydedip yeniden deneyin.",
+  "featureSeparator": ", ",
+  "formulaWarning": "Bu çalışma kitabı formüller içeriyor. Görüntülenen sonuçlar eksik veya hatalı olabilir.",
+  "images": "görüntüler",
+  "invalid": "Bu hesap tablosu açılamadı. Biçimini, içeriğini veya parola korumasını denetleyin.",
+  "language": "en",
+  "loading": "Belge oluşturuluyor...",
+  "retry": "Yeniden Dene",
+  "shapes": "şekiller",
+  "timeout": "Bu çalışma kitabının açılması zaman aşımına uğradı. Daha küçük bir dosya deneyin.",
+  "title": "Hesap Tablosu",
+  "tooLarge": "Bu çalışma kitabı önizleme boyutu sınırını aşıyor.",
+  "unsupportedNotice": "Bu önizleme, bu çalışma kitabındaki {features} desteklemiyor. Tam deneyim için bir sistem uygulamasında açın."
+}

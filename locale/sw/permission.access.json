@@ -1,0 +1,19 @@
+{
+  "auto.badge": "EXP",
+  "auto.confirm.acknowledge": "Ninaelewa hatari hizi na ninataka kuendelea",
+  "auto.confirm.description": "Mapitio ya kiotomatiki huendeshwa bila mazingira ya majaribio. Kabla ya kila wito wa zana asilia na wito wa ndani wa PTC, muundo ule ule kama wa wakala wa sasa hupitia iwapo uiruhusiwe; unaidhinisha au unakataa kila wito unaokataliwa. Kipengele hiki ni cha majaribio, kinaweza kuruhusu au kukataa vitendo kimakosa, na kinatumia tokeni za ziada.",
+  "auto.confirm.enable": "Wezesha Mapitio ya kiotomatiki",
+  "auto.confirm.title": "Wezesha Mapitio ya kiotomatiki (ya majaribio)?",
+  "auto.description": "Endesha bila sandbox baada ya mapitio ya majaribio ya modeli ile ile kwa kila wito wa zana asilia na wito wa ndani wa PTC.",
+  "auto.label": "Mapitio ya kiotomatiki",
+  "close": "Funga",
+  "confirm.acknowledge": "Ninaelewa hatari na ninataka kuendelea",
+  "confirm.cancel": "Sitisha",
+  "confirm.description": "Ufikiaji kamili hupunguza hatua za uthibitisho na humruhusu wakala kufanya vitendo zaidi moja kwa moja, ikiwa ni pamoja na shughuli nyeti, mabadiliko ya faili, au amri za nje. Itumie tu unapoiamini kazi ya sasa.",
+  "confirm.enable": "Wezesha Ufikiaji kamili",
+  "confirm.title": "Wezesha Ufikiaji kamili?",
+  "mode": "Hali ya ufikiaji, ya sasa: {name}",
+  "preset.fullAccess": "Ufikiaji kamili",
+  "preset.readOnly": "Kusoma tu",
+  "preset.workspaceWrite": "Kuandika katika eneo la kazi"
+}

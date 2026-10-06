@@ -1,0 +1,6 @@
+{
+  "band": "Modifikasi Claude Code",
+  "press.failed": "Tombol gagal: {message}",
+  "press.stale": "Tombol tersebut milik gambar sebelumnya; band telah diperbarui",
+  "pressing": "Bekerja…"
+}

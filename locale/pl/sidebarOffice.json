@@ -1,0 +1,17 @@
+{
+  "busy": "Podgląd Office jest zajęty. Spróbuj ponownie za chwilę.",
+  "changed": "Plik zmienił się podczas odczytu. Otwórz ponownie podgląd.",
+  "closeDetails": "Zamknij szczegóły czcionek",
+  "failed": "Konwersja Office nie utworzyła użytecznego pliku PDF. Sprawdź plik i spróbuj ponownie.",
+  "invalid": "Nie można wyświetlić podglądu tego pliku Office. Może być uszkodzony, chroniony hasłem lub mieć nieprawidłowe rozszerzenie.",
+  "loading": "Renderowanie dokumentu...",
+  "missingFontsCount": "Czcionki: {count}",
+  "missingFontsDescription": "Te czcionki są niedostępne w tym podglądzie. Tekst i układ mogą różnić się od oryginalnego dokumentu.",
+  "missingFontsTitle": "Brakujące czcionki",
+  "retry": "Ponów próbę",
+  "timeout": "Przekroczono limit czasu konwersji Office. Spróbuj ponownie.",
+  "title": "Dokument Office",
+  "tooLarge": "Plik Office lub przekonwertowany PDF przekracza limit rozmiaru podglądu. Zmniejsz rozmiar pliku lub dostosuj konfigurację podglądu.",
+  "unavailable": "Podglądy Office są niedostępne. Włącz usługę podglądu dokumentów na komputerze, na którym działa DeepSeek Harness.",
+  "viewMissingFonts": "Brakujące czcionki: {count}. Kliknij, aby wyświetlić."
+}

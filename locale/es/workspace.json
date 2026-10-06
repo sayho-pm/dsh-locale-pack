@@ -28,6 +28,8 @@
   "delete.desc": "Esto elimina “{name}” de la lista de espacios de trabajo. La carpeta y los registros de sesiones se conservarán. Sus sesiones aparecerán en Sin agrupar.",
   "delete.pending": "Eliminando espacio de trabajo…",
   "delete.workspace": "Eliminar espacio de trabajo",
+  "draft.initializationFailed": "No se pudo completar el borrador. Inténtalo de nuevo en breve.",
+  "draft.workspaceRequired": "Selecciona un espacio de trabajo primero.",
   "empty.noMatches": "Sin coincidencias",
   "empty.none": "Aún no hay sesiones",
   "empty.noneArchived": "Aún no hay sesiones archivadas",

@@ -1,0 +1,11 @@
+{
+  "failed": "Nu se poate afișa PDF: {message}",
+  "loading": "Se randează documentul...",
+  "pageImage": "Pagină PDF {page}",
+  "password": "Acest PDF necesită o parolă; previzualizările protejate prin parolă nu sunt acceptate.",
+  "rendering": "Se randează pagina…",
+  "retry": "Reîncercare",
+  "title": "PDF",
+  "unsupported": "Previzualizarea PDF necesită conținutul complet al fișierului.",
+  "workerFailed": "Procesul de randare PDF nu a putut continua. Vă rugăm să reîncercați."
+}

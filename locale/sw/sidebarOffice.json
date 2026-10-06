@@ -1,0 +1,17 @@
+{
+  "busy": "Onyesho la awali la ofisi lina shughuli. Jaribu tena hivi punde.",
+  "changed": "Faili imebadilika wakati inasomwa. Fungua tena onyesho la awali.",
+  "closeDetails": "Funga maelezo ya fonti",
+  "failed": "Ugeuzaji wa ofisi haukutoa PDF inayoweza kutumika. Angalia faili na ujaribu tena.",
+  "invalid": "Faili hii ya ofisi haiwezi kuonyeshwa awali. Inaweza kuharibika, kulindwa kwa nywila, au kuwa na kiendelezi kisicho sahihi.",
+  "loading": "Inachakata hati...",
+  "missingFontsCount": "Fonti: {count}",
+  "missingFontsDescription": "Fonti hizi hazipatikani kwa onyesho hili la awali. Maandishi na mpangilio yanaweza kutofautiana na hati asili.",
+  "missingFontsTitle": "Fonti zinazokosekana",
+  "retry": "Jaribu tena",
+  "timeout": "Ugeuzaji wa ofisi umeisha muda. Jaribu tena.",
+  "title": "Hati ya ofisi",
+  "tooLarge": "Faili ya ofisi au PDF iliyogeuzwa imezidi kikomo cha ukubwa wa onyesho la awali. Punguza ukubwa wa faili au rekebisha usanidi wa onyesho la awali.",
+  "unavailable": "Maonyesho ya awali ya ofisi hayapatikani. Washa huduma ya kuonyesha hati awali kwenye tarakilishi inayoendesha DeepSeek Harness.",
+  "viewMissingFonts": "Fonti zinazokosekana: {count}. Bofya ili kutazama."
+}

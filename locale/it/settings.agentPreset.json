@@ -2,6 +2,11 @@
   "brokenBadge": "Caricamento non riuscito",
   "builtInGroup": "Integrato",
   "close": "Chiudi",
+  "createPlugin": "Consenti all'agente di creare un plugin",
+  "createPluginChecking": "Verifica se la modalità Creator è disponibile",
+  "createPluginDescription": "Accedi alla modalità Creator e crea il tuo plugin DSH",
+  "createPluginMissing": "La modalità Creator non è inclusa in questa configurazione",
+  "createPluginUnavailable": "Temporaneamente non disponibile. Riapri questo menu per riprovare",
   "creatorDraft": "Lascia che l'agente mi aiuti a creare una preimpostazione",
   "customGroup": "Personalizzato",
   "guideCopied": "Copiato",
@@ -38,6 +43,7 @@
   "seatHint": "Scegli il preset agente per la nuova attività",
   "sectionIntro": "Scegli gli strumenti dell'agente e come funziona. Usa la modalità Standard per le attività quotidiane o la modalità Creator per aggiungere funzionalità a DSH.",
   "setDefault": "Imposta come predefinito per le nuove attività",
+  "standardUnavailable": "La modalità standard non è disponibile. Ripristinala o scegli un'altra modalità disponibile.",
   "switchRefused": "Impossibile passare a {name}: {reason}",
   "view": "Visualizza configurazione"
 }

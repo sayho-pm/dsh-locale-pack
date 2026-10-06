@@ -2,6 +2,11 @@
   "brokenBadge": "Det gick inte att läsa in",
   "builtInGroup": "Inbyggd",
   "close": "Stäng",
+  "createPlugin": "Låt agenten skapa ett plugin",
+  "createPluginChecking": "Kontrollerar om skaparläget är tillgängligt",
+  "createPluginDescription": "Öppna skaparläget och skapa ditt eget DSH plugin",
+  "createPluginMissing": "Skaparläget ingår inte i den här konfigurationen",
+  "createPluginUnavailable": "Tillfälligt otillgängligt. Öppna menyn igen för att försöka igen",
   "creatorDraft": "Låt agenten hjälpa mig att skapa en förinställning",
   "customGroup": "Anpassad",
   "guideCopied": "Kopierat",
@@ -38,6 +43,7 @@
   "seatHint": "Välj agentförinställning för din nya uppgift",
   "sectionIntro": "Välj agentens verktyg och hur den arbetar. Använd Standardläge för vardagliga uppgifter, eller Skaparläge för att lägga till funktioner i DSH.",
   "setDefault": "Ange som standard för nya uppgifter",
+  "standardUnavailable": "Standardläget är inte tillgängligt. Återställ det eller välj ett annat tillgängligt läge.",
   "switchRefused": "Kunde inte växla till {name}: {reason}",
   "view": "Visa konfiguration"
 }

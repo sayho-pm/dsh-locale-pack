@@ -2,6 +2,11 @@
   "brokenBadge": "Falha ao carregar",
   "builtInGroup": "Integrado",
   "close": "Fechar",
+  "createPlugin": "Deixar o agente criar um plugin",
+  "createPluginChecking": "Verificando se o modo Criador está disponível",
+  "createPluginDescription": "Entre no modo Criador e crie seu próprio plugin DSH",
+  "createPluginMissing": "O modo Criador não está incluído nesta configuração",
+  "createPluginUnavailable": "Temporariamente indisponível. Reabra este menu para tentar novamente",
   "creatorDraft": "Deixar o agente me ajudar a criar uma predefinição",
   "customGroup": "Personalizado",
   "guideCopied": "Copiado",
@@ -38,6 +43,7 @@
   "seatHint": "Escolha o preset de agente para sua nova tarefa",
   "sectionIntro": "Escolha as ferramentas do agente e como ele funciona. Use o modo Standard para tarefas do dia a dia, ou o modo Creator para adicionar recursos ao DSH.",
   "setDefault": "Definir como padrão para novas tarefas",
+  "standardUnavailable": "O modo padrão está indisponível. Restaure-o ou escolha outro modo disponível.",
   "switchRefused": "Não foi possível alternar para {name}: {reason}",
   "view": "Ver configuração"
 }

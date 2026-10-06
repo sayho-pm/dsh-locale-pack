@@ -1,0 +1,11 @@
+{
+  "failed": "Não é possível exibir o PDF: {message}",
+  "loading": "Renderizando documento...",
+  "pageImage": "Página PDF {page}",
+  "password": "Este PDF requer uma senha; visualizações protegidas por senha não são suportadas.",
+  "rendering": "Renderizando página…",
+  "retry": "Tentar novamente",
+  "title": "PDF",
+  "unsupported": "A visualização do PDF requer o conteúdo completo do arquivo.",
+  "workerFailed": "O processo de renderização do PDF não pôde continuar. Tente novamente."
+}

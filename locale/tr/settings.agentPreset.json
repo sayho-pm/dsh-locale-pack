@@ -2,6 +2,11 @@
   "brokenBadge": "Yüklenemedi",
   "builtInGroup": "Yerleşik",
   "close": "Kapat",
+  "createPlugin": "Ajanın bir eklenti oluşturmasına izin ver",
+  "createPluginChecking": "Oluşturucu modunun kullanılabilir olup olmadığı kontrol ediliyor",
+  "createPluginDescription": "Oluşturucu moduna girin ve kendi DSH eklentinizi oluşturun",
+  "createPluginMissing": "Oluşturucu modu bu yapılandırmaya dahil değil",
+  "createPluginUnavailable": "Geçici olarak kullanılamıyor. Yeniden denemek için bu menüyü yeniden açın",
   "creatorDraft": "Bir ön ayar oluşturmak için ajandan yardım al",
   "customGroup": "Özel",
   "guideCopied": "Kopyalandı",
@@ -38,6 +43,7 @@
   "seatHint": "Yeni göreviniz için ajan hazır ayarını seçin",
   "sectionIntro": "Ajanın araçlarını ve nasıl çalıştığını seçin. Günlük görevler için Standart modu, DSH uygulamasına yetenek eklemek için Oluşturucu modunu kullanın.",
   "setDefault": "Yeni görev varsayılanı olarak ayarla",
+  "standardUnavailable": "Standart mod kullanılamıyor. Geri yükleyin veya başka bir kullanılabilir mod seçin.",
   "switchRefused": "{name} öğesine geçilemedi: {reason}",
   "view": "Yapılandırmayı görüntüle"
 }

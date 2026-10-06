@@ -1,0 +1,7 @@
+{
+  "failed": "Dieses Bild konnte nicht angezeigt werden.",
+  "loading": "Dokument wird gerendert...",
+  "preview": "Bildvorschau: {name}",
+  "title": "Bild",
+  "unsupported": "Die Bildvorschau erfordert den vollständigen Dateiinhalt."
+}

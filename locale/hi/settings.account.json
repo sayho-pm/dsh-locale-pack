@@ -28,6 +28,7 @@
   "modelSignInRequired": "मॉडल उपलब्ध नहीं है। कृपया साइन इन करें और पुनः प्रयास करें।",
   "more": "अधिक",
   "nav": "खाता",
+  "noResponse": "कुछ गलत हो गया। कृपया अपना नेटवर्क कनेक्शन जांचें और पुनः प्रयास करें।",
   "onboardingArtworkLocale": "en",
   "onboardingBack": "वापस",
   "onboardingBrand": "DeepSeek Harness",

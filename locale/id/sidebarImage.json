@@ -1,0 +1,7 @@
+{
+  "failed": "Gambar ini tidak dapat ditampilkan.",
+  "loading": "Merender dokumen...",
+  "preview": "Pratinjau gambar: {name}",
+  "title": "Gambar",
+  "unsupported": "Pratinjau gambar memerlukan isi file yang lengkap."
+}

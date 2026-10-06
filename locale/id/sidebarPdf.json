@@ -1,0 +1,11 @@
+{
+  "failed": "Tidak dapat menampilkan PDF: {message}",
+  "loading": "Merender dokumen...",
+  "pageImage": "Halaman PDF {page}",
+  "password": "PDF ini memerlukan kata sandi; pratinjau yang dilindungi kata sandi tidak didukung.",
+  "rendering": "Merender halaman…",
+  "retry": "Coba lagi",
+  "title": "PDF",
+  "unsupported": "Pratinjau PDF memerlukan isi file yang lengkap.",
+  "workerFailed": "Proses perenderan PDF tidak dapat dilanjutkan. Silakan coba lagi."
+}

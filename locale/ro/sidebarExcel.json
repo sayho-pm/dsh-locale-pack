@@ -1,0 +1,17 @@
+{
+  "charts": "diagrame",
+  "conditionalFormatting": "formatare condiționată",
+  "encoding": "Această codificare a textului nu a putut fi citită. Salvați fișierul ca UTF-8 sau UTF-16 cu BOM și reîncercați.",
+  "featureSeparator": ", ",
+  "formulaWarning": "Acest registru de lucru conține formule. Rezultatele afișate pot lipsi sau pot fi inexacte.",
+  "images": "imagini",
+  "invalid": "Această foaie de calcul nu a putut fi deschisă. Verificați formatul, conținutul sau protecția cu parolă.",
+  "language": "en",
+  "loading": "Se randează documentul...",
+  "retry": "Reîncercare",
+  "shapes": "forme",
+  "timeout": "Deschiderea acestui registru de lucru a expirat. Încercați un fișier mai mic.",
+  "title": "Foaie de calcul",
+  "tooLarge": "Acest registru de lucru depășește limita de dimensiune a previzualizării.",
+  "unsupportedNotice": "Această previzualizare nu acceptă {features} din acest registru de lucru. Deschideți-l într-o aplicație de sistem pentru experiența completă."
+}

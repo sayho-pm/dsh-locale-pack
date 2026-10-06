@@ -1,0 +1,19 @@
+{
+  "chip.exitFailed": "Imeshindwa kutoka kwenye hali ya mpango",
+  "chip.label": "Mpango",
+  "chip.on.aria": "Hali ya mpango imewashwa, bonyeza ili kuizima",
+  "chip.on.title": "Hali ya mpango imewashwa, bofya ili kuizima (/plan off)",
+  "preview.action": "Fungua",
+  "preview.document": "Mpango · Markdown",
+  "preview.expired": "Mwonekano huu wa muda wa mpango umeisha. Ifungue tena kutoka kwenye kadi ya ukaguzi inayongoja.",
+  "preview.failed": "Imeshindwa kupakia mpango",
+  "preview.full": "Tazama mpango mzima",
+  "preview.historyUnavailable": "Historia ya kipindi haipatikani",
+  "preview.invalidAddress": "Anwani ya mpango si sahihi",
+  "preview.loading": "Inapakia mpango…",
+  "preview.notFound": "Mpango huu haukupatikana",
+  "preview.open": "Fungua mpango kwenye upau wa kando",
+  "preview.openNamed": "Fungua mpango: {title}",
+  "preview.title": "Mpango",
+  "preview.unavailable": "Mwonekano wa mwanzo wa mpango haupatikani"
+}

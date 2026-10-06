@@ -1,0 +1,17 @@
+{
+  "app.explorer": "File Explorer",
+  "app.filemanager": "Files",
+  "app.finder": "Finder",
+  "app.terminal": "Terminal",
+  "open.title": "Fungua katika {app}",
+  "open.tooltip": "Fungua kwenye kifaa",
+  "path.appDefault": "{app} (chaguo msingi)",
+  "path.appsError": "Imeshindwa kupakia programu",
+  "path.more": "Njia zaidi za kufungua",
+  "path.open": "Fungua",
+  "path.openError": "Imeshindwa kufungua. Jaribu tena.",
+  "path.reveal": "Onyesha eneo la faili",
+  "path.revealError": "Imeshindwa kuonyesha eneo la faili. Jaribu tena.",
+  "shortcut.busy": "Inafungua eneo la kazi",
+  "shortcut.unavailable": "Eneo la kazi la sasa au programu ya ndani haipatikani"
+}

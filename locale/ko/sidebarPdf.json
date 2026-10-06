@@ -1,0 +1,11 @@
+{
+  "failed": "PDF를 표시할 수 없습니다: {message}",
+  "loading": "문서 렌더링 중...",
+  "pageImage": "PDF 페이지 {page}",
+  "password": "이 PDF에는 암호가 필요합니다. 암호로 보호된 미리 보기는 지원되지 않습니다.",
+  "rendering": "페이지 렌더링 중…",
+  "retry": "다시 시도",
+  "title": "PDF",
+  "unsupported": "PDF 미리 보기에는 전체 파일 내용이 필요합니다.",
+  "workerFailed": "PDF 렌더링 프로세스를 계속할 수 없습니다. 다시 시도하십시오."
+}

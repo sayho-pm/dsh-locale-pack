@@ -1,0 +1,7 @@
+{
+  "failed": "Bu görsel görüntülenemedi.",
+  "loading": "Belge oluşturuluyor...",
+  "preview": "Görsel önizleme: {name}",
+  "title": "Görsel",
+  "unsupported": "Görsel önizleme için dosyanın tüm içeriği gereklidir."
+}

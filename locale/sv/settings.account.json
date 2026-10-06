@@ -28,6 +28,7 @@
   "modelSignInRequired": "Modellen är inte tillgänglig. Logga in och försök igen.",
   "more": "Mer",
   "nav": "Konto",
+  "noResponse": "Något gick fel. Kontrollera din nätverksanslutning och försök igen.",
   "onboardingArtworkLocale": "en",
   "onboardingBack": "Tillbaka",
   "onboardingBrand": "DeepSeek Harness",

@@ -1,0 +1,17 @@
+{
+  "busy": "Previzualizarea Office este ocupată. Încercați din nou în scurt timp.",
+  "changed": "Fișierul s-a modificat în timpul citirii. Redeschideți previzualizarea.",
+  "closeDetails": "Închide detaliile despre fonturi",
+  "failed": "Conversia Office nu a produs un PDF utilizabil. Verificați fișierul și încercați din nou.",
+  "invalid": "Acest fișier Office nu poate fi previzualizat. Este posibil să fie deteriorat, protejat prin parolă sau să aibă o extensie greșită.",
+  "loading": "Se randează documentul...",
+  "missingFontsCount": "Fonturi: {count}",
+  "missingFontsDescription": "Aceste fonturi nu sunt disponibile pentru această previzualizare. Textul și aspectul pot diferi față de documentul original.",
+  "missingFontsTitle": "Fonturi lipsă",
+  "retry": "Reîncearcă",
+  "timeout": "Conversia Office a expirat. Încercați din nou.",
+  "title": "Document Office",
+  "tooLarge": "Fișierul Office sau PDF-ul convertit depășește limita de dimensiune pentru previzualizare. Reduceți dimensiunea fișierului sau ajustați configurația de previzualizare.",
+  "unavailable": "Previzualizările Office nu sunt disponibile. Activați serviciul de previzualizare a documentelor pe computerul care rulează DeepSeek Harness.",
+  "viewMissingFonts": "Fonturi lipsă: {count}. Faceți clic pentru vizualizare."
+}

@@ -1,0 +1,14 @@
+{
+  "description": "Dhibiti namna Wakala anavyotuma miito ya zana.",
+  "invalidNumber": "Weka nambari, au acha tupu ili kutumia chaguo msingi.",
+  "maxParallel": "Miito sambamba ya zana",
+  "maxParallelHint": "Kikomo cha juu cha miito salama sambamba inayoendeshwa kwa pamoja ndani ya hatua moja.",
+  "overridden": "Imepitilizwa",
+  "readOnly": "Usambazaji huu huhifadhi mipangilio kwa kusoma tu.",
+  "reset": "Rejesha chaguo msingi",
+  "save": "Hifadhi",
+  "saveFailed": "Usambazaji haukukubali thamani hizi; zimeachwa ili uzisahihishe.",
+  "saving": "Inahifadhi…",
+  "title": "Mzunguko wa Wakala",
+  "unavailable": "Programu jalizi hii haijapakiwa, kwa hivyo haiwezi kusanidiwa kwa sasa."
+}

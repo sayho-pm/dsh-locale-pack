@@ -28,6 +28,8 @@
   "delete.desc": "「{name}」をワークスペースの一覧から削除します。フォルダーとセッションのログは保持されます。そのセッションはグループなしに表示されます。",
   "delete.pending": "ワークスペースを削除しています…",
   "delete.workspace": "ワークスペースを削除",
+  "draft.initializationFailed": "下書きを作成できませんでした。しばらくしてからもう一度お試しください。",
+  "draft.workspaceRequired": "まずワークスペースを選択してください。",
   "empty.noMatches": "一致する結果はありません",
   "empty.none": "セッションはまだありません",
   "empty.noneArchived": "アーカイブ済みのセッションはまだありません",

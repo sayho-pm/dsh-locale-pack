@@ -28,6 +28,7 @@
   "modelSignInRequired": "النموذج غير متاح. يرجى تسجيل الدخول والمحاولة مرة أخرى.",
   "more": "المزيد",
   "nav": "الحساب",
+  "noResponse": "حدث خطأ ما. يرجى التحقق من اتصال الشبكة والمحاولة مرة أخرى.",
   "onboardingArtworkLocale": "en",
   "onboardingBack": "رجوع",
   "onboardingBrand": "DeepSeek Harness",

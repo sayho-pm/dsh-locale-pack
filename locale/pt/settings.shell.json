@@ -1,0 +1,16 @@
+{
+  "description": "Limita quanto tempo cada comando pode ser executado e quanta saída pode produzir.",
+  "invalidNumber": "Introduz um número ou deixa em branco para usar a predefinição.",
+  "maxOutputBytes": "Limite de saída por fluxo (bytes)",
+  "maxOutputBytesHint": "A saída além deste limite passa para um ficheiro temporário em vez de se perder.",
+  "overridden": "Sobreposto",
+  "readOnly": "Esta implementação guarda as definições apenas para leitura.",
+  "reset": "Repõe a predefinição",
+  "save": "Guardar",
+  "saveFailed": "A implementação não aceitou estes valores; foram mantidos para que os corrijas.",
+  "saving": "A guardar…",
+  "timeoutMs": "Tempo limite do comando (ms)",
+  "timeoutMsHint": "Quanto tempo um comando pode ser executado antes de ser terminado.",
+  "title": "Shell",
+  "unavailable": "Este plug-in não está carregado, por isso não pode ser configurado de momento."
+}

@@ -2,6 +2,11 @@
   "brokenBadge": "הטעינה נכשלה",
   "builtInGroup": "מובנה",
   "close": "סגור",
+  "createPlugin": "תן לסוכן ליצור תוסף",
+  "createPluginChecking": "בודק אם מצב יוצר זמין",
+  "createPluginDescription": "היכנס למצב יוצר וצור תוסף DSH משלך",
+  "createPluginMissing": "מצב יוצר אינו כלול בתצורה זו",
+  "createPluginUnavailable": "לא זמין באופן זמני. פתח מחדש את התפריט הזה כדי לנסות שוב",
   "creatorDraft": "תן לסוכן לעזור לי ליצור הגדרה מראש",
   "customGroup": "מותאם אישית",
   "guideCopied": "הועתק",
@@ -38,6 +43,7 @@
   "seatHint": "בחרו את קביעת הסוכן למשימה החדשה שלכם",
   "sectionIntro": "בחרו את הכלים של הסוכן ואת אופן פעולתו. השתמשו במצב Standard למשימות יומיומיות, או במצב Creator כדי להוסיף יכולות ל DSH.",
   "setDefault": "הגדר כברירת מחדל למשימה חדשה",
+  "standardUnavailable": "המצב הרגיל אינו זמין. שחזר אותו או בחר מצב זמין אחר.",
   "switchRefused": "לא ניתן לעבור אל {name}: {reason}",
   "view": "הצג תצורה"
 }

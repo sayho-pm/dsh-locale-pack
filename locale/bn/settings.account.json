@@ -28,6 +28,7 @@
   "modelSignInRequired": "মডেল উপলব্ধ নেই। অনুগ্রহ করে সাইন ইন করুন এবং আবার চেষ্টা করুন।",
   "more": "আরও",
   "nav": "অ্যাকাউন্ট",
+  "noResponse": "কিছু ভুল হয়েছে। অনুগ্রহ করে আপনার নেটওয়ার্ক সংযোগ পরীক্ষা করে আবার চেষ্টা করুন।",
   "onboardingArtworkLocale": "en",
   "onboardingBack": "ফিরে যান",
   "onboardingBrand": "DeepSeek Harness",

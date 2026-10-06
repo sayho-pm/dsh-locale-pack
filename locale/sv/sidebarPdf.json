@@ -1,0 +1,11 @@
+{
+  "failed": "Kan inte visa PDF: {message}",
+  "loading": "Renderar dokument...",
+  "pageImage": "PDF-sida {page}",
+  "password": "Denna PDF kräver ett lösenord; lösenordsskyddade förhandsvisningar stöds inte.",
+  "rendering": "Renderar sida…",
+  "retry": "Försök igen",
+  "title": "PDF",
+  "unsupported": "Förhandsvisning av PDF kräver hela filinnehållet.",
+  "workerFailed": "PDF-renderingen kunde inte fortsätta. Försök igen."
+}

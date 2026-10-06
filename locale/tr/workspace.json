@@ -28,6 +28,8 @@
   "delete.desc": "Bu işlem “{name}” öğesini çalışma alanı listesinden kaldırır. Klasör ve oturum günlükleri korunur. Oturumları Gruplandırılmamış altında görünecek.",
   "delete.pending": "Çalışma alanı siliniyor…",
   "delete.workspace": "Çalışma alanını sil",
+  "draft.initializationFailed": "Taslak doldurulamadı. Lütfen kısa süre sonra tekrar deneyin.",
+  "draft.workspaceRequired": "Önce bir çalışma alanı seçin.",
   "empty.noMatches": "Eşleşme yok",
   "empty.none": "Henüz oturum yok",
   "empty.noneArchived": "Henüz arşivlenmiş oturum yok",

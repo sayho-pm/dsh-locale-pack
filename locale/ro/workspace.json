@@ -28,6 +28,8 @@
   "delete.desc": "Aceasta elimină “{name}” din lista de spații de lucru. Dosarul și jurnalele sesiunilor vor fi păstrate. Sesiunile sale vor apărea sub Negrupate.",
   "delete.pending": "Se șterge spațiul de lucru…",
   "delete.workspace": "Șterge spațiul de lucru",
+  "draft.initializationFailed": "Nu s-a putut completa ciorna. Vă rugăm să încercați din nou în scurt timp.",
+  "draft.workspaceRequired": "Alegeți mai întâi un spațiu de lucru.",
   "empty.noMatches": "Nicio potrivire",
   "empty.none": "Încă nicio sesiune",
   "empty.noneArchived": "Încă nicio sesiune arhivată",

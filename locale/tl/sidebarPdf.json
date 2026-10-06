@@ -1,0 +1,11 @@
+{
+  "failed": "Hindi maipakita ang PDF: {message}",
+  "loading": "Nire-render ang dokumento...",
+  "pageImage": "Pahina {page} ng PDF",
+  "password": "Nangangailangan ng password ang PDF na ito; hindi suportado ang mga preview na protektado ng password.",
+  "rendering": "Nire-render ang pahina…",
+  "retry": "Subukang muli",
+  "title": "PDF",
+  "unsupported": "Nangangailangan ng kumpletong nilalaman ng file ang PDF preview.",
+  "workerFailed": "Hindi maipagpatuloy ang proseso ng pag-render ng PDF. Pakisubukang muli."
+}

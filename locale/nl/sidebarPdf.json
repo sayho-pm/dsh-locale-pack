@@ -1,0 +1,11 @@
+{
+  "failed": "Kan PDF niet weergeven: {message}",
+  "loading": "Document renderen...",
+  "pageImage": "PDF-pagina {page}",
+  "password": "Deze PDF vereist een wachtwoord; met een wachtwoord beveiligde voorvertoningen worden niet ondersteund.",
+  "rendering": "Pagina renderen…",
+  "retry": "Opnieuw proberen",
+  "title": "PDF",
+  "unsupported": "PDF-voorbeeld vereist de volledige inhoud van het bestand.",
+  "workerFailed": "Het PDF-renderproces kon niet doorgaan. Probeer het opnieuw."
+}

@@ -28,6 +28,7 @@
   "modelSignInRequired": "Modèle indisponible. Veuillez vous connecter et réessayer.",
   "more": "Plus",
   "nav": "Compte",
+  "noResponse": "Une erreur s'est produite. Veuillez vérifier votre connexion réseau et réessayer.",
   "onboardingArtworkLocale": "en",
   "onboardingBack": "Retour",
   "onboardingBrand": "DeepSeek Harness",

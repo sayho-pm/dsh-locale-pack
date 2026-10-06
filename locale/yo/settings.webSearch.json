@@ -1,0 +1,20 @@
+{
+  "apiKey": "Kọ́kọ́rọ́ API",
+  "apiKeyHint": "A fi ọ́ sílẹ̀ kúrò fáìlì ìṣètò náà. Fi sísí fún un láti tẹ́síwájú lò kọ́kọ́rọ́ tí ó wà báyìí.",
+  "apiKeySet": "A ti ṣètò kọ́kọ́rọ́ kan.",
+  "apiKeyUnset": "Kò sí kọ́kọ́rọ́ tí a ti ṣètò; àwọn ìbánisọ̀rọ̀ tó ń lo àpẹẹrẹ DeepSeek Account nìkan ló lè wákiri, nípasẹ̀ ìbáṣepọ̀ àkọ́kọ́.",
+  "baseUrl": "Ìbáṣepọ̀",
+  "baseUrlHint": "Fi sísí fúnni láti lo ìyàn àkọ́kọ́ olùpèsè.",
+  "description": "Ṣètò olùpèsè ìwákiri DeepSeek.",
+  "invalidNumber": "Tẹ nọ́mbà kan sínú, tàbí fi sísí fúnni láti lo ìyàn àkọ́kọ́.",
+  "maxUses": "Ìwákiri tó pọ̀ jùlọ fún ìbéèrè kọ̀ọ̀kan",
+  "maxUsesHint": "Ní ìgbà mélòó tí ìbéèrè kan lè wákiri kí ó tó lè dáhùn.",
+  "overridden": "A ti yọ̀ ọ́ padà",
+  "readOnly": "Ìfisí iṣẹ́ yìí ń fi àwọn ìṣètò pamọ́ pé wọ́n ṣe é kà nìkan.",
+  "reset": "Tún sí ìyàn àkọ́kọ́",
+  "save": "Fi sílẹ̀",
+  "saveFailed": "Ìfisí iṣẹ́ kò gba àwọn iye yìí; a fì wọn sílẹ̀ kí o tún wọ́n.",
+  "saving": "Ń fi sílẹ̀…",
+  "title": "Ìwákiri lórí wẹ́ẹ̀bù",
+  "unavailable": "A kò tíì kó plọ́gìnì yìí wá, nítorí náà kò lè ṣètò rẹ̀ báyìí."
+}

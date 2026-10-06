@@ -2,6 +2,11 @@
   "brokenBadge": "載入失敗",
   "builtInGroup": "內建",
   "close": "關閉",
+  "createPlugin": "讓代理建立插件",
+  "createPluginChecking": "正在檢查創建者模式是否可用",
+  "createPluginDescription": "進入創建者模式並製作你專屬的 DSH 插件",
+  "createPluginMissing": "此設定不包括創建者模式",
+  "createPluginUnavailable": "暫時無法使用。請重新開啟此選單再試一次",
   "creatorDraft": "讓代理協助我建立預設",
   "customGroup": "自訂",
   "guideCopied": "已複製",
@@ -38,6 +43,7 @@
   "seatHint": "為新任務選擇代理預設",
   "sectionIntro": "選擇代理的工具及運作方式。日常任務請使用標準模式，或使用創建者模式為 DSH 新增功能。",
   "setDefault": "設為新增任務預設值",
+  "standardUnavailable": "標準模式無法使用。請還原或選擇其他可用模式。",
   "switchRefused": "無法切換至 {name}：{reason}",
   "view": "檢視設定"
 }

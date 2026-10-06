@@ -1,0 +1,17 @@
+{
+  "busy": "La vista previa de Office está ocupada. Inténtalo de nuevo en breve.",
+  "changed": "El archivo cambió mientras se leía. Vuelve a abrir la vista previa.",
+  "closeDetails": "Cerrar detalles de fuentes",
+  "failed": "La conversión de Office no produjo un PDF utilizable. Revisa el archivo e inténtalo de nuevo.",
+  "invalid": "Este archivo de Office no se puede previsualizar. Es posible que esté dañado, protegido con contraseña o tenga una extensión incorrecta.",
+  "loading": "Generando documento...",
+  "missingFontsCount": "Fuentes: {count}",
+  "missingFontsDescription": "Estas fuentes no están disponibles para esta vista previa. El texto y el diseño pueden diferir del documento original.",
+  "missingFontsTitle": "Fuentes faltantes",
+  "retry": "Reintentar",
+  "timeout": "La conversión de Office agotó el tiempo de espera. Inténtalo de nuevo.",
+  "title": "Documento de Office",
+  "tooLarge": "El archivo de Office o el PDF convertido supera el límite de tamaño de vista previa. Reduce el tamaño del archivo o ajusta la configuración de vista previa.",
+  "unavailable": "Las vistas previas de Office no están disponibles. Habilita el servicio de vista previa de documentos en el equipo que ejecuta DeepSeek Harness.",
+  "viewMissingFonts": "Fuentes faltantes: {count}. Haz clic para ver."
+}

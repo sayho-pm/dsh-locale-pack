@@ -2,6 +2,11 @@
   "brokenBadge": "Încărcarea a eșuat",
   "builtInGroup": "Încorporat",
   "close": "Închide",
+  "createPlugin": "Lasă agentul să creeze un plugin",
+  "createPluginChecking": "Se verifică dacă modul Creator este disponibil",
+  "createPluginDescription": "Intră în modul Creator și creează propriul plugin DSH",
+  "createPluginMissing": "Modul Creator nu este inclus în această configurație",
+  "createPluginUnavailable": "Indisponibil temporar. Redeschide acest meniu pentru a reîncerca",
   "creatorDraft": "Lasă agentul să mă ajute să creez o presetare",
   "customGroup": "Personalizat",
   "guideCopied": "Copiat",
@@ -38,6 +43,7 @@
   "seatHint": "Alege presetarea de agent pentru sarcina ta nouă",
   "sectionIntro": "Alege instrumentele agentului și modul de funcționare. Folosește modul Standard pentru sarcini zilnice sau modul Creator pentru a adăuga capacități la DSH.",
   "setDefault": "Setează ca implicit pentru sarcini noi",
+  "standardUnavailable": "Modul Standard este indisponibil. Restaurează-l sau alege alt mod disponibil.",
   "switchRefused": "Nu s-a putut comuta la {name}: {reason}",
   "view": "Vezi configurația"
 }

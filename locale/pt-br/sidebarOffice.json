@@ -1,0 +1,17 @@
+{
+  "busy": "A visualização do Office está ocupada. Tente novamente em instantes.",
+  "changed": "O arquivo foi alterado durante a leitura. Reabra a visualização.",
+  "closeDetails": "Fechar detalhes das fontes",
+  "failed": "A conversão do Office não produziu um PDF utilizável. Verifique o arquivo e tente novamente.",
+  "invalid": "Este arquivo do Office não pode ser visualizado. Ele pode estar danificado, protegido por senha ou com a extensão errada.",
+  "loading": "Renderizando documento...",
+  "missingFontsCount": "Fontes: {count}",
+  "missingFontsDescription": "Estas fontes estão indisponíveis para esta visualização. O texto e o layout podem diferir do documento original.",
+  "missingFontsTitle": "Fontes ausentes",
+  "retry": "Tentar novamente",
+  "timeout": "A conversão do Office expirou. Tente novamente.",
+  "title": "Documento do Office",
+  "tooLarge": "O arquivo do Office ou o PDF convertido excede o limite de tamanho da visualização. Reduza o tamanho do arquivo ou ajuste a configuração de visualização.",
+  "unavailable": "As visualizações do Office estão indisponíveis. Ative o serviço de visualização de documentos no computador que executa o DeepSeek Harness.",
+  "viewMissingFonts": "Fontes ausentes: {count}. Clique para ver."
+}

@@ -1,0 +1,11 @@
+{
+  "failed": "Impossibile visualizzare il PDF: {message}",
+  "loading": "Rendering del documento...",
+  "pageImage": "Pagina PDF {page}",
+  "password": "Questo PDF richiede una password; le anteprime protette da password non sono supportate.",
+  "rendering": "Rendering della pagina…",
+  "retry": "Riprova",
+  "title": "PDF",
+  "unsupported": "L'anteprima PDF richiede il contenuto completo del file.",
+  "workerFailed": "Il processo di rendering del PDF non può continuare. Riprova."
+}

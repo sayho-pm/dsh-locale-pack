@@ -1,0 +1,11 @@
+{
+  "failed": "No se puede mostrar el PDF: {message}",
+  "loading": "Renderizando documento...",
+  "pageImage": "Página PDF {page}",
+  "password": "Este PDF requiere una contraseña; las vistas previas protegidas con contraseña no son compatibles.",
+  "rendering": "Renderizando página…",
+  "retry": "Reintentar",
+  "title": "PDF",
+  "unsupported": "La vista previa de PDF requiere el contenido completo del archivo.",
+  "workerFailed": "El proceso de renderizado de PDF no pudo continuar. Vuelve a intentarlo."
+}

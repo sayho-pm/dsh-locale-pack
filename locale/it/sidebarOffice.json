@@ -1,0 +1,17 @@
+{
+  "busy": "L'anteprima Office è occupata. Riprova tra poco.",
+  "changed": "Il file è cambiato durante la lettura. Riapri l'anteprima.",
+  "closeDetails": "Chiudi dettagli font",
+  "failed": "La conversione Office non ha prodotto un PDF utilizzabile. Controlla il file e riprova.",
+  "invalid": "Questo file Office non può essere visualizzato in anteprima. Potrebbe essere danneggiato, protetto da password o avere un'estensione errata.",
+  "loading": "Rendering del documento in corso...",
+  "missingFontsCount": "Font: {count}",
+  "missingFontsDescription": "Questi font non sono disponibili per questa anteprima. Testo e layout potrebbero differire dal documento originale.",
+  "missingFontsTitle": "Font mancanti",
+  "retry": "Riprova",
+  "timeout": "La conversione Office è scaduta. Riprova.",
+  "title": "Documento Office",
+  "tooLarge": "Il file Office o il PDF convertito supera il limite di dimensione per l'anteprima. Riduci le dimensioni del file o modifica la configurazione dell'anteprima.",
+  "unavailable": "Le anteprime Office non sono disponibili. Abilita il servizio di anteprima documenti sul computer che esegue DeepSeek Harness.",
+  "viewMissingFonts": "Font mancanti: {count}. Fai clic per visualizzarli."
+}

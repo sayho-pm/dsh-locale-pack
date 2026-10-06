@@ -2,9 +2,9 @@
 
 <p align="right"><strong>English</strong> | <a href="README.ko.md">한국어</a></p>
 
-<p align="center"><img src="docs/banner.jpg" alt="DeepSeek Harness Multilingual Pack: 26 languages" width="100%"></p>
+<p align="center"><img src="docs/banner.jpg" alt="DeepSeek Harness Multilingual Pack: 29 languages" width="100%"></p>
 
-A locale pack for the DeepSeek Harness desktop app. It registers 26 languages in the language picker and ships a dictionary for each one. Strings that are not translated yet fall back to English, so the screen stays readable while coverage grows. DeepSeek Harness ships English and Simplified Chinese by default, which makes 28 languages selectable after install.
+A locale pack for the DeepSeek Harness desktop app. It registers 29 languages in the language picker and ships a dictionary for each one. Strings that are not translated yet fall back to English, so the screen stays readable while coverage grows. DeepSeek Harness ships English and Simplified Chinese by default, which makes 31 languages selectable after install.
 
 ## Why this exists
 
@@ -29,8 +29,10 @@ That interface was available in English and Simplified Chinese. Developers who p
 | Filipino | `tl` | Română | `ro` |
 | বাংলা | `bn` | اردو | `ur` |
 | עברית | `he` | فارسی | `fa` |
+| Português (Portugal) | `pt` | Kiswahili | `sw` |
+| Yorùbá | `yo` | | |
 
-26 languages × 2,322 keys = 60,375 translated entries. The dictionaries are built against DeepSeek Harness `0.2.0-rc.2`.
+29 languages × 2,528 keys = 73,312 translated entries. The dictionaries are built against DeepSeek Harness `0.2.0-rc.2`.
 
 ## Install
 

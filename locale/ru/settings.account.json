@@ -28,6 +28,7 @@
   "modelSignInRequired": "Модель недоступна. Войдите в аккаунт и попробуйте снова.",
   "more": "Еще",
   "nav": "Учетная запись",
+  "noResponse": "Что-то пошло не так. Проверьте подключение к сети и повторите попытку.",
   "onboardingArtworkLocale": "en",
   "onboardingBack": "Назад",
   "onboardingBrand": "DeepSeek Harness",

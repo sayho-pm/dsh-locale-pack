@@ -28,6 +28,8 @@
   "delete.desc": "פעולה זו מסירה את “{name}” מרשימת סביבות העבודה. התיקייה ויומני ההפעלות יישמרו. ההפעלות שלה יופיעו תחת לא מקובצות.",
   "delete.pending": "מוחק סביבת עבודה…",
   "delete.workspace": "מחק סביבת עבודה",
+  "draft.initializationFailed": "לא ניתן למלא את הטיוטה. נסה שוב בקרוב.",
+  "draft.workspaceRequired": "בחר סביבת עבודה תחילה.",
   "empty.noMatches": "אין התאמות",
   "empty.none": "אין הפעלות עדיין",
   "empty.noneArchived": "אין הפעלות בארכיון עדיין",

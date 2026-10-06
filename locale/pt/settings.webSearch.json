@@ -1,0 +1,20 @@
+{
+  "apiKey": "Chave de API",
+  "apiKeyHint": "Armazenada fora do ficheiro de definições. Deixa em branco para manter a chave actual.",
+  "apiKeySet": "Uma chave está configurada.",
+  "apiKeyUnset": "Não está configurada nenhuma chave; apenas as conversas que utilizam um modelo de DeepSeek Account podem pesquisar, através do ponto final predefinido.",
+  "baseUrl": "Ponto final",
+  "baseUrlHint": "Deixa em branco para utilizar o valor predefinido do fornecedor.",
+  "description": "Configurar o fornecedor de pesquisa DeepSeek.",
+  "invalidNumber": "Introduz um número ou deixa em branco para utilizar a predefinição.",
+  "maxUses": "Máximo de pesquisas por pedido",
+  "maxUsesHint": "Quantas vezes um pedido pode pesquisar antes de ter de responder.",
+  "overridden": "Sobreposto",
+  "readOnly": "Esta implementação guarda as definições apenas para leitura.",
+  "reset": "Repor predefinição",
+  "save": "Guardar",
+  "saveFailed": "A implementação não aceitou estes valores; foram mantidos para os corrigires.",
+  "saving": "A guardar…",
+  "title": "Pesquisa na Web",
+  "unavailable": "Este plug-in não está carregado, por isso não pode ser configurado de momento."
+}

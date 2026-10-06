@@ -1,0 +1,17 @@
+{
+  "busy": "Die Office-Vorschau ist ausgelastet. Versuchen Sie es in Kürze erneut.",
+  "changed": "Die Datei wurde während des Lesens geändert. Öffnen Sie die Vorschau erneut.",
+  "closeDetails": "Schriftdetails schließen",
+  "failed": "Die Office-Konvertierung hat kein verwendbares PDF erzeugt. Überprüfen Sie die Datei und versuchen Sie es erneut.",
+  "invalid": "Diese Office-Datei kann nicht in der Vorschau angezeigt werden. Sie ist möglicherweise beschädigt, kennwortgeschützt oder hat die falsche Erweiterung.",
+  "loading": "Dokument wird gerendert...",
+  "missingFontsCount": "Schriftarten: {count}",
+  "missingFontsDescription": "Diese Schriftarten sind für diese Vorschau nicht verfügbar. Text und Layout können vom Originaldokument abweichen.",
+  "missingFontsTitle": "Fehlende Schriftarten",
+  "retry": "Wiederholen",
+  "timeout": "Die Office-Konvertierung hat das Zeitlimit überschritten. Versuchen Sie es erneut.",
+  "title": "Office-Dokument",
+  "tooLarge": "Die Office-Datei oder das konvertierte PDF überschreitet das Größenlimit für die Vorschau. Verkleinern Sie die Datei oder passen Sie die Vorschaukonfiguration an.",
+  "unavailable": "Office-Vorschauen sind nicht verfügbar. Aktivieren Sie den Dokumentvorschau-Dienst auf dem Computer, auf dem DeepSeek Harness ausgeführt wird.",
+  "viewMissingFonts": "Fehlende Schriftarten: {count}. Klicken zum Anzeigen."
+}

@@ -2,6 +2,11 @@
   "brokenBadge": "Nie udało się wczytać",
   "builtInGroup": "Wbudowane",
   "close": "Zamknij",
+  "createPlugin": "Pozwól agentowi utworzyć wtyczkę",
+  "createPluginChecking": "Sprawdzanie, czy tryb twórcy jest dostępny",
+  "createPluginDescription": "Przejdź do trybu twórcy i utwórz własną wtyczkę DSH",
+  "createPluginMissing": "Tryb twórcy nie jest uwzględniony w tej konfiguracji",
+  "createPluginUnavailable": "Tymczasowo niedostępne. Otwórz ponownie to menu, aby spróbować jeszcze raz",
   "creatorDraft": "Pozwól agentowi pomóc mi utworzyć nowy tryb",
   "customGroup": "Własne",
   "guideCopied": "Skopiowano",
@@ -38,6 +43,7 @@
   "seatHint": "Wybierz preset agenta do nowego zadania",
   "sectionIntro": "Wybierz narzędzia agenta i sposób jego działania. Użyj trybu Standard do codziennych zadań lub trybu Creator, aby dodać funkcje do DSH.",
   "setDefault": "Ustaw jako domyślne dla nowego zadania",
+  "standardUnavailable": "Tryb standardowy jest niedostępny. Przywróć go lub wybierz inny dostępny tryb.",
   "switchRefused": "Nie można przełączyć na {name}: {reason}",
   "view": "Wyświetl konfigurację"
 }

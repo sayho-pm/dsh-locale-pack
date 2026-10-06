@@ -1,0 +1,14 @@
+{
+  "action.cancel": "Ghairi uhariri",
+  "action.clear": "Ondoa lengo",
+  "action.edit": "Hariri lengo",
+  "action.pause": "Sitisha lengo",
+  "action.resume": "Endeleza lengo",
+  "action.save": "Hifadhi lengo",
+  "commandInput.aria": "Ingizo la amri",
+  "objective.aria": "Kusudi la lengo",
+  "phase.active": "Lengo Linaloendelea",
+  "phase.active.disarmed": "Lengo Lililozimwa",
+  "phase.blocked": "Lengo Lililozuiwa",
+  "phase.paused": "Lengo Lililositishwa"
+}

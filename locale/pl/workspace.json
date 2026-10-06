@@ -28,6 +28,8 @@
   "delete.desc": "To usuwa „{name}” z listy obszarów roboczych. Folder i dzienniki sesji zostaną zachowane. Jego sesje pojawią się w sekcji Niezgrupowane.",
   "delete.pending": "Usuwanie obszaru roboczego…",
   "delete.workspace": "Usuń obszar roboczy",
+  "draft.initializationFailed": "Nie udało się wypełnić wersji roboczej. Spróbuj ponownie za chwilę.",
+  "draft.workspaceRequired": "Najpierw wybierz obszar roboczy.",
   "empty.noMatches": "Brak dopasowań",
   "empty.none": "Brak sesji",
   "empty.noneArchived": "Brak zarchiwizowanych sesji",

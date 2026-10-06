@@ -1,0 +1,22 @@
+{
+  "action.dislike": "Má resposta",
+  "action.dislikeActive": "Remover avaliação",
+  "action.like": "Boa resposta",
+  "action.likeActive": "Remover avaliação",
+  "category.instruction-following": "Compreensão e cumprimento das instruções",
+  "category.other": "Outro",
+  "category.product-interaction": "Funcionalidades e interacção do produto",
+  "category.resource-cost": "Utilização de recursos e custo",
+  "category.security-privacy-permission": "Segurança, privacidade e permissões",
+  "category.service-stability": "Estabilidade e velocidade",
+  "category.task-result": "Resultado da tarefa",
+  "dialog.categories": "Categoria de comentários",
+  "dialog.detail": "Detalhes dos comentários",
+  "dialog.hint": "Adiciona detalhes para nos ajudares a melhorar. O teu envio incluirá o registo da conversa actual.",
+  "dialog.title": "Enviar comentários",
+  "error.conflict": "Este comentário foi alterado noutro local; o estado mais recente é apresentado",
+  "error.generic": "Não foi possível guardar os comentários",
+  "error.load": "Não foi possível carregar os comentários",
+  "error.noteTooLarge": "A descrição é demasiado longa; encurta-a e submete novamente",
+  "toast.recorded": "Agradecemos os teus comentários"
+}

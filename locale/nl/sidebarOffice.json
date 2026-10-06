@@ -1,0 +1,17 @@
+{
+  "busy": "Office-preview is bezig. Probeer het binnenkort opnieuw.",
+  "changed": "Het bestand is gewijzigd tijdens het lezen. Open de preview opnieuw.",
+  "closeDetails": "Lettertypedetails sluiten",
+  "failed": "Office-conversie heeft geen bruikbare PDF opgeleverd. Controleer het bestand en probeer het opnieuw.",
+  "invalid": "Dit Office-bestand kan niet worden weergegeven. Het is mogelijk beschadigd, met een wachtwoord beveiligd of heeft de verkeerde extensie.",
+  "loading": "Document wordt weergegeven...",
+  "missingFontsCount": "Lettertypen: {count}",
+  "missingFontsDescription": "Deze lettertypen zijn niet beschikbaar voor deze preview. Tekst en opmaak kunnen afwijken van het oorspronkelijke document.",
+  "missingFontsTitle": "Ontbrekende lettertypen",
+  "retry": "Opnieuw proberen",
+  "timeout": "Time-out bij Office-conversie. Probeer het opnieuw.",
+  "title": "Office-document",
+  "tooLarge": "Het Office-bestand of de geconverteerde PDF overschrijdt de groottelimiet voor previews. Verklein het bestand of pas de previewconfiguratie aan.",
+  "unavailable": "Office-previews zijn niet beschikbaar. Schakel de documentpreviewservice in op de computer waarop DeepSeek Harness wordt uitgevoerd.",
+  "viewMissingFonts": "Ontbrekende lettertypen: {count}. Klik om weer te geven."
+}

@@ -1,0 +1,19 @@
+{
+  "auto.badge": "EXP",
+  "auto.confirm.acknowledge": "Mo lóye àwọn ewu wọ̀nyí, mo sì fẹ́ láti tẹ̀síwájú",
+  "auto.confirm.description": "Àtúnyẹ̀wò Aládàáṣe ń ṣiṣẹ́ láìsí ààyè ìdánwò. Ṣáájú gbogbo ìpè ìrìnṣẹ́ abínibí àti ìpè inú PTC, mọ́dẹ́lì kan náà tí aṣojú lọ́wọ́lọ́wọ́ ń lò yóò ṣe àtúnyẹ̀wò bóyá láti gba á; ìwọ yóò fọwọ́ sí tàbí kọ̀ ìpè kọ̀ọ̀kan tí ó bá kọ̀. Ẹ̀yà yìí jẹ́ ìdánwò, ó lè gba tàbí kọ̀ àwọn ìgbésẹ̀ ní àṣìṣe, ó sì ń lo àmì ọ̀rọ̀ míràn.",
+  "auto.confirm.enable": "Mú Àtúnyẹ̀wò Aládàáṣe ṣiṣẹ́",
+  "auto.confirm.title": "Mú Àtúnyẹ̀wò Aládàáṣe ṣiṣẹ́ (ìdánwò)?",
+  "auto.description": "Ṣiṣẹ́ láìsí sandbox lẹ́yìn àtúnyẹ̀wò ìdánwò pẹ̀lú awoṣe kan náà fún gbogbo ìpè irinṣẹ́ abínibí àti ìpè inú PTC.",
+  "auto.label": "Àtúnyẹ̀wò Aládàáṣe",
+  "close": "Tì",
+  "confirm.acknowledge": "Mo lóye àwọn ewu náà, mo sì fẹ́ láti tẹ̀síwájú",
+  "confirm.cancel": "Kọ̀",
+  "confirm.description": "Ìwọlé kíkún dín ìjẹ́rìí kù, ó sì jẹ́ kí aṣojú ṣe ọ̀pọ̀lọpọ̀ nǹkan tààrà, títí kan iṣẹ́ tó lewu, àtúnṣe fáìlì, tàbí àwọn àṣẹ òde. Lo ó nìkán nígbà tí o bá gbẹ́kẹ̀lé iṣẹ́ lọ́wọ́lọ́wọ́.",
+  "confirm.enable": "Mú Ìwọlé kíkún ṣiṣẹ́",
+  "confirm.title": "Mú Ìwọlé kíkún ṣiṣẹ́?",
+  "mode": "Ọ̀nà ìwọlé, lọ́wọ́lọ́wọ́: {name}",
+  "preset.fullAccess": "Ìwọlé kíkún",
+  "preset.readOnly": "Ka nìkán",
+  "preset.workspaceWrite": "Ààyè iṣẹ́ ìkọ̀wé"
+}

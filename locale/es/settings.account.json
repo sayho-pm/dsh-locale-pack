@@ -28,6 +28,7 @@
   "modelSignInRequired": "Modelo no disponible. Inicia sesión e inténtalo de nuevo.",
   "more": "Más",
   "nav": "Cuenta",
+  "noResponse": "Algo salió mal. Por favor, revisa tu conexión de red e inténtalo de nuevo.",
   "onboardingArtworkLocale": "en",
   "onboardingBack": "Volver",
   "onboardingBrand": "DeepSeek Harness",

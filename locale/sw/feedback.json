@@ -1,0 +1,22 @@
+{
+  "action.dislike": "Jibu baya",
+  "action.dislikeActive": "Ondoa tathmini",
+  "action.like": "Jibu zuri",
+  "action.likeActive": "Ondoa tathmini",
+  "category.instruction-following": "Kuelewa na kufuata maelekezo",
+  "category.other": "Nyingine",
+  "category.product-interaction": "Vipengele vya bidhaa na mwingiliano",
+  "category.resource-cost": "Matumizi ya rasilimali na gharama",
+  "category.security-privacy-permission": "Usalama, faragha na ruhusa",
+  "category.service-stability": "Uthabiti na kasi",
+  "category.task-result": "Matokeo ya kazi",
+  "dialog.categories": "Aina ya maoni",
+  "dialog.detail": "Maelezo ya maoni",
+  "dialog.hint": "Ongeza maelezo ili kutusaidia kuboresha. Uwasilishaji wako utajumuisha kumbukumbu ya mazungumzo ya sasa.",
+  "dialog.title": "Tuma maoni",
+  "error.conflict": "Maoni haya yamebadilika mahali pengine; hali ya hivi punde inaonyeshwa",
+  "error.generic": "Imeshindwa kuhifadhi maoni",
+  "error.load": "Imeshindwa kupakia maoni",
+  "error.noteTooLarge": "Maelezo ni marefu mno; yafupishe kisha tuma tena",
+  "toast.recorded": "Asante kwa maoni yako"
+}

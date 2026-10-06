@@ -1,0 +1,17 @@
+{
+  "charts": "ṣáàtì",
+  "conditionalFormatting": "ìṣàkóso àkọ́ṣẹ̀",
+  "encoding": "Kò sí ọ̀nà láti kà ìṣètò ọ̀rọ̀ yìí. Tọ́jú fáìlì náà gẹ́gẹ́ bí UTF-8 tàbí UTF-16 pẹ̀lú BOM, lẹ́yìn náà tun gbìyànjú.",
+  "featureSeparator": ", ",
+  "formulaWarning": "Ìwé iṣẹ́ yìí ní àwọ̀n fọ́múlà. Èsì ìfihàn lè pàdánù tàbí kò pé.",
+  "images": "àwòrán",
+  "invalid": "Ṣíìtì ìṣirò yìí kò ṣí. Ṣàyẹ̀wò ìrísí rẹ̀, àkóónú inú rẹ̀, tàbí ààbò kọ́ọ̀dù àṣírí rẹ̀.",
+  "language": "en",
+  "loading": "Ń ṣe ìfihàn ìwé náà...",
+  "retry": "Tun gbìyànjú",
+  "shapes": "ìrísí",
+  "timeout": "Ṣíṣí ìwé iṣẹ́ yìí pẹ́ jù. Gbìyànjú fáìlì kékeré.",
+  "title": "Ṣíìtì Ìṣirò",
+  "tooLarge": "Ìwé iṣẹ́ yìí kọjá ààlà ìtóbi àfihàn.",
+  "unsupportedNotice": "Àfihàn yìí kò ṣe àtìlẹ́yìn fún {features} nínú ìwé iṣẹ́ yìí. Ṣí i nínú ètò ìṣiṣẹ́ fún ìrírí kíkún."
+}

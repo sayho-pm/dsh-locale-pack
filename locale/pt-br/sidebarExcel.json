@@ -1,0 +1,17 @@
+{
+  "charts": "gráficos",
+  "conditionalFormatting": "formatação condicional",
+  "encoding": "Esta codificação de texto não pôde ser lida. Salve o arquivo como UTF-8 ou UTF-16 com BOM e tente novamente.",
+  "featureSeparator": ", ",
+  "formulaWarning": "Esta pasta de trabalho contém fórmulas. Os resultados exibidos podem estar ausentes ou imprecisos.",
+  "images": "imagens",
+  "invalid": "Esta planilha não pôde ser aberta. Verifique o formato, o conteúdo ou a proteção por senha.",
+  "language": "en",
+  "loading": "Renderizando documento...",
+  "retry": "Tentar novamente",
+  "shapes": "formas",
+  "timeout": "A abertura desta pasta de trabalho expirou. Tente um arquivo menor.",
+  "title": "Planilha",
+  "tooLarge": "Esta pasta de trabalho excede o limite de tamanho da visualização.",
+  "unsupportedNotice": "Esta visualização não oferece suporte a {features} nesta pasta de trabalho. Abra em um aplicativo do sistema para a experiência completa."
+}

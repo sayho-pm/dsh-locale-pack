@@ -28,6 +28,8 @@
   "delete.desc": "Detta tar bort “{name}” från listan över arbetsytor. Mappen och sessionsloggarna behålls. Dess sessioner visas under Ogrupperade.",
   "delete.pending": "Tar bort arbetsyta…",
   "delete.workspace": "Ta bort arbetsyta",
+  "draft.initializationFailed": "Det gick inte att fylla i utkastet. Försök igen om en stund.",
+  "draft.workspaceRequired": "Välj en arbetsyta först.",
   "empty.noMatches": "Inga träffar",
   "empty.none": "Inga sessioner ännu",
   "empty.noneArchived": "Inga arkiverade sessioner ännu",

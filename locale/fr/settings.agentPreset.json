@@ -2,6 +2,11 @@
   "brokenBadge": "Échec du chargement",
   "builtInGroup": "Intégré",
   "close": "Fermer",
+  "createPlugin": "Laisser l'agent créer un plugin",
+  "createPluginChecking": "Vérification de la disponibilité du mode Créateur",
+  "createPluginDescription": "Entrez en mode Créateur et créez votre propre plugin DSH",
+  "createPluginMissing": "Le mode Créateur n'est pas inclus dans cette configuration",
+  "createPluginUnavailable": "Temporairement indisponible. Rouvrez ce menu pour réessayer",
   "creatorDraft": "Laisser l'agent m'aider à créer un préréglage",
   "customGroup": "Personnalisé",
   "guideCopied": "Copié",
@@ -38,6 +43,7 @@
   "seatHint": "Choisissez le préréglage d'agent pour votre nouvelle tâche",
   "sectionIntro": "Choisissez les outils de l'agent et son fonctionnement. Utilisez le mode Standard pour les tâches quotidiennes, ou le mode Creator pour ajouter des fonctionnalités à DSH.",
   "setDefault": "Définir comme défaut pour les nouvelles tâches",
+  "standardUnavailable": "Le mode standard est indisponible. Restaurez-le ou choisissez un autre mode disponible.",
   "switchRefused": "Impossible de passer à {name} : {reason}",
   "view": "Voir la configuration"
 }

@@ -1,0 +1,12 @@
+{
+  "dialog.close": "Tì",
+  "dialog.commandFailed": "A kò lè bẹ̀rẹ̀ ìkójáde Ìgbà.",
+  "dialog.errorTitle": "Ìkójáde Ìgbà kùnà",
+  "dialog.preparingDescription": "A ń múra fáìlì ZIP sílẹ̀ tó ní ìgbà yìí, àwọn ìgbà kékeré inú rẹ̀ àti àwọn ìsopọ̀.",
+  "dialog.preparingTitle": "N ṣe ìkójáde Ìgbà",
+  "dialog.successDescription": "Aṣàwárí ń ṣe ìgbàsílẹ̀ ZIP Ìgbà.",
+  "dialog.successTitle": "A ti bẹ̀rẹ̀ ìgbàsílẹ̀ Ìgbà",
+  "header.more": "Àwọn ìṣe mìíràn",
+  "menu.download": "Ṣe ìgbàsílẹ̀ àkọsílẹ̀ ìgbà",
+  "menu.feedback": "Ìdáhùn"
+}

@@ -1,0 +1,13 @@
+{
+  "candidate.noCwd": "(hakuna cwd)",
+  "crumb.root": "Eneo la kazi",
+  "section.files": "Files na mafolda",
+  "section.sessions": "Vikao",
+  "section.subagents": "Mawakala saidizi",
+  "time.days": "{n}d",
+  "time.hours": "{n}h",
+  "time.minutes": "{n}min",
+  "time.months": "{n}mo",
+  "time.now": "sasa",
+  "time.years": "{n}y"
+}

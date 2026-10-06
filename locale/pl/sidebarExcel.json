@@ -1,0 +1,17 @@
+{
+  "charts": "wykresy",
+  "conditionalFormatting": "formatowanie warunkowe",
+  "encoding": "Nie można odczytać tego kodowania tekstu. Zapisz plik jako UTF-8 lub UTF-16 z BOM i spróbuj ponownie.",
+  "featureSeparator": ", ",
+  "formulaWarning": "Ten skoroszyt zawiera formuły. Wyświetlane wyniki mogą być niekompletne lub niedokładne.",
+  "images": "obrazy",
+  "invalid": "Nie można otworzyć tego arkusza kalkulacyjnego. Sprawdź jego format, zawartość lub ochronę hasłem.",
+  "language": "en",
+  "loading": "Renderowanie dokumentu...",
+  "retry": "Ponów próbę",
+  "shapes": "kształty",
+  "timeout": "Otwieranie tego skoroszytu przekroczyło limit czasu. Spróbuj użyć mniejszego pliku.",
+  "title": "Arkusz kalkulacyjny",
+  "tooLarge": "Ten skoroszyt przekracza limit rozmiaru podglądu.",
+  "unsupportedNotice": "Ten podgląd nie obsługuje w tym skoroszycie: {features}. Otwórz go w aplikacji systemowej, aby uzyskać pełne wrażenia."
+}

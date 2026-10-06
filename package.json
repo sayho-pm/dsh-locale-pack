@@ -1,6 +1,6 @@
 {
   "name": "dsh-locale-pack",
-  "description": "DeepSeek Harness 26개 언어 로케일 팩: 언어 등록 + 사전 (버전업 유지형)",
+  "description": "DeepSeek Harness 29개 언어 로케일 팩: 언어 등록 + 사전 (버전업 유지형)",
   "version": "0.2.0",
   "type": "module",
   "main": "lib/index.js",
