@@ -2,7 +2,7 @@
 
 <p align="right"><strong>English</strong> | <a href="README.ko.md">한국어</a></p>
 
-<p align="center"><img src="docs/hero.jpg" alt="dsh-locale-pack: 29 languages, 2,528 keys × 29 = 73,312 entries. Your Harness, Your Language." width="100%"></p>
+<p align="center"><img src="docs/hero.webp" alt="DeepSeek Harness Multilingual Pack, the dsh-locale-pack plugin: 29 languages, 73,312 entries, 31 selectable" width="100%"></p>
 <p align="center"><img src="docs/languages.jpg" alt="The 29 languages and their codes" width="100%"></p>
 
 A locale pack for the DeepSeek Harness desktop app. It registers 29 languages in the language picker and ships a dictionary for each one. Strings that are not translated yet fall back to English, so the screen stays readable while coverage grows. DeepSeek Harness ships English and Simplified Chinese by default, which makes 31 languages selectable after install.
