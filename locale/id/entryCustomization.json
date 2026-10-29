@@ -1,7 +1,7 @@
 {
-  "create": "Buat plugin Anda",
+  "create": "Buat plugin Anda sendiri",
   "createPrompt.conversation": "Buat plugin tampilan percakapan DSH.",
-  "createPrompt.rightbar": "Buat plugin DSH dengan entri bilah sisi kanan.",
-  "createPrompt.sidebar": "Buat plugin DSH dengan entri bilah sisi kiri.",
-  "install": "Jelajahi plugin lain"
+  "createPrompt.rightbar": "Buat plugin DSH dengan entri di bilah sisi kanan.",
+  "createPrompt.sidebar": "Buat plugin DSH dengan entri di bilah sisi kiri.",
+  "install": "Lihat plugin lainnya"
 }

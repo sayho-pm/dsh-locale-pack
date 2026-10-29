@@ -1,7 +1,7 @@
 {
-  "create": "Creează-ți pluginul",
-  "createPrompt.conversation": "Creează un plugin DSH cu vizualizare conversație.",
-  "createPrompt.rightbar": "Creează un plugin DSH cu intrare în bara laterală din dreapta.",
-  "createPrompt.sidebar": "Creează un plugin DSH cu intrare în bara laterală din stânga.",
-  "install": "Răsfoiește alte pluginuri"
+  "create": "Creați pluginul dumneavoastră",
+  "createPrompt.conversation": "Creați un plugin pentru afișarea vizualizărilor conversației DSH.",
+  "createPrompt.rightbar": "Creați un plugin DSH cu o intrare în bara din dreapta.",
+  "createPrompt.sidebar": "Creați un plugin DSH cu o intrare în bara din stânga.",
+  "install": "Explorați alți pluginuri"
 }

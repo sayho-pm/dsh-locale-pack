@@ -1,7 +1,7 @@
 {
-  "create": "建立您的外掛",
-  "createPrompt.conversation": "建立 DSH 對話檢視外掛。",
-  "createPrompt.rightbar": "建立具有右側邊欄項目的 DSH 外掛。",
-  "createPrompt.sidebar": "建立具有左側邊欄項目的 DSH 外掛。",
-  "install": "瀏覽其他外掛"
+  "create": "建立您的插件",
+  "createPrompt.conversation": "建立一個 DSH 對話視窗插件。",
+  "createPrompt.rightbar": "建立一個具有右側邊欄項目的 DSH 插件。",
+  "createPrompt.sidebar": "建立一個具有左側邊欄項目的 DSH 插件。",
+  "install": "瀏覽其他插件"
 }

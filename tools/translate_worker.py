@@ -374,15 +374,17 @@ def main() -> int:
     ap.add_argument("--limit", type=int, help="언어당 배치 수 상한(시험용)")
     ap.add_argument("--all", action="store_true", help="대상 언어 전부")
     ap.add_argument("--workers", type=int, default=4)
-    ap.add_argument("--local", action="store_true",
-                    help="로컬 Hy-MT2만 쓴다(사슬 1단계 고정, llama-server 18081 필요)")
+    ap.add_argument("--cloud", action="store_true",
+                    help="클라우드 사슬로 돌린다. 기본은 로컬 Hy-MT2다(2026-10-18 세호 지시: 번역은 항상 로컬)")
     ap.add_argument("--batch", type=int, help="배치 크기(기본 25). 여러 줄 값이 섞이면 줄여서 쓴다")
     args = ap.parse_args()
 
     load_env_keys()
-    if args.local:
+    if not args.cloud:
         CHAIN[:] = [LOCAL_CHAIN]
-        print(f"[{now_iso()}] 로컬 Hy-MT2만 사용: {LOCAL_CHAIN[1]}", flush=True)
+        print(f"[{now_iso()}] 로컬 Hy-MT2 사용: {LOCAL_CHAIN[1]}", flush=True)
+    else:
+        print(f"[{now_iso()}] 클라우드 사슬 사용(--cloud): {len(CHAIN)}단계", flush=True)
     if args.batch:
         BATCH = args.batch
     if args.langs:

@@ -1,7 +1,7 @@
 {
-  "create": "Maak je plug-in",
-  "createPrompt.conversation": "Maak een DSH-plug-in voor gespreksweergave.",
-  "createPrompt.rightbar": "Maak een DSH-plug-in met een item in de rechterzijbalk.",
-  "createPrompt.sidebar": "Maak een DSH-plug-in met een item in de linkerzijbalk.",
-  "install": "Blader door andere plug-ins"
+  "create": "Maak je eigen plugin",
+  "createPrompt.conversation": "Maak een plugin voor een conversatieweergave van DSH.",
+  "createPrompt.rightbar": "Maak een DSH plugin met een item in de rechterbalk.",
+  "createPrompt.sidebar": "Maak een DSH plugin met een item in de linkerbalk.",
+  "install": "Bekijk andere plugins"
 }

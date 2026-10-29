@@ -262,7 +262,7 @@
   "search.paths": "{shown} chemins",
   "search.paths.truncated": "Affichage de {shown} sur {total} chemins",
   "session.hierarchy": "Hiérarchie de session",
-  "session.moreViews": "Plus de vues de conversation",
+  "session.moreViews": "Plus d'affichages de la conversation",
   "settings.enter.description": "Ce que font Entrée et le bouton Envoyer pendant l'exécution de l'agent ; Cmd/Ctrl+Entrée utilise l'autre comportement",
   "settings.enter.queue": "File d'attente",
   "settings.enter.steer": "Rediriger",

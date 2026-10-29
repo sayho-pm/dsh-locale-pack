@@ -262,7 +262,7 @@
   "search.paths": "{shown}টি পাথ",
   "search.paths.truncated": "{total}টি পাথের মধ্যে {shown}টি দেখানো হচ্ছে",
   "session.hierarchy": "সেশন অনুক্রম",
-  "session.moreViews": "আরও কথোপকথন দৃশ্য",
+  "session.moreViews": "আরও কনভারসেশন ভিউ",
   "settings.enter.description": "এজেন্ট চলার সময় Enter এবং পাঠান বোতাম কী করে; Cmd/Ctrl+Enter অন্য আচরণ ব্যবহার করে",
   "settings.enter.queue": "সারি",
   "settings.enter.steer": "স্টিয়ার",

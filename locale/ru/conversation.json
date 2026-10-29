@@ -262,7 +262,7 @@
   "search.paths": "{shown} путей",
   "search.paths.truncated": "Показано {shown} из {total} путей",
   "session.hierarchy": "Иерархия сеансов",
-  "session.moreViews": "Дополнительные представления беседы",
+  "session.moreViews": "Дополнительные просмотры разговора",
   "settings.enter.description": "Что делают Enter и кнопка отправки, пока агент работает; Cmd/Ctrl+Enter использует другое поведение",
   "settings.enter.queue": "Очередь",
   "settings.enter.steer": "Управление",

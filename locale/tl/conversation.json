@@ -262,7 +262,7 @@
   "search.paths": "{shown} mga landas",
   "search.paths.truncated": "Ipinapakita ang {shown} sa {total} mga landas",
   "session.hierarchy": "Hierarchy ng sesyon",
-  "session.moreViews": "Higit pang mga view ng pag-uusap",
+  "session.moreViews": "Mas maraming pagtingin sa pag-uusap",
   "settings.enter.description": "Kung ano ang ginagawa ng Enter at ng pindutang Ipadala habang tumatakbo ang agent; ginagamit ng Cmd/Ctrl+Enter ang isa pang gawi",
   "settings.enter.queue": "Pila",
   "settings.enter.steer": "Patnubayan",

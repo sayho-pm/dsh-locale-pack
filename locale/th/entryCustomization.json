@@ -1,7 +1,7 @@
 {
-  "create": "สร้างปลั๊กอินของคุณ",
-  "createPrompt.conversation": "สร้างปลั๊กอินมุมมองการสนทนา DSH.",
-  "createPrompt.rightbar": "สร้างปลั๊กอิน DSH พร้อมรายการแถบด้านข้างขวา.",
-  "createPrompt.sidebar": "สร้างปลั๊กอิน DSH พร้อมรายการแถบด้านข้างซ้าย.",
-  "install": "เรียกดูปลั๊กอินอื่น ๆ"
+  "create": "สร้างปลั๊กอินของคุณเอง",
+  "createPrompt.conversation": "สร้างปลั๊กอินสำหรับแสดงหน้าสนทนาของ DSH",
+  "createPrompt.rightbar": "สร้างปลั๊กอิน DSH ที่มีรายการในแถบด้านขวา",
+  "createPrompt.sidebar": "สร้างปลั๊กอิน DSH ที่มีรายการในแถบด้านซ้าย",
+  "install": "ดูปลั๊กอินอื่นๆ"
 }
