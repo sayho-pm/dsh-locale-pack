@@ -1,0 +1,7 @@
+{
+  "create": "Erstelle dein Plugin",
+  "createPrompt.conversation": "Erstelle ein DSH-Plugin für die Konversationsansicht.",
+  "createPrompt.rightbar": "Erstelle ein DSH-Plugin mit einem Eintrag in der rechten Seitenleiste.",
+  "createPrompt.sidebar": "Erstelle ein DSH-Plugin mit einem Eintrag in der linken Seitenleiste.",
+  "install": "Andere Plugins durchsuchen"
+}

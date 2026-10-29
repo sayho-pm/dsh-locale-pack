@@ -262,6 +262,7 @@
   "search.paths": "{shown} шляхів",
   "search.paths.truncated": "Показано {shown} з {total} шляхів",
   "session.hierarchy": "Ієрархія сеансу",
+  "session.moreViews": "Більше переглядів розмови",
   "settings.enter.description": "Що роблять Enter і кнопка надсилання, коли агент працює; Cmd/Ctrl+Enter використовує іншу поведінку",
   "settings.enter.queue": "Черга",
   "settings.enter.steer": "Скерувати",

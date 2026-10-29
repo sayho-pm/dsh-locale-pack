@@ -262,6 +262,7 @@
   "search.paths": "{shown} yol",
   "search.paths.truncated": "{total} yoldan {shown} yol gösteriliyor",
   "session.hierarchy": "Oturum hiyerarşisi",
+  "session.moreViews": "Daha fazla konuşma görünümü",
   "settings.enter.description": "Ajan çalışırken Enter ve Gönder düğmesinin ne yapacağı; Cmd/Ctrl+Enter diğer davranışı kullanır",
   "settings.enter.queue": "Sıraya al",
   "settings.enter.steer": "Yönlendir",

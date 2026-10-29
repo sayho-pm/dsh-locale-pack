@@ -31,6 +31,7 @@
   "dock.splitPane": "Розділити",
   "dock.splitPaneDisabled": "Обмеження: дві панелі",
   "dock.splitPaneNarrow": "Недостатньо ширини для розділення, розширте бічну панель",
+  "tab.guide.more": "Більше інструментів",
   "tab.guide.title": "Початок",
   "tab.unavailable": "Поки що цей тип вмісту тут неможливо переглянути."
 }

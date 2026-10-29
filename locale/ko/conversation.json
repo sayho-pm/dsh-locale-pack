@@ -264,6 +264,7 @@
   "search.paths": "{shown}개 경로",
   "search.paths.truncated": "{total}개 경로 중 {shown}개 표시 중",
   "session.hierarchy": "세션 계층",
+  "session.moreViews": "대화 화면 더보기",
   "settings.enter.description": "에이전트 실행 중 Enter와 보내기 버튼의 동작. Cmd/Ctrl+Enter는 반대 동작을 사용합니다",
   "settings.enter.queue": "대기시키기",
   "settings.enter.steer": "조종하기",

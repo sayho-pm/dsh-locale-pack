@@ -262,6 +262,7 @@
   "search.paths": "{shown} caminhos",
   "search.paths.truncated": "A mostrar {shown} de {total} caminhos",
   "session.hierarchy": "Hierarquia da sessão",
+  "session.moreViews": "Mais vistas da conversa",
   "settings.enter.description": "O que o Enter e o botão Enviar fazem enquanto o agente está em execução; Cmd/Ctrl+Enter utiliza o outro comportamento",
   "settings.enter.queue": "Fila",
   "settings.enter.steer": "Orientar",

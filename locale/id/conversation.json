@@ -262,6 +262,7 @@
   "search.paths": "{shown} jalur",
   "search.paths.truncated": "Menampilkan {shown} dari {total} jalur",
   "session.hierarchy": "Hierarki sesi",
+  "session.moreViews": "Tampilan percakapan lainnya",
   "settings.enter.description": "Apa yang dilakukan Enter dan tombol Kirim saat agen berjalan; Cmd/Ctrl+Enter menggunakan perilaku lainnya",
   "settings.enter.queue": "Antre",
   "settings.enter.steer": "Arahkan",

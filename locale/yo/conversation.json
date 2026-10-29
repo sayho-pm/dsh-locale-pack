@@ -262,6 +262,7 @@
   "search.paths": "{shown} ọ̀nà",
   "search.paths.truncated": "Àfihàn {shown} nínú {total} ọ̀nà",
   "session.hierarchy": "Ìtò ìpàdé",
+  "session.moreViews": "Àwọ́n ìwò ìbánísọ̀rọ̀ míràn",
   "settings.enter.description": "Ohun tí Enter àti bọ́tìnì Send ń ṣe nígbà tí aṣojú ń ṣiṣẹ́; Cmd/Ctrl+Enter ń lo ìwà kejì",
   "settings.enter.queue": "Ìdúró",
   "settings.enter.steer": "Darí",

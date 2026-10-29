@@ -262,6 +262,7 @@
   "search.paths": "{shown} căi",
   "search.paths.truncated": "Se afișează {shown} din {total} căi",
   "session.hierarchy": "Ierarhia sesiunii",
+  "session.moreViews": "Mai multe vizualizări ale conversației",
   "settings.enter.description": "Ce fac Enter și butonul Trimitere în timp ce agentul rulează; Cmd/Ctrl+Enter utilizează celălalt comportament",
   "settings.enter.queue": "Coadă",
   "settings.enter.steer": "Direcționare",

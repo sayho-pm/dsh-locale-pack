@@ -262,6 +262,7 @@
   "search.paths": "{shown} पथ",
   "search.paths.truncated": "{total} में से {shown} पथ दिखाए जा रहे हैं",
   "session.hierarchy": "सत्र पदानुक्रम",
+  "session.moreViews": "अधिक वार्तालाप दृश्य",
   "settings.enter.description": "एजेंट के चलने के दौरान एंटर और भेजें बटन क्या करते हैं; Cmd/Ctrl+Enter दूसरे व्यवहार का उपयोग करता है",
   "settings.enter.queue": "कतार",
   "settings.enter.steer": "स्टियर",

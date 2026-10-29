@@ -1,0 +1,7 @@
+{
+  "create": "Skapa ditt plugin",
+  "createPrompt.conversation": "Skapa ett DSH-plugin för konversationsvy.",
+  "createPrompt.rightbar": "Skapa ett DSH-plugin med en post i högra sidofältet.",
+  "createPrompt.sidebar": "Skapa ett DSH-plugin med en post i vänstra sidofältet.",
+  "install": "Bläddra bland andra plugin"
+}

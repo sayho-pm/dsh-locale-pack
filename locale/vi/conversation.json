@@ -262,6 +262,7 @@
   "search.paths": "{shown} đường dẫn",
   "search.paths.truncated": "Hiển thị {shown} trong số {total} đường dẫn",
   "session.hierarchy": "Phân cấp phiên",
+  "session.moreViews": "Thêm chế độ xem hội thoại",
   "settings.enter.description": "Những gì Enter và nút Gửi thực hiện khi tác tử đang chạy; Cmd/Ctrl+Enter dùng hành vi còn lại",
   "settings.enter.queue": "Hàng đợi",
   "settings.enter.steer": "Điều hướng",

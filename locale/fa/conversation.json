@@ -262,6 +262,7 @@
   "search.paths": "{shown} مسیر",
   "search.paths.truncated": "نمایش {shown} از {total} مسیر",
   "session.hierarchy": "سلسله مراتب نشست",
+  "session.moreViews": "نماهای بیشتر گفتگو",
   "settings.enter.description": "Enter و دکمه ارسال هنگام اجرای ایجنت چه می‌کنند؛ Cmd/Ctrl+Enter از رفتار دیگر استفاده می‌کند",
   "settings.enter.queue": "صف",
   "settings.enter.steer": "هدایت",

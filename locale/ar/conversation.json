@@ -262,6 +262,7 @@
   "search.paths": "{shown} مسارات",
   "search.paths.truncated": "عرض {shown} من {total} مسارات",
   "session.hierarchy": "التسلسل الهرمي للجلسة",
+  "session.moreViews": "المزيد من طرق عرض المحادثة",
   "settings.enter.description": "ما يفعله Enter وزر الإرسال أثناء تشغيل الوكيل؛ يستخدم Cmd/Ctrl+Enter السلوك الآخر",
   "settings.enter.queue": "قائمة الانتظار",
   "settings.enter.steer": "توجيه",

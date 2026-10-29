@@ -262,6 +262,7 @@
   "search.paths": "{shown} sökvägar",
   "search.paths.truncated": "Visar {shown} av {total} sökvägar",
   "session.hierarchy": "Sessionshierarki",
+  "session.moreViews": "Fler konversationsvyer",
   "settings.enter.description": "Vad Enter och knappen Skicka gör medan agenten körs; Cmd/Ctrl+Enter använder det andra beteendet",
   "settings.enter.queue": "Kö",
   "settings.enter.steer": "Styr",

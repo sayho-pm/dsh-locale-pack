@@ -1,5 +1,13 @@
 # 변경 이력
 
+## 0.5.0 (2026-10-30)
+- DeepSeek Harness `0.2.1-rc.5`에 맞췄다. 기준선을 63개 네임스페이스·3,046키에서 64개 네임스페이스·3,054키로 늘렸다. 새로 생긴 것은 `entryCustomization`(5키)과 `conversation.session.moreViews`·`sidebar.panels.more`·`sidebarRight.tab.guide.more` 3개이고, 원문이 바뀐 키는 없다
+- rc.5 추출본에는 기존 키 13개와 `claude-code-mods`·`inspector`가 빠진 것으로 보였지만, 번들 원문을 찾아보니 다 살아 있었다. 그래서 rc.5 추출 62개 네임스페이스에 기존 항목 21개를 더한 유니온 기준선을 써서 번역본에서 키가 날아가지 않게 했다
+- 신규 키 8개를 언어 29개에 채웠다(232건). 스페인어 7개는 Spelvi의 PR #3에서 받았고, 나머지와 `conversation.session.moreViews`는 이번에 넣었다
+- Jev 채점: 평균 의미 0.906, 자연 0.632. 의미 0.6 미만 3건은 한 글자 라벨과 문법에 문제가 없는 표현이라 사람 확인으로 넘겼다
+- 재작업: 자연 0.6 미만 64건을 다른 모델과 높은 온도로 다시 번역했지만 점수가 오른 건 23건뿐이라 그 23건만 반영하고 41건은 원본으로 되돌렸다
+- 게이트 `check-keep`·`build-client`(88,569키)·`smoke`가 모두 통과한다
+
 ## 0.4.0 (2026-10-21)
 - DeepSeek Harness `0.2.1-rc.2`에 맞췄다. 기준선을 57개 네임스페이스·2,528키에서 63개 네임스페이스·3,046키로 늘렸다. 새로 생긴 네임스페이스는 `schedule.manager`(188키), `pluginMarket`(78키), `cotTranslation`(32키), `secretMask`(2키), `shortcuts.layout`(1키), `deepseek-model-label-1017`(1키)이고, 기존 네임스페이스에도 216키가 새로 생기고 15키의 원문이 바뀌었다
 - 업데이트로 바뀐 키 533개를 언어 29개에 채웠다. 로컬 Hy-MT2 7B로 돌리고, 게이트가 거부한 것은 클라우드 사슬(muse-spark-1.3-contributor → meta/muse-spark-1.3-contributor → muse-spark-1.2-contributor → mimo-v2.6-pro)로 넘겼다

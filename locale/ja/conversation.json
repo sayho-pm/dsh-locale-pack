@@ -262,6 +262,7 @@
   "search.paths": "{shown}件のパス",
   "search.paths.truncated": "{total}件中{shown}件のパスを表示しています",
   "session.hierarchy": "セッション階層",
+  "session.moreViews": "その他の会話表示",
   "settings.enter.description": "エージェント実行中にエンターキーや送信ボタンがどう動作するかを設定します。コマンド/コントロール+エンターキーでは別の動作になります",
   "settings.enter.queue": "キュー",
   "settings.enter.steer": "割り込み",

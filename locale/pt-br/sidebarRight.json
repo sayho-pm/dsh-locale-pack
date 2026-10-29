@@ -31,6 +31,7 @@
   "dock.splitPane": "Dividir",
   "dock.splitPaneDisabled": "O limite é de dois painéis",
   "dock.splitPaneNarrow": "Largura insuficiente para dividir, alargue a barra lateral",
+  "tab.guide.more": "Mais ferramentas",
   "tab.guide.title": "Início",
   "tab.unavailable": "Nada aqui pode exibir este tipo de conteúdo ainda."
 }

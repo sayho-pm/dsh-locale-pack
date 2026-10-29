@@ -31,6 +31,7 @@
   "dock.splitPane": "Böl",
   "dock.splitPaneDisabled": "En fazla iki bölme olabilir",
   "dock.splitPaneNarrow": "Bölmek için genişlik yeterli değil, kenar çubuğunu genişletin",
+  "tab.guide.more": "Daha fazla araç",
   "tab.guide.title": "Başlangıç",
   "tab.unavailable": "Buradaki hiçbir şey bu tür içeriği henüz görüntüleyemiyor."
 }

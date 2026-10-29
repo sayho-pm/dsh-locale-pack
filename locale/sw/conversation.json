@@ -262,6 +262,7 @@
   "search.paths": "{shown} njia",
   "search.paths.truncated": "Inaonyesha {shown} kati ya {total} njia",
   "session.hierarchy": "Mpangilio wa ngazi wa vipindi",
+  "session.moreViews": "Mionekano zaidi ya mazungumzo",
   "settings.enter.description": "Kile Enter na kitufe cha kutuma hufanya wakati wakala anaendesha; Cmd/Ctrl+Enter hutumia mwenendo mwingine",
   "settings.enter.queue": "Msururu",
   "settings.enter.steer": "Elekeza",

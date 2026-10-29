@@ -262,6 +262,7 @@
   "search.paths": "{shown} rutas",
   "search.paths.truncated": "Mostrando {shown} de {total} rutas",
   "session.hierarchy": "Jerarquía de la sesión",
+  "session.moreViews": "Más vistas de la conversación",
   "settings.enter.description": "Lo que hacen Enter y el botón Enviar mientras el agente está en ejecución; Cmd/Ctrl+Enter usa el otro comportamiento",
   "settings.enter.queue": "Encolar",
   "settings.enter.steer": "Redirigir",

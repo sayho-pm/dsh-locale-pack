@@ -31,6 +31,7 @@
   "dock.splitPane": "分割",
   "dock.splitPaneDisabled": "窗格上限為兩個",
   "dock.splitPaneNarrow": "寬度不足無法分割，請加寬側邊欄",
+  "tab.guide.more": "更多工具",
   "tab.guide.title": "開始",
   "tab.unavailable": "目前這裡無法檢視這類內容。"
 }

@@ -262,6 +262,7 @@
   "search.paths": "{shown} ścieżek",
   "search.paths.truncated": "Wyświetlono {shown} z {total} ścieżek",
   "session.hierarchy": "Hierarchia sesji",
+  "session.moreViews": "Więcej widoków konwersacji",
   "settings.enter.description": "Co robią Enter i przycisk wysyłania, gdy agent jest uruchomiony; Cmd/Ctrl+Enter używa drugiego zachowania",
   "settings.enter.queue": "Kolejka",
   "settings.enter.steer": "Sterowanie",

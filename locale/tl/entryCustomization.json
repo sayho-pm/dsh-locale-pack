@@ -1,0 +1,7 @@
+{
+  "create": "Gumawa ng iyong plugin",
+  "createPrompt.conversation": "Gumawa ng DSH plugin para sa view ng pag-uusap.",
+  "createPrompt.rightbar": "Gumawa ng DSH plugin na may entry sa kanang sidebar.",
+  "createPrompt.sidebar": "Gumawa ng DSH plugin na may entry sa kaliwang sidebar.",
+  "install": "Tingnan ang iba pang mga plugin"
+}

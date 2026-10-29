@@ -1,0 +1,7 @@
+{
+  "create": "建立你的外掛程式",
+  "createPrompt.conversation": "建立一個 DSH 對話檢視外掛程式。",
+  "createPrompt.rightbar": "建立一個附有右側邊欄項目的 DSH 外掛程式。",
+  "createPrompt.sidebar": "建立一個附有左側邊欄項目的 DSH 外掛程式。",
+  "install": "瀏覽其他外掛程式"
+}

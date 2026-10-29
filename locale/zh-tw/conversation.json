@@ -262,6 +262,7 @@
   "search.paths": "{shown} 個路徑",
   "search.paths.truncated": "顯示 {total} 個路徑中的 {shown} 個",
   "session.hierarchy": "工作階段階層",
+  "session.moreViews": "更多對話檢視",
   "settings.enter.description": "代理執行時輸入鍵與傳送按鈕的功能，命令鍵或控制鍵加輸入鍵則使用另一種行為",
   "settings.enter.queue": "佇列",
   "settings.enter.steer": "引導",

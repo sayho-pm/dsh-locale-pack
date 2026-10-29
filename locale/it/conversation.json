@@ -262,6 +262,7 @@
   "search.paths": "{shown} percorsi",
   "search.paths.truncated": "Visualizzati {shown} di {total} percorsi",
   "session.hierarchy": "Gerarchia della sessione",
+  "session.moreViews": "Altre viste della conversazione",
   "settings.enter.description": "Cosa fanno Enter e il pulsante Invia mentre l'agente è in esecuzione; Cmd/Ctrl+Enter utilizza l'altro comportamento",
   "settings.enter.queue": "Accoda",
   "settings.enter.steer": "Guida",
