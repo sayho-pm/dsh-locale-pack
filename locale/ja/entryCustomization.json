@@ -1,7 +1,7 @@
 {
-  "create": "プラグイン作成",
-  "createPrompt.conversation": "DSH会話ビュー用プラグインを作成します。",
-  "createPrompt.rightbar": "右サイドバー項目付きのDSHプラグインを作成します。",
-  "createPrompt.sidebar": "左サイドバー項目付きのDSHプラグインを作成します。",
-  "install": "他のプラグイン一覧"
+  "create": "プラグインを作成します",
+  "createPrompt.conversation": "DSHの会話ビュープラグインを作成します",
+  "createPrompt.rightbar": "右サイドバー項目を持つDSHプラグインを作成します",
+  "createPrompt.sidebar": "左サイドバー項目を持つDSHプラグインを作成します",
+  "install": "他のプラグインを閲覧します"
 }

@@ -1,7 +1,7 @@
 {
-  "create": "افزونه خود را بسازید",
-  "createPrompt.conversation": "یک افزونه نمای گفتگوی DSH بسازید.",
-  "createPrompt.rightbar": "یک افزونه DSH با ورودی نوار کناری راست بسازید.",
-  "createPrompt.sidebar": "یک افزونه DSH با ورودی نوار کناری چپ بسازید.",
-  "install": "سایر افزونه‌ها را مرور کنید"
+  "create": "پلاگین خود را ایجاد کنید",
+  "createPrompt.conversation": "پلاگینی برای نمای گفتگوی DSH ایجاد کنید.",
+  "createPrompt.rightbar": "پلاگین DSH را با یک ورودی در نوار سمت راست ایجاد کنید.",
+  "createPrompt.sidebar": "پلاگین DSH را با یک ورودی در نوار سمت چپ ایجاد کنید.",
+  "install": "در میان پلاگین‌های دیگر جستجو کنید"
 }

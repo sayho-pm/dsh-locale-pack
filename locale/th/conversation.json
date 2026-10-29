@@ -262,7 +262,7 @@
   "search.paths": "{shown} เส้นทาง",
   "search.paths.truncated": "กำลังแสดง {shown} จาก {total} เส้นทาง",
   "session.hierarchy": "ลำดับชั้นของเซสชัน",
-  "session.moreViews": "มุมมองการสนทนาเพิ่มเติม",
+  "session.moreViews": "ดูบทสนทนาเพิ่มเติม",
   "settings.enter.description": "สิ่งที่ Enter และปุ่มส่งทำขณะเอเจนต์กำลังทำงาน; Cmd/Ctrl+Enter จะใช้ลักษณะอีกแบบ",
   "settings.enter.queue": "เข้าคิว",
   "settings.enter.steer": "ปรับทิศทาง",

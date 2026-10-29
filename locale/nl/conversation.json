@@ -262,7 +262,7 @@
   "search.paths": "{shown} paden",
   "search.paths.truncated": "{shown} van {total} paden weergegeven",
   "session.hierarchy": "Sessiehiërarchie",
-  "session.moreViews": "Meer gespreksweergaven",
+  "session.moreViews": "Meer weergaven van gesprekken",
   "settings.enter.description": "Wat Enter en de verzendknop doen terwijl de agent actief is; Cmd/Ctrl+Enter gebruikt het andere gedrag",
   "settings.enter.queue": "Wachtrij",
   "settings.enter.steer": "Bijsturen",

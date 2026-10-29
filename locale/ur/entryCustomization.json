@@ -1,7 +1,7 @@
 {
-  "create": "اپنا پلگ ان بنائیں",
-  "createPrompt.conversation": "DSH گفتگو ویو پلگ ان بنائیں۔",
-  "createPrompt.rightbar": "دائیں سائیڈ بار اندراج کے ساتھ DSH پلگ ان بنائیں۔",
-  "createPrompt.sidebar": "بائیں سائیڈ بار اندراج کے ساتھ DSH پلگ ان بنائیں۔",
-  "install": "دیگر پلگ انز دیکھیں"
+  "create": "اپنا پلگ اِن بنائیں",
+  "createPrompt.conversation": "ایک DSH کنورسیشن ویو پلگ اِن بنائیں۔",
+  "createPrompt.rightbar": "ایک رائٹ سائیڈ بار انٹری کے ساتھ DSH پلگ اِن بنائیں۔",
+  "createPrompt.sidebar": "ایک لیفٹ سائیڈ بار انٹری کے ساتھ DSH پلگ اِن بنائیں۔",
+  "install": "دیگر پلگ اِنز دیکھیں"
 }

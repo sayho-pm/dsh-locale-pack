@@ -1,7 +1,7 @@
 {
-  "create": "내 플러그인 만들기",
-  "createPrompt.conversation": "DSH 대화 보기 플러그인을 만듭니다.",
-  "createPrompt.rightbar": "오른쪽 사이드바 항목이 있는 DSH 플러그인을 만듭니다.",
-  "createPrompt.sidebar": "왼쪽 사이드바 항목이 있는 DSH 플러그인을 만듭니다.",
-  "install": "다른 플러그인 찾아보기"
+  "create": "자신만의 플러그인을 만드세요",
+  "createPrompt.conversation": "DSH 대화 보기 플러그인을 만드세요",
+  "createPrompt.rightbar": "오른쪽 사이드바 항목이 포함된 DSH 플러그인을 만드세요",
+  "createPrompt.sidebar": "왼쪽 사이드바 항목이 포함된 DSH 플러그인을 만드세요",
+  "install": "다른 플러그인들을 살펴보세요"
 }

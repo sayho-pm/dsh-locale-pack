@@ -262,7 +262,7 @@
   "search.paths": "{shown} Pfade",
   "search.paths.truncated": "Zeige {shown} von {total} Pfaden",
   "session.hierarchy": "Sitzungshierarchie",
-  "session.moreViews": "Weitere Gesprächsansichten",
+  "session.moreViews": "Mehr Ansichten der Konversation",
   "settings.enter.description": "Was Enter und die Senden-Schaltfläche tun, während der Agent ausgeführt wird; Cmd/Ctrl+Enter verwendet das andere Verhalten",
   "settings.enter.queue": "Warteschlange",
   "settings.enter.steer": "Steuern",

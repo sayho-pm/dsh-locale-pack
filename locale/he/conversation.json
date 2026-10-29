@@ -262,7 +262,7 @@
   "search.paths": "{shown} נתיבים",
   "search.paths.truncated": "מציג {shown} מתוך {total} נתיבים",
   "session.hierarchy": "היררכיית ההפעלה",
-  "session.moreViews": "תצוגות שיחה נוספות",
+  "session.moreViews": "עוד צפיות בשיחה",
   "settings.enter.description": "מה Enter ולחצן השליחה עושים בזמן שהסוכן פועל; Cmd/Ctrl+Enter משתמש בהתנהגות האחרת",
   "settings.enter.queue": "תור",
   "settings.enter.steer": "היגוי",

@@ -262,7 +262,7 @@
   "search.paths": "{shown} پاتھ",
   "search.paths.truncated": "{total} میں سے {shown} پاتھ دکھائے جا رہے ہیں",
   "session.hierarchy": "سیشن کی درجہ بندی",
-  "session.moreViews": "مزید گفتگو کے مناظر",
+  "session.moreViews": "مزید گفتگو دیکھنے کے اختیارات",
   "settings.enter.description": "ایجنٹ چل رہا ہو تو Enter اور Send بٹن کیا کرتے ہیں؛ Cmd/Ctrl+Enter دوسرا رویہ استعمال کرتا ہے",
   "settings.enter.queue": "قطار",
   "settings.enter.steer": "رہنمائی",
