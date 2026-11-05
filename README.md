@@ -4,7 +4,7 @@
 
 <p align="center"><img src="docs/pack-overview.png" alt="dsh-locale-pack overview: 29 languages added, 88,569 translated entries, 31 selectable, the supported languages, and the git clone install command" width="100%"></p>
 
-A locale pack for the DeepSeek Harness desktop app. It registers 29 languages in the language picker and ships a dictionary for each one. Strings that are not translated yet fall back to English, so the screen stays readable while coverage grows. DeepSeek Harness ships English and Simplified Chinese by default, which makes 31 languages selectable after install. The pack is kept up to date with the latest DeepSeek Harness release.
+A locale pack for the DeepSeek Harness desktop app. It registers 29 languages in the language picker and ships a dictionary for each one. Strings that are not translated yet fall back to English, so the screen stays readable while coverage grows. DeepSeek Harness ships English and Simplified Chinese by default, which makes 31 languages selectable after install. The pack is kept up to date with the latest DeepSeek Harness release. It is also listed in [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness), the community index of DSH plugins and tools.
 
 ## Why this exists
 
@@ -87,7 +87,7 @@ tools/smoke.mjs            Smoke test
 tools/check-keep.mjs       Translation quality check
 tools/translate_worker.py  Translation worker (runs outside the chat session)
 tools/clean-romanized.py   Fixes transliteration slips
-tools/en.baseline.json     English baseline (DeepSeek Harness 0.2.0-rc.2)
+tools/en.baseline.json     English baseline (DeepSeek Harness 0.2.1-rc.5)
 ```
 
 ## Editing a string
@@ -124,14 +124,14 @@ Terms that stay in English are collected in `locale/_policy/keep-english.json`. 
 
 ## Re-running the translation
 
-Translation runs in a separate process from the chat session. Nothing from the session model or the conversation history is attached to a request: only the English source strings leave the machine.
+Translation runs in a separate process from the chat session. By default it runs on this machine: the worker calls a local Hy-MT2 7B server on port 18081, so no string leaves the computer. Session messages and conversation history are never part of a request.
 
 ```bash
 python3 tools/translate_worker.py --langs ja,de      # specific languages
 python3 tools/translate_worker.py --all              # everything
 ```
 
-Requests move through four models in order. If the first one fails, the worker retries along an equivalent route, then an earlier version, and finally a model that is not used for training. `번역_로그` records which model handled each batch.
+Strings that fail the quality gate, or runs where the local server is unavailable, can use a hosted four-model chain with `--cloud`. `번역_로그` records which model handled each batch.
 
 ## Notes for users
 

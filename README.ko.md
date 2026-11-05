@@ -4,7 +4,7 @@
 
 <p align="center"><img src="docs/pack-overview.png" alt="dsh-locale-pack 소개: 추가한 언어 29개, 번역 문구 88,569개, 선택 가능한 언어 31개, 지원 언어 목록과 git clone 설치 명령" width="100%"></p>
 
-DeepSeek Harness 데스크톱 앱을 위한 로케일 팩입니다. 언어 선택 목록에 29개 언어를 등록하고 각 언어의 사전을 함께 싣습니다. 번역이 아직 없는 문구는 영어로 표시되므로 화면을 읽을 수 있는 상태가 유지됩니다. DeepSeek Harness가 기본으로 싣는 영어와 간체 중국어까지 합치면 화면에서 고를 수 있는 언어는 31개입니다. DeepSeek Harness의 최신 버전에 맞춰 사전을 계속 갱신합니다.
+DeepSeek Harness 데스크톱 앱을 위한 로케일 팩입니다. 언어 선택 목록에 29개 언어를 등록하고 각 언어의 사전을 함께 싣습니다. 번역이 아직 없는 문구는 영어로 표시되므로 화면을 읽을 수 있는 상태가 유지됩니다. DeepSeek Harness가 기본으로 싣는 영어와 간체 중국어까지 합치면 화면에서 고를 수 있는 언어는 31개입니다. DeepSeek Harness의 최신 버전에 맞춰 사전을 계속 갱신합니다. 커뮤니티 목록인 [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness)에도 등재되어 있습니다.
 
 ## 만든 이유
 
@@ -87,7 +87,7 @@ tools/smoke.mjs         스모크 테스트
 tools/check-keep.mjs    번역 품질 점검
 tools/translate_worker.py  번역 워커(대화 세션과 분리되어 동작)
 tools/clean-romanized.py   로마자 표기 오류 정리
-tools/en.baseline.json  영문 기준선 (DeepSeek Harness 0.2.0-rc.2)
+tools/en.baseline.json  영문 기준선 (DeepSeek Harness 0.2.1-rc.5)
 ```
 
 ## 문구를 고치는 방법
@@ -124,14 +124,14 @@ node tools/build-client.mjs --langs ko,ja   # 한국어와 일본어만
 
 ## 번역을 다시 돌리는 방법
 
-번역은 대화 세션과 분리된 별도 프로세스에서 진행합니다. 세션 모델이나 대화 기록이 번역 요청에 실리지 않으며, 번역 대상인 영문 문구만 나갑니다.
+번역은 대화 세션과 분리된 별도 프로세스에서 진행합니다. 기본은 이 컴퓨터에서 돌며, 워커가 18081 포트의 로컬 Hy-MT2 7B 서버를 호출하므로 문구가 기기 밖으로 나가지 않습니다. 세션 메시지나 대화 기록은 요청에 실리지 않습니다.
 
 ```bash
 python3 tools/translate_worker.py --langs ja,de      # 지정 언어만
 python3 tools/translate_worker.py --all              # 전체
 ```
 
-요청은 네 단계 모델을 순서대로 거칩니다. 첫 모델이 실패하면 같은 성격의 다른 경로로, 이어서 이전 버전으로, 마지막에는 학습에 쓰이지 않는 모델로 진행합니다. 어느 모델이 처리했는지는 `번역_로그`의 기록에서 확인할 수 있습니다.
+로컬 서버를 쓸 수 없거나 문구가 품질 점검을 통과하지 못할 때는 `--cloud`로 호스팅 사슬 네 단계를 씁니다. 어느 모델이 처리했는지는 `번역_로그`에서 확인할 수 있습니다.
 
 ## 사용자 유의사항
 
