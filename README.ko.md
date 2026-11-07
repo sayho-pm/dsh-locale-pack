@@ -122,29 +122,6 @@ node tools/build-client.mjs --langs ko,ja   # 한국어와 일본어만
 
 언어 두 개를 묶으면 8.3MB가 아니라 약 575KB가 됩니다. 위 표의 언어 코드를 쉼표로 이어 넣으면 됩니다. 옵션을 빼면 전체 언어를 다시 묶습니다.
 
-## 번역 품질 점검
-
-`tools/check-keep.mjs`가 각 언어의 값을 영문 기준선과 대조해 다섯 가지를 확인합니다.
-
-1. `{name}` 같은 표시가 원문과 같은 개수로 있는가
-2. 제품명과 프로토콜명(DeepSeek Harness, MCP, JSON, OpenAI Responses 등)이 그대로 남아 있는가
-3. 한자와 가나를 쓰지 않는 언어에 한자가 섞이지 않았는가
-4. 한국어 문장에 줄표가 들어가지 않았는가
-5. 값이 비어 있지 않은가, 기준선에 없는 키가 섞이지 않았는가
-
-영어로 두기로 한 용어는 `locale/_policy/keep-english.json`에 모아 두었습니다. 새 용어를 영어로 유지하려면 이 파일에 추가합니다.
-
-## 번역을 다시 돌리는 방법
-
-번역은 대화 세션과 분리된 별도 프로세스에서 진행합니다. 기본은 이 컴퓨터에서 돌며, 워커가 18081 포트의 로컬 Hy-MT2 7B 서버를 호출하므로 문구가 기기 밖으로 나가지 않습니다. 세션 메시지나 대화 기록은 요청에 실리지 않습니다.
-
-```bash
-python3 tools/translate_worker.py --langs ja,de      # 지정 언어만
-python3 tools/translate_worker.py --all              # 전체
-```
-
-로컬 서버를 쓸 수 없거나 문구가 품질 점검을 통과하지 못할 때는 `--cloud`로 호스팅 사슬 네 단계를 씁니다. 어느 모델이 처리했는지는 `번역_로그`에서 확인할 수 있습니다.
-
 ## 사용자 유의사항
 
 - 아랍어·우르두어·히브리어·페르시아어는 표기 방향이 오른쪽에서 왼쪽입니다. 사전은 준비되어 있으며 화면 레이아웃은 DeepSeek Harness가 처리합니다
@@ -157,8 +134,10 @@ python3 tools/translate_worker.py --all              # 전체
 
 추가 언어 요청을 받습니다. 이 저장소에 이슈로 언어 이름을 남겨 주시면 다음 작업에 포함합니다. 이미 있는 언어의 표현을 고치는 일은 `locale/<언어>/` 아래 사전 파일에서 바로 고치고 풀 리퀘스트로 보내 주시면 됩니다.
 
+번역 파이프라인을 돌리는 관리자는 [MAINTAINING.md](MAINTAINING.md)에서 명령을 볼 수 있습니다.
+
 ## 라이선스
 
 MIT
 
-<!-- pack-facts: version=0.6.2 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->
+<!-- pack-facts: version=0.7.0 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->

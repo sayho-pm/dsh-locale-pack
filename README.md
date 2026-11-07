@@ -122,29 +122,6 @@ node tools/build-client.mjs --langs ko,ja   # Korean and Japanese only
 
 A two-language bundle comes out at roughly 575 KB instead of 8.3 MB. The flag accepts any comma-separated list of the language codes in the table above. Omitting it rebuilds every language.
 
-## Translation quality checks
-
-`tools/check-keep.mjs` compares every language against the English baseline and reports five things:
-
-1. Placeholders such as `{name}` appear the same number of times as in the source
-2. Product and protocol names (DeepSeek Harness, MCP, JSON, OpenAI Responses, and others) are left untranslated
-3. Languages that do not use Chinese characters contain none
-4. Korean sentences contain no em dashes
-5. No value is empty, and no key is present that the baseline does not define
-
-Terms that stay in English are collected in `locale/_policy/keep-english.json`. Add a term there to keep it untranslated.
-
-## Re-running the translation
-
-Translation runs in a separate process from the chat session. By default it runs on this machine: the worker calls a local Hy-MT2 7B server on port 18081, so no string leaves the computer. Session messages and conversation history are never part of a request.
-
-```bash
-python3 tools/translate_worker.py --langs ja,de      # specific languages
-python3 tools/translate_worker.py --all              # everything
-```
-
-Strings that fail the quality gate, or runs where the local server is unavailable, can use a hosted four-model chain with `--cloud`. `번역_로그` records which model handled each batch.
-
 ## Notes for users
 
 - Arabic, Urdu, Hebrew, and Persian are written right to left. The dictionaries are ready; the screen layout is handled by DeepSeek Harness itself.
@@ -157,8 +134,10 @@ Strings that fail the quality gate, or runs where the local server is unavailabl
 
 Requests for additional languages are welcome. Open an issue in this repository naming the language, and it gets picked up in the next round. Corrections to an existing language go straight into that language's dictionary file under `locale/<language>/`, and a pull request is the easiest form.
 
+Maintainers who run the translation pipeline will find the commands in [MAINTAINING.md](MAINTAINING.md).
+
 ## License
 
 MIT
 
-<!-- pack-facts: version=0.6.2 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->
+<!-- pack-facts: version=0.7.0 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->

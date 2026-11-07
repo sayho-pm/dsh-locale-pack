@@ -122,29 +122,6 @@ node tools/build-client.mjs --langs ko,ja   # Korean and Japanese only
 
 Bundel dua bahasa berukuran sekitar 575 KB, bukan 8.3 MB. Flag tersebut menerima daftar kode bahasa apa pun yang dipisahkan koma pada tabel di atas. Menghilangkannya akan membangun ulang setiap bahasa.
 
-## Pemeriksaan kualitas terjemahan
-
-`tools/check-keep.mjs` membandingkan setiap bahasa dengan baseline bahasa Inggris dan melaporkan lima hal:
-
-1. Placeholders such as `{name}` appear the same number of times as in the source
-2. Product and protocol names (DeepSeek Harness, MCP, JSON, OpenAI Responses, and others) are left untranslated
-3. Languages that do not use Chinese characters contain none
-4. Korean sentences contain no em dashes
-5. No value is empty, and no key is present that the baseline does not define
-
-Terms that stay in English are collected in `locale/_policy/keep-english.json`. Add a term there to keep it untranslated.
-
-## Menjalankan ulang terjemahan
-
-Terjemahan berjalan dalam proses terpisah dari sesi obrolan. Secara default berjalan di mesin ini: worker memanggil server Hy-MT2 7B lokal pada port 18081, sehingga tidak ada string yang meninggalkan komputer. Pesan sesi dan riwayat percakapan tidak pernah menjadi bagian dari permintaan.
-
-```bash
-python3 tools/translate_worker.py --langs ja,de      # specific languages
-python3 tools/translate_worker.py --all              # everything
-```
-
-String yang gagal memenuhi quality gate, atau proses di mana server lokal tidak tersedia, dapat menggunakan rantai empat model yang dihosting dengan `--cloud`. `번역_로그` mencatat model mana yang menangani setiap batch.
-
 ## Catatan untuk pengguna
 
 - Bahasa Arab, Urdu, Ibrani, dan Persia ditulis dari kanan ke kiri. Kamusnya sudah siap; tata letak layar ditangani oleh DeepSeek Harness itu sendiri.
@@ -157,10 +134,12 @@ String yang gagal memenuhi quality gate, atau proses di mana server lokal tidak 
 
 Permintaan bahasa tambahan dipersilakan. Buka issue di repositori ini dengan menyebutkan bahasanya, dan akan dikerjakan pada putaran berikutnya. Koreksi untuk bahasa yang sudah ada langsung masuk ke file kamus bahasa tersebut di bawah `locale/<language>/`, dan pull request adalah cara termudah.
 
+Pengelola yang menjalankan alur terjemahan dapat menemukan perintahnya di [MAINTAINING.md](MAINTAINING.md).
+
 ## Lisensi
 
 MIT
 
-<!-- fakta-paket: versi=0.6.2 dsh=0.2.2-rc.1 bahasa=29 kunci=4,016 entri=116,467 bundel="8.3 MB" -->
+<!-- fakta-paket: versi=0.7.0 dsh=0.2.2-rc.1 bahasa=29 kunci=4,016 entri=116,467 bundel="8.3 MB" -->
 
-<!-- pack-facts: version=0.6.2 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->
+<!-- pack-facts: version=0.7.0 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->

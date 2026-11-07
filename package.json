@@ -1,7 +1,7 @@
 {
   "name": "dsh-locale-pack",
   "description": "A locale pack for the DeepSeek Harness desktop app: registers 29 languages and ships a dictionary for each one.",
-  "version": "0.6.2",
+  "version": "0.7.0",
   "type": "module",
   "main": "lib/index.js",
   "exports": {
@@ -30,7 +30,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/<계정>/dsh-locale-pack.git"
+    "url": "https://github.com/sayho-pm/dsh-locale-pack.git"
   },
   "files": [
     "lib/**/*.js",

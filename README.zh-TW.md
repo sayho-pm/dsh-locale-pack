@@ -122,35 +122,6 @@ node tools/build-client.mjs --langs ko,ja   # Korean and Japanese only
 
 雙語言組合包的大小約為 575 KB，而非 8.3 MB。此旗標接受上表中語言代碼的任意逗號分隔清單。若省略此旗標，則會重新建置所有語言。
 
-## 翻譯品質檢查
-
-`tools/check-keep.mjs` 會將每種語言與英文基準進行比較，並回報五個項目：
-
-將此 Markdown 翻譯為繁體中文（台灣）。僅輸出譯文，不含引號，不含 JSON，不以破折號作為分隔符。保留每個換行、清單標記、行內程式碼片段、URL 和數字。翻譯每一行。
-
-1. 佔位符例如 `{name}` 出現次數與來源相同
-2. 產品與協定名稱（DeepSeek Harness、MCP、JSON、OpenAI Responses 等）維持不翻譯
-3. 不使用中文字元的語言不包含任何中文字元
-4. 韓文句子不包含長破折號
-5. 沒有值為空，且不包含基準未定義的鍵
-
-將此 Markdown 翻譯為繁體中文（台灣）。僅輸出譯文，不使用引號、JSON，也不用破折號作為分隔符號。保留每個換行、清單標記、行內程式碼片段、URL 和數字。翻譯每一行。
-
-維持英文的術語收集在 `locale/_policy/keep-english.json`。在該處新增術語以保持不翻譯。
-
-## 重新執行翻譯
-
-將此 Markdown 翻譯成繁體中文（台灣）。僅輸出譯文，不加引號、不使用 JSON、不用破折號作為分隔符。保留每個換行、清單標記、行內程式碼片段、URL 和數字。翻譯每一行。
-
-翻譯會在與聊天工作階段分開的獨立程序中執行。預設是在本機上執行：工作程序會呼叫本機連接埠 18081 上的 Hy-MT2 7B 伺服器，因此不會有任何字串離開電腦。工作階段訊息和對話紀錄絕不會成為請求的一部分。
-
-```bash
-python3 tools/translate_worker.py --langs ja,de      # specific languages
-python3 tools/translate_worker.py --all              # everything
-```
-
-未通過品質檢查的字串，或本機伺服器無法使用時的執行，可使用 `--cloud` 透過代管的四模型鏈。`번역_로그` 會記錄每個批次由哪個模型處理。
-
 ## 使用者注意事項
 
 - 阿拉伯語、烏都語、希伯來語和波斯語由右至左書寫。字典已備妥；畫面版面配置由 DeepSeek Harness 自行處理。
@@ -163,8 +134,10 @@ python3 tools/translate_worker.py --all              # everything
 
 歡迎請求新增其他語言。請在此儲存庫中開啟一個 issue 並註明語言名稱，將會在下一輪中處理。現有語言的修正請直接修改 `locale/<language>/` 下該語言的字典檔，最簡單的方式是提交 pull request。
 
+負責執行翻譯流程的維護者可在 [MAINTAINING.md](MAINTAINING.md) 找到指令。
+
 ## 授權
 
 MIT
 
-<!-- pack-facts: version=0.6.2 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->
+<!-- pack-facts: version=0.7.0 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->

@@ -122,29 +122,6 @@ node tools/build-client.mjs --langs ko,ja   # Korean and Japanese only
 
 Gói hai ngôn ngữ có dung lượng khoảng 575 KB thay vì 8.3 MB. Cờ này chấp nhận bất kỳ danh sách phân tách bằng dấu phẩy nào gồm các mã ngôn ngữ trong bảng trên. Bỏ qua cờ này sẽ xây dựng lại mọi ngôn ngữ.
 
-## Kiểm tra chất lượng bản dịch
-
-`tools/check-keep.mjs` so sánh mọi ngôn ngữ với bản gốc tiếng Anh và báo cáo năm điều:
-
-1. Trình giữ chỗ như `{name}` xuất hiện cùng số lần như trong nguồn
-2. Tên sản phẩm và giao thức (DeepSeek Harness, MCP, JSON, OpenAI Responses và các tên khác) được giữ nguyên không dịch
-3. Các ngôn ngữ không sử dụng chữ Hán không chứa ký tự Hán nào
-4. Câu tiếng Hàn không chứa dấu gạch ngang dài
-5. Không có giá trị nào bị bỏ trống, và không có khóa nào mà baseline không định nghĩa
-
-Các thuật ngữ giữ nguyên bằng tiếng Anh được thu thập trong `locale/_policy/keep-english.json`. Thêm một thuật ngữ vào đó để giữ nó không được dịch.
-
-## Chạy lại bản dịch
-
-Bản dịch chạy trong một tiến trình riêng biệt với phiên trò chuyện. Theo mặc định, nó chạy trên máy này: worker gọi máy chủ Hy-MT2 7B cục bộ trên cổng 18081, vì vậy không có chuỗi nào rời khỏi máy tính. Tin nhắn phiên và lịch sử trò chuyện không bao giờ là một phần của yêu cầu.
-
-```bash
-python3 tools/translate_worker.py --langs ja,de      # specific languages
-python3 tools/translate_worker.py --all              # everything
-```
-
-Các chuỗi không vượt qua cổng chất lượng, hoặc các lần chạy khi máy chủ cục bộ không khả dụng, có thể sử dụng chuỗi bốn mô hình được lưu trữ sẵn với `--cloud`. `번역_로그` ghi lại mô hình nào đã xử lý từng lô.
-
 ## Ghi chú cho người dùng
 
 - Tiếng Ả Rập, tiếng Urdu, tiếng Hebrew và tiếng Ba Tư được viết từ phải sang trái. Các từ điển đã sẵn sàng; bố cục màn hình do chính DeepSeek Harness xử lý.
@@ -157,8 +134,10 @@ Các chuỗi không vượt qua cổng chất lượng, hoặc các lần chạy
 
 Các yêu cầu về ngôn ngữ bổ sung luôn được chào đón. Mở một issue trong repository này nêu tên ngôn ngữ, và nó sẽ được tiếp nhận trong vòng tiếp theo. Các chỉnh sửa cho ngôn ngữ hiện có sẽ được đưa thẳng vào tệp từ điển của ngôn ngữ đó trong `locale/<language>/`, và pull request là cách dễ nhất.
 
+Người bảo trì chạy quy trình dịch có thể xem lệnh trong [MAINTAINING.md](MAINTAINING.md).
+
 ## Giấy phép
 
 MIT
 
-<!-- pack-facts: version=0.6.2 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->
+<!-- pack-facts: version=0.7.0 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->

@@ -122,29 +122,6 @@ node tools/build-client.mjs --langs ko,ja   # Korean and Japanese only
 
 İki dilli paket 8.3 MB yerine kabaca 575 KB olur. Bayrak, yukarıdaki tablodaki dil kodlarının virgülle ayrılmış herhangi bir listesini kabul eder. Atlanırsa her dil yeniden oluşturulur.
 
-## Çeviri kalite kontrolleri
-
-`tools/check-keep.mjs` her dili İngilizce temelle karşılaştırır ve beş şeyi raporlar:
-
-1. `{name}` gibi yer tutucular kaynak metindekiyle aynı sayıda görünür
-2. Ürün ve protokol adları (DeepSeek Harness, MCP, JSON, OpenAI Responses ve diğerleri) çevrilmeden bırakılır
-3. Çin karakteri kullanmayan dillerde hiç Çin karakteri bulunmaz
-4. Korece cümleler em tire içermez
-5. Hiçbir değer boş değildir ve temelin tanımlamadığı hiçbir anahtar bulunmaz
-
-İngilizce kalan terimler `locale/_policy/keep-english.json` içinde toplanır. Çevrilmeden kalması için oraya bir terim ekleyin.
-
-## Çeviriyi yeniden çalıştırma
-
-Çeviri, sohbet oturumundan ayrı bir işlem olarak çalışır. Varsayılan olarak bu makinede çalışır: çalışan, 18081 bağlantı noktasındaki yerel bir Hy-MT2 7B sunucusunu çağırır, böylece hiçbir dize bilgisayardan ayrılmaz. Oturum iletileri ve konuşma geçmişi hiçbir zaman bir isteğin parçası değildir.
-
-```bash
-python3 tools/translate_worker.py --langs ja,de      # specific languages
-python3 tools/translate_worker.py --all              # everything
-```
-
-Kalite kapısından geçemeyen dizeler veya yerel sunucunun kullanılamadığı çalıştırmalar, `--cloud` ile barındırılan dört modelli zinciri kullanabilir. `번역_로그` her grubun hangi model tarafından işlendiğini kaydeder.
-
 ## Kullanıcılar için notlar
 
 - Arapça, Urduca, İbranice ve Farsça sağdan sola yazılır. Sözlükler hazır; ekran düzeni DeepSeek Harness'in kendisi tarafından yönetilir.
@@ -157,8 +134,10 @@ Kalite kapısından geçemeyen dizeler veya yerel sunucunun kullanılamadığı 
 
 Ek diller için talepler memnuniyetle karşılanır. Bu depoda dili belirten bir issue açın, bir sonraki turda ele alınır. Mevcut bir dile yönelik düzeltmeler doğrudan `locale/<language>/` altındaki o dilin sözlük dosyasına işlenir ve pull request en kolay yöntemdir.
 
+Çeviri hattını çalıştıran bakımcılar komutları [MAINTAINING.md](MAINTAINING.md) içinde bulabilir.
+
 ## Lisans
 
 MIT
 
-<!-- pack-facts: version=0.6.2 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->
+<!-- pack-facts: version=0.7.0 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->
