@@ -7,6 +7,10 @@
   "dialog.successDescription": "مرورگر در حال دانلود فایل ZIP نشست است.",
   "dialog.successTitle": "دانلود نشست آغاز شد",
   "header.more": "اقدامات بیشتر",
+  "menu.copyMarkdown": "جلسه را به صورت Markdown کپی کنید",
   "menu.download": "دانلود گزارش نشست",
-  "menu.feedback": "بازخورد"
+  "menu.feedback": "بازخورد",
+  "toast.clipboardFailed": "نتوانسته‌ایم به دسته‌ی یادداشت‌برداری متن کپی کنیم. مجوز دسته‌ی یادداشت‌برداری را بررسی کرده و دوباره امتحان کنید.",
+  "toast.copied": "جلسه به صورت Markdown کپی شد.",
+  "toast.preparationFailed": "نتوانسته‌ایم جلسه را برای کپی خواند. لطفاً دوباره امتحان کنید."
 }

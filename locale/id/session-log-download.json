@@ -7,6 +7,10 @@
   "dialog.successDescription": "Peramban sedang mengunduh ZIP Sesi.",
   "dialog.successTitle": "Unduhan Sesi dimulai",
   "header.more": "Tindakan lainnya",
+  "menu.copyMarkdown": "Salin Sesi sebagai Markdown",
   "menu.download": "Unduh log sesi",
-  "menu.feedback": "Umpan balik"
+  "menu.feedback": "Umpan balik",
+  "toast.clipboardFailed": "Tidak dapat menulis ke clipboard. Periksa izin clipboard dan coba lagi.",
+  "toast.copied": "Sesi telah disalin sebagai Markdown.",
+  "toast.preparationFailed": "Tidak dapat membaca Sesion untuk disalin. Coba lagi."
 }

@@ -7,6 +7,10 @@
   "dialog.successDescription": "Trình duyệt đang tải xuống tệp ZIP của phiên.",
   "dialog.successTitle": "Đã bắt đầu tải xuống phiên",
   "header.more": "Thêm hành động",
+  "menu.copyMarkdown": "Sao chép phiên làm việc dưới dạng Markdown",
   "menu.download": "Tải xuống nhật ký phiên",
-  "menu.feedback": "Phản hồi"
+  "menu.feedback": "Phản hồi",
+  "toast.clipboardFailed": "Không thể ghi vào bảng nhớ. Hãy kiểm tra quyền truy cập bảng nhớ và thử lại.",
+  "toast.copied": "Phiên làm việc đã được sao chép dưới dạng Markdown.",
+  "toast.preparationFailed": "Không thể đọc phiên làm việc để sao chép. Hãy thử lại."
 }

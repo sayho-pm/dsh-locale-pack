@@ -26,6 +26,7 @@
   "mode.external": "Panlabas na gawain",
   "mode.oneShot": "isahang gamit",
   "mode.unknown": "hindi kilalang mode",
+  "open.floatWindow": "Buksan sa panel na lumulutang",
   "open.sidebar": "Buksan sa sidebar",
   "open.sidebar.aria": "Buksan ang {label} sa sidebar",
   "readonly.body": "Offline ang parent session; buksan itong muli upang magpatuloy sa pagpapadala ng mga mensahe.",

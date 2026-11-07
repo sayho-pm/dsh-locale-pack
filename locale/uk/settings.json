@@ -12,6 +12,7 @@
   "desktop.update.downloadDetail": "Завантаження оновлення: {percent}%\nЦільова версія: {version}",
   "desktop.update.downloadFailed": "Не вдалося завантажити оновлення. Спробуйте ще раз.",
   "desktop.update.downloadNetworkFailed": "Не вдалося завантажити оновлення. Перевірте підключення та спробуйте ще раз.",
+  "desktop.update.fullscreenTimeout": "Не вдалося вийти у режим повного екрана. Вийдіть у режим повного екрана та спробуйте оновити знову.",
   "desktop.update.installFailed": "Не вдалося установити оновлення. Спробуйте ще раз пізніше.",
   "desktop.update.installNetworkFailed": "Не вдалося установити оновлення. Перевірте підключення та спробуйте ще раз.",
   "desktop.update.installing": "Підготовка до перезапуску…",

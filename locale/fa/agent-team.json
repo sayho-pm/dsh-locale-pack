@@ -3,7 +3,7 @@
   "blockedBy": "مسدود شده توسط",
   "current": "گفتگوی جاری",
   "empty": "هنوز وظیفه مشترکی وجود ندارد. آن‌ها را از طریق گفتگو ایجاد کنید.",
-  "failure": "رکورد ذخیره‌شده تیم نامعتبر است: {message}",
+  "failure": "رکورد تیم ذخیره‌شده نامعتبر است: {message}",
   "loading": "در حال بارگذاری تیم…",
   "memberStatus.failed": "ناموفق",
   "memberStatus.inactive": "غیرفعال",
@@ -20,7 +20,7 @@
   "task.collapse": "نمایش کمتر",
   "task.expand": "نمایش بیشتر",
   "tasks": "وظایف مشترک",
-  "trigger": "تیم عامل",
+  "trigger": "تیم نماینده",
   "unavailable": "تیم در دسترس نیست",
   "unowned": "بدون مالک",
   "writeScopes": "دامنه‌های نوشتن"

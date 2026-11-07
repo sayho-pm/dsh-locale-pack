@@ -1,0 +1,16 @@
+{
+  "collapseBrief": "Onyesha chini zaidi",
+  "dismiss": "Sasa siwezi",
+  "dismissed": "Imewekwa kando",
+  "expandBrief": "Onyesha zaidi",
+  "replaced": "Imebadilishwa",
+  "row.error": "Haitonewekwa",
+  "row.inspect": "Angalia utafiti",
+  "row.ok": "Imependekezwa",
+  "row.preparing": "Inaprepara kadi",
+  "row.running": "Imependekezwa",
+  "row.stopped": "Imetumika",
+  "row.title": "Kadi ya kazi",
+  "transport": "Hakupatikana matokeo. Weka upya na angalia kadi kabla ya kurudi tena.",
+  "unavailable": "Hii si kazi inayoweza kufanyika. Angalia plugin katika Plugins."
+}

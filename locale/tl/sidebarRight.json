@@ -31,6 +31,9 @@
   "dock.splitPane": "Hatiin",
   "dock.splitPaneDisabled": "Dalawang pane ang limitasyon",
   "dock.splitPaneNarrow": "Hindi sapat ang lapad para hatiin, palawakin ang sidebar",
+  "menu.close": "Isara",
+  "menu.closeOthers": "Isara ang Iba Pang Mga Tab",
+  "menu.closeRight": "Isara ang Mga Tab sa Kanan",
   "tab.guide.more": "Mga karagdagang tool",
   "tab.guide.title": "Simula",
   "tab.unavailable": "Wala pang makakapagpakita ng ganitong uri ng nilalaman dito."

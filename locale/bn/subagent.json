@@ -26,6 +26,7 @@
   "mode.external": "বাহ্যিক কাজ",
   "mode.oneShot": "এককালীন",
   "mode.unknown": "অজানা মোড",
+  "open.floatWindow": "ফ্লোটিং প্যানেলে খুলুন",
   "open.sidebar": "সাইডবারে খুলুন",
   "open.sidebar.aria": "{label} সাইডবারে খুলুন",
   "readonly.body": "মূল সেশনটি অফলাইনে আছে; বার্তা পাঠানো চালিয়ে যেতে এটি পুনরায় খুলুন।",

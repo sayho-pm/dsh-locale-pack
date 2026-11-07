@@ -26,6 +26,7 @@
   "mode.external": "Externe taak",
   "mode.oneShot": "eenmalig",
   "mode.unknown": "onbekende modus",
+  "open.floatWindow": "Openen in vloeiend paneel",
   "open.sidebar": "Open in zijbalk",
   "open.sidebar.aria": "Open {label} in zijbalk",
   "readonly.body": "De bovenliggende sessie is offline; open deze opnieuw om berichten te blijven sturen.",

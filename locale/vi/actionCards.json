@@ -1,0 +1,16 @@
+{
+  "collapseBrief": "Hiển thị ít hơn",
+  "dismiss": "Không bây giờ",
+  "dismissed": "Đã hủy bỏ",
+  "expandBrief": "Hiển thị nhiều hơn",
+  "replaced": "Đã thay thế",
+  "row.error": "Không được hiển thị",
+  "row.inspect": "Kiểm tra lệnh gọi",
+  "row.ok": "Đã đề xuất",
+  "row.preparing": "Đang chuẩn bị thẻ",
+  "row.running": "Đang đề xuất",
+  "row.stopped": "Đã bị gián đoạn",
+  "row.title": "Thẻ hành động",
+  "transport": "Không thể xác nhận kết quả. Hãy kết nối lại và kiểm tra thẻ trước khi thử lại.",
+  "unavailable": "Hành động này không khả dụng. Hãy kiểm tra tiện ích mở rộng trong mục Plugins."
+}

@@ -1,0 +1,16 @@
+{
+  "collapseBrief": "表示を減らす",
+  "dismiss": "今はいいです",
+  "dismissed": "無効になりました",
+  "expandBrief": "表示を増やす",
+  "replaced": "置き換えられました",
+  "row.error": "表示されません",
+  "row.inspect": "呼び出しを確認する",
+  "row.ok": "提案中です",
+  "row.preparing": "カードの作成中です",
+  "row.running": "提案中です",
+  "row.stopped": "中断されました",
+  "row.title": "アクションカード",
+  "transport": "結果を確認できませんでした。再試行する前に接続を再確立しカードを確認してください",
+  "unavailable": "このアクションは利用できません。Pluginsの中のプラグインを確認してください"
+}

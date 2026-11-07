@@ -26,6 +26,7 @@
   "mode.external": "बाहरी कार्य",
   "mode.oneShot": "एक बार",
   "mode.unknown": "अज्ञात मोड",
+  "open.floatWindow": "फ्लोटिंग पैनल में खोलें",
   "open.sidebar": "साइडबार में खोलें",
   "open.sidebar.aria": "{label} को साइडबार में खोलें",
   "readonly.body": "मूल सत्र ऑफ़लाइन है; संदेश भेजना जारी रखने के लिए इसे फिर से खोलें।",

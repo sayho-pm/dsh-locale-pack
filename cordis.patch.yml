@@ -1,7 +1,8 @@
-# dsh-locale-pack bundle patch: inserts the locale pack row into the
-# web profile roster. Applied as a profile bundle layer (the `dsh.bundle.patch`
-# manifest field). Activate with:
-#   dsh plugin --profile desktop add link:<이 폴더 경로>
+# dsh-locale-pack bundle patch: inserts the locale pack row into a profile
+# roster. Applied as a profile bundle layer (the `dsh.bundle.patch` manifest
+# field). Activate with either edition:
+#   dsh plugin --profile desktop add link:<folder>
+#   dsh plugin --profile web add link:<folder>
 - insert:
     - id: locale-pack
       name: 'dsh-locale-pack'

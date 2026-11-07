@@ -1,8 +1,10 @@
 {
+  "navigation.label": "이동",
   "panels.label": "전역 패널",
   "panels.more": "더 보기",
   "session.new": "새 세션",
   "session.new.label": "새 세션",
   "toggle.collapse": "사이드바 접기",
-  "toggle.open": "사이드바 열기"
+  "toggle.open": "사이드바 열기",
+  "version.copied": "버전이 복사되었습니다"
 }

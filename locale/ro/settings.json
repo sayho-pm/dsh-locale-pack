@@ -12,6 +12,7 @@
   "desktop.update.downloadDetail": "Se descarcă actualizarea: {percent}%\nVersiunea țintă: {version}",
   "desktop.update.downloadFailed": "Actualizarea nu a putut fi descărcată. Vă rugăm să încercați din nou.",
   "desktop.update.downloadNetworkFailed": "Actualizarea nu a putut fi descărcată. Verificați conexiunea și încercați din nou.",
+  "desktop.update.fullscreenTimeout": "Nu a fost posibil să ieșim din modul pe ecran întreg. Puteți ieși din modul pe ecran întreg și apoi încercați din nou actualizarea.",
   "desktop.update.installFailed": "Actualizarea nu a putut fi instalată. Vă rugăm să încercați din nou mai târziu.",
   "desktop.update.installNetworkFailed": "Actualizarea nu a putut fi instalată. Verificați conexiunea și încercați din nou.",
   "desktop.update.installing": "Se pregătește repornirea…",

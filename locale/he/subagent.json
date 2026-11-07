@@ -26,6 +26,7 @@
   "mode.external": "משימה חיצונית",
   "mode.oneShot": "חד פעמי",
   "mode.unknown": "מצב לא ידוע",
+  "open.floatWindow": "לפתוח בלוח צף",
   "open.sidebar": "פתח בסרגל הצד",
   "open.sidebar.aria": "פתח את {label} בסרגל הצד",
   "readonly.body": "ההפעלה הראשית אינה מקוונת; פתח אותה מחדש כדי להמשיך לשלוח הודעות.",

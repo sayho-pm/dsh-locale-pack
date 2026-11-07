@@ -1,0 +1,16 @@
+{
+  "collapseBrief": "Mostrar menos",
+  "dismiss": "Agora não",
+  "dismissed": "Descartado",
+  "expandBrief": "Mostrar mais",
+  "replaced": "Substituído",
+  "row.error": "Não exibido",
+  "row.inspect": "Inspecionar chamada",
+  "row.ok": "Proposto",
+  "row.preparing": "Preparando um cartão",
+  "row.running": "Propondo",
+  "row.stopped": "Interrompido",
+  "row.title": "Cartão de ação",
+  "transport": "Não foi possível confirmar o resultado. Reconecte e verifique o cartão antes de tentar novamente.",
+  "unavailable": "Esta ação não está disponível. Verifique o plugin em Plugins."
+}

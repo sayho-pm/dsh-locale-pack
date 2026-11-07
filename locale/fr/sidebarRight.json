@@ -31,6 +31,9 @@
   "dock.splitPane": "Diviser",
   "dock.splitPaneDisabled": "La limite est de deux volets",
   "dock.splitPaneNarrow": "Largeur insuffisante pour diviser, élargissez la barre latérale",
+  "menu.close": "Fermer",
+  "menu.closeOthers": "Fermer les autres onglets",
+  "menu.closeRight": "Fermer les onglets de droite",
   "tab.guide.more": "Plus d outils",
   "tab.guide.title": "Démarrage",
   "tab.unavailable": "Rien ici ne peut encore afficher ce type de contenu."

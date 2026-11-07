@@ -87,8 +87,8 @@ NATIVE = {
     "he": re.compile(r"[\u0590-\u05ff]"),
     "fa": re.compile(r"[\u0600-\u06ff]"),
     "bn": re.compile(r"[\u0980-\u09ff]"),
-    # 요루바어는 로마자를 쓰지만 ẹ ọ ṣ 밑점과 성조 표기가 반드시 들어간다.
-    "yo": re.compile(r"[ẹọṣẸỌṢàáèéìíòóùú]"),
+    # 요루바어는 로마자 자체가 정식 표기다. 밑점(ẹ ọ ṣ)은 맞춤법상 쓰이지만
+    # 모든 단어에 들어가지는 않으므로, 이 검사로 걸면 정상 번역이 계속 반려된다.
 }
 
 CHAIN = [
@@ -230,11 +230,51 @@ def parse_json_block(text: str) -> dict | None:
     start, end = text.find("{"), text.rfind("}")
     if start < 0 or end <= start:
         return None
+    body = text[start:end + 1]
     try:
-        obj = json.loads(text[start:end + 1])
+        obj = json.loads(body)
     except Exception:  # noqa: BLE001
-        return None
-    return obj if isinstance(obj, dict) else None
+        # 루마니아어 등에서 모델이 곧은따옴표 대신 „ … ” 를 쓴다. 그대로면
+        # JSON 파싱이 깨져 배치 전체가 버려지므로, 구분자로 쓰인 따옴표만
+        # 곧은따옴표로 바꿔 한 번 더 시도한다.
+        repaired = body
+        for smart, plain in (
+            ("\u201e", '"'), ("\u201d", '"'), ("\u201c", '"'),
+            ("\u00ab", '"'), ("\u00bb", '"'),
+        ):
+            repaired = repaired.replace(smart, plain)
+        try:
+            obj = json.loads(repaired)
+        except Exception:  # noqa: BLE001
+            obj = parse_loose_pairs(body)
+    return obj if isinstance(obj, dict) and obj else None
+
+
+QUOTE_PAIRS = (('"', '"'), ("\u201e", "\u201c"), ("\u201e", "\u201d"), ("\u201c", "\u201d"),
+               ("\u00ab", "\u00bb"), ("\u2018", "\u2019"))
+
+
+def parse_loose_pairs(text: str) -> dict | None:
+    """줄 단위로 "키": 값 쌍을 뽑는다.
+
+    모델이 값 안에 곧은따옴표를 escape 없이 넣거나 따옴표 스타일을 섞으면
+    JSON 파서로는 복구가 안 된다. 배치 응답은 한 줄에 한 쌍씩 나오므로,
+    줄 단위로 읽으면 그런 응답도 살릴 수 있다.
+    """
+    out: dict[str, str] = {}
+    for line in text.splitlines():
+        match = re.match(r'^\s*"([^"]+)"\s*:\s*(.+?)\s*,?\s*$', line)
+        if not match:
+            continue
+        key, raw = match.group(1), match.group(2).rstrip(",").strip()
+        for left, right in QUOTE_PAIRS:
+            if len(raw) >= 2 and raw.startswith(left) and raw.endswith(right):
+                raw = raw[len(left):-len(right)]
+                break
+        raw = raw.replace('\\"', '"').replace("\\n", " ").replace("\\\\", "\\")
+        if raw:
+            out[key] = raw
+    return out or None
 
 
 def build_prompt(lang_id: str, batch: dict[str, str]) -> str:

@@ -1,8 +1,10 @@
 {
+  "navigation.label": "Navigare",
   "panels.label": "Panouri globale",
   "panels.more": "Mai multe",
   "session.new": "Sesiune Nouă",
   "session.new.label": "Sesiune nouă",
   "toggle.collapse": "Restrânge bara laterală",
-  "toggle.open": "Deschide bara laterală"
+  "toggle.open": "Deschide bara laterală",
+  "version.copied": "Versiunea a fost copiată"
 }

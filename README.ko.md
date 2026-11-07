@@ -2,9 +2,9 @@
 
 <p align="right"><a href="README.md">English</a> | <strong>한국어</strong></p>
 
-<p align="center"><img src="docs/pack-overview.png" alt="dsh-locale-pack 소개: 추가한 언어 29개, 번역 문구 88,569개, 선택 가능한 언어 31개, 지원 언어 목록과 git clone 설치 명령" width="100%"></p>
+<p align="center"><img src="docs/pack-overview.png" alt="dsh-locale-pack 소개: 추가한 언어 29개, 번역 문구 116,467개, DeepSeek Harness 0.2.2-rc.1, 지원 언어 목록과 git clone 설치 명령" width="100%"></p>
 
-DeepSeek Harness 데스크톱 앱을 위한 로케일 팩입니다. 언어 선택 목록에 29개 언어를 등록하고 각 언어의 사전을 함께 싣습니다. 번역이 아직 없는 문구는 영어로 표시되므로 화면을 읽을 수 있는 상태가 유지됩니다. DeepSeek Harness가 기본으로 싣는 영어와 간체 중국어까지 합치면 화면에서 고를 수 있는 언어는 31개입니다. DeepSeek Harness의 최신 버전에 맞춰 사전을 계속 갱신합니다. 커뮤니티 목록인 [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness)에도 등재되어 있습니다.
+DeepSeek Harness 데스크톱 앱과 브라우저 웹판을 함께 지원하는 로케일 팩입니다. 언어 선택 목록에 29개 언어를 등록하고 각 언어의 사전을 함께 싣습니다. 번역이 아직 없는 문구는 영어로 표시되므로 화면을 읽을 수 있는 상태가 유지됩니다. DeepSeek Harness가 기본으로 싣는 영어와 간체 중국어까지 합치면 화면에서 고를 수 있는 언어는 31개입니다. DeepSeek Harness의 최신 버전에 맞춰 사전을 계속 갱신합니다. 커뮤니티 목록인 [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness)에도 등재되어 있습니다.
 
 ## 만든 이유
 
@@ -32,7 +32,7 @@ DeepSeek Harness는 코딩 도구입니다. 할 일을 넘기면 에이전트가
 | Português (Portugal) | `pt` | Kiswahili | `sw` |
 | Yorùbá | `yo` | | |
 
-언어 29개, 키 3,054개, 문구 88,569개입니다. DeepSeek Harness가 새 버전을 낼 때마다 문구를 다시 맞추고 있고, 지금은 최신 버전 `0.2.1-rc.5`까지 대응합니다.
+언어 29개, 키 4,016개, 문구 116,467개입니다. DeepSeek Harness가 새 버전을 낼 때마다 문구를 다시 맞추고 있고, 지금은 최신 버전 `0.2.2-rc.1`까지 대응합니다.
 
 ## 설치
 
@@ -62,6 +62,18 @@ dsh plugin --profile desktop add link:(Get-Location).Path
 
 이후 **설정 → 언어**에서 쓸 언어를 고르면 됩니다.
 
+### 웹판(브라우저)에 등록
+
+데스크톱 앱 대신 브라우저에서 여는 웹판도 같은 방식으로 등록합니다. 프로필 이름만 `web`으로 바꿉니다.
+
+```bash
+# 웹 프로필에 등록한 뒤 서버를 띄운다
+dsh plugin --profile web add link:$(pwd)
+dsh web
+```
+
+`dsh web`이 출력하는 주소를 브라우저에서 열고 **설정 → 언어**에서 언어를 고릅니다. 웹 프로필은 처음 등록할 때 자동으로 만들어집니다.
+
 ### AI 어시스턴트로 설치하기
 
 개발 환경이 없으면 AI 어시스턴트가 설치를 대신 진행합니다. 어시스턴트를 열고 아래 문장을 붙여넣습니다.
@@ -87,7 +99,7 @@ tools/smoke.mjs         스모크 테스트
 tools/check-keep.mjs    번역 품질 점검
 tools/translate_worker.py  번역 워커(대화 세션과 분리되어 동작)
 tools/clean-romanized.py   로마자 표기 오류 정리
-tools/en.baseline.json  영문 기준선 (DeepSeek Harness 0.2.1-rc.5)
+tools/en.baseline.json  영문 기준선 (DeepSeek Harness 0.2.2-rc.1)
 ```
 
 ## 문구를 고치는 방법

@@ -1,0 +1,16 @@
+{
+  "collapseBrief": "Minder tonen",
+  "dismiss": "Nu niet",
+  "dismissed": "Afgewezen",
+  "expandBrief": "Meer tonen",
+  "replaced": "Vervangen",
+  "row.error": "Wordt niet weergegeven",
+  "row.inspect": "Onderzoek de oproep",
+  "row.ok": "Voorgesteld",
+  "row.preparing": "Een kaart voorbereiden",
+  "row.running": "Voorgesteld",
+  "row.stopped": "Onderbroken",
+  "row.title": "Actiekaart",
+  "transport": "Het resultaat kon niet worden bevestigd. Verbind u opnieuw en controleer de kaart voordat u opnieuw probeert.",
+  "unavailable": "Deze actie is niet beschikbaar. Controleer de plugin in Plugins."
+}

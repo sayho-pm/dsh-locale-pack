@@ -12,6 +12,7 @@
   "desktop.update.downloadDetail": "در حال دانلود به‌روزرسانی: {percent}%\nنسخه هدف: {version}",
   "desktop.update.downloadFailed": "دانلود به‌روزرسانی ممکن نشد. لطفاً دوباره تلاش کنید.",
   "desktop.update.downloadNetworkFailed": "دانلود به‌روزرسانی ممکن نشد. اتصال خود را بررسی کنید و دوباره تلاش کنید.",
+  "desktop.update.fullscreenTimeout": "امکان خروج از حالت تمام‌صفحه وجود ندارد. لطفاً از حالت تمام‌صفحه خارج شوید و سپس به‌روزرسانی را دوباره امتحان کنید.",
   "desktop.update.installFailed": "نصب به‌روزرسانی ممکن نشد. لطفاً بعداً دوباره تلاش کنید.",
   "desktop.update.installNetworkFailed": "نصب به‌روزرسانی ممکن نشد. اتصال خود را بررسی کنید و دوباره تلاش کنید.",
   "desktop.update.installing": "در حال آماده‌سازی برای راه‌اندازی مجدد…",

@@ -26,6 +26,7 @@
   "mode.external": "Tarefa externa",
   "mode.oneShot": "execução única",
   "mode.unknown": "modo desconhecido",
+  "open.floatWindow": "Abrir em painel flutuante",
   "open.sidebar": "Abrir na barra lateral",
   "open.sidebar.aria": "Abrir {label} na barra lateral",
   "readonly.body": "A sessão principal está offline; reabre-a para continuares a enviar mensagens.",

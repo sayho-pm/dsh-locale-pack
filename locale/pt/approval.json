@@ -1,4 +1,6 @@
 {
+  "allow": "Permitir",
+  "allowAlways": "Permitir sempre",
   "allowOnce": "Permitir uma vez",
   "detail.aria": "Detalhes da aprovação",
   "escalation": "A ferramenta {toolName} solicita execução privilegiada",

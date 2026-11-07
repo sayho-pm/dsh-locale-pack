@@ -12,6 +12,7 @@
   "desktop.update.downloadDetail": "Descargando actualización: {percent}%\nVersión de destino: {version}",
   "desktop.update.downloadFailed": "No se pudo descargar la actualización. Inténtalo de nuevo.",
   "desktop.update.downloadNetworkFailed": "No se pudo descargar la actualización. Revisa tu conexión e inténtalo de nuevo.",
+  "desktop.update.fullscreenTimeout": "No se pudo salir del modo pantalla completa. Salga del modo pantalla completa y luego intente nuevamente la actualización.",
   "desktop.update.installFailed": "No se pudo instalar la actualización. Inténtalo de nuevo más tarde.",
   "desktop.update.installNetworkFailed": "No se pudo instalar la actualización. Revisa tu conexión e inténtalo de nuevo.",
   "desktop.update.installing": "Preparando el reinicio…",

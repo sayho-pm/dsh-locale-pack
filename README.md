@@ -2,9 +2,9 @@
 
 <p align="right"><strong>English</strong> | <a href="README.ko.md">한국어</a></p>
 
-<p align="center"><img src="docs/pack-overview.png" alt="dsh-locale-pack overview: 29 languages added, 88,569 translated entries, 31 selectable, the supported languages, and the git clone install command" width="100%"></p>
+<p align="center"><img src="docs/pack-overview.png" alt="dsh-locale-pack overview: 29 languages added, 116,467 translated entries, DeepSeek Harness 0.2.2-rc.1, the supported languages, and the git clone install command" width="100%"></p>
 
-A locale pack for the DeepSeek Harness desktop app. It registers 29 languages in the language picker and ships a dictionary for each one. Strings that are not translated yet fall back to English, so the screen stays readable while coverage grows. DeepSeek Harness ships English and Simplified Chinese by default, which makes 31 languages selectable after install. The pack is kept up to date with the latest DeepSeek Harness release. It is also listed in [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness), the community index of DSH plugins and tools.
+A locale pack for DeepSeek Harness, covering both the desktop app and the browser edition. It registers 29 languages in the language picker and ships a dictionary for each one. Strings that are not translated yet fall back to English, so the screen stays readable while coverage grows. DeepSeek Harness ships English and Simplified Chinese by default, which makes 31 languages selectable after install. The pack is kept up to date with the latest DeepSeek Harness release. It is also listed in [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness), the community index of DSH plugins and tools.
 
 ## Why this exists
 
@@ -32,7 +32,7 @@ That interface was available in English and Simplified Chinese. Developers who p
 | Português (Portugal) | `pt` | Kiswahili | `sw` |
 | Yorùbá | `yo` | | |
 
-29 languages, 3,054 keys each — 88,569 translated entries in all. The dictionaries are refreshed whenever DeepSeek Harness ships a new version, and currently cover the latest release, `0.2.1-rc.5`.
+29 languages, 4,016 keys each — 116,467 translated entries in all. The dictionaries are refreshed whenever DeepSeek Harness ships a new version, and currently cover the latest release, `0.2.2-rc.1`.
 
 ## Install
 
@@ -62,6 +62,18 @@ dsh plugin --profile desktop add link:(Get-Location).Path
 
 Then open **Settings → Language** and pick the language you want.
 
+### Register in the web edition
+
+The browser edition (the `web` profile) registers the same way. Only the profile name changes.
+
+```bash
+# register in the web profile, then start the server
+dsh plugin --profile web add link:$(pwd)
+dsh web
+```
+
+Open the address printed by `dsh web`, then pick a language under **Settings → Language**. The web profile is created automatically on first registration.
+
 ### Install with an AI assistant
 
 If you do not have a development environment, an AI assistant can do the setup for you. Open the assistant and paste this:
@@ -87,7 +99,7 @@ tools/smoke.mjs            Smoke test
 tools/check-keep.mjs       Translation quality check
 tools/translate_worker.py  Translation worker (runs outside the chat session)
 tools/clean-romanized.py   Fixes transliteration slips
-tools/en.baseline.json     English baseline (DeepSeek Harness 0.2.1-rc.5)
+tools/en.baseline.json     English baseline (DeepSeek Harness 0.2.2-rc.1)
 ```
 
 ## Editing a string

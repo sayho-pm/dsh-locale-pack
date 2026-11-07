@@ -3,7 +3,7 @@
   "blockedBy": "Bị chặn bởi",
   "current": "Trò chuyện hiện tại",
   "empty": "Chưa có tác vụ chung nào. Tạo chúng qua cuộc trò chuyện.",
-  "failure": "Bản ghi nhóm đã lưu không hợp lệ: {message}",
+  "failure": "Sai lệch khi lưu hồ sơ nhóm: {message}",
   "loading": "Đang tải nhóm…",
   "memberStatus.failed": "Thất bại",
   "memberStatus.inactive": "Không hoạt động",
@@ -20,7 +20,7 @@
   "task.collapse": "Thu gọn",
   "task.expand": "Xem thêm",
   "tasks": "Tác vụ chung",
-  "trigger": "Nhóm tác tử",
+  "trigger": "Nhóm Agent",
   "unavailable": "Nhóm không khả dụng",
   "unowned": "Chưa có chủ sở hữu",
   "writeScopes": "Phạm vi ghi"

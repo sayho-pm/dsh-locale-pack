@@ -26,6 +26,7 @@
   "mode.external": "Externe Aufgabe",
   "mode.oneShot": "einmalig",
   "mode.unknown": "unbekannter Modus",
+  "open.floatWindow": "In einem schwebenden Panel öffnen",
   "open.sidebar": "In Seitenleiste öffnen",
   "open.sidebar.aria": "{label} in Seitenleiste öffnen",
   "readonly.body": "Die übergeordnete Sitzung ist offline; öffnen Sie sie erneut, um weiterhin Nachrichten zu senden.",

@@ -12,6 +12,7 @@
   "desktop.update.downloadDetail": "กำลังดาวน์โหลดอัปเดต: {percent}%\nเวอร์ชันเป้าหมาย: {version}",
   "desktop.update.downloadFailed": "ไม่สามารถดาวน์โหลดอัปเดตได้ โปรดลองอีกครั้ง",
   "desktop.update.downloadNetworkFailed": "ไม่สามารถดาวน์โหลดอัปเดตได้ โปรดตรวจสอบการเชื่อมต่อแล้วลองอีกครั้ง",
+  "desktop.update.fullscreenTimeout": "ไม่สามารถออกจากโหมดเต็มหน้าจอได้ กรุณาออกจากโหมดเต็มหน้าจอก่อนแล้วลองอัปเดตใหม่อีกครั้ง",
   "desktop.update.installFailed": "ไม่สามารถติดตั้งอัปเดตได้ โปรดลองอีกครั้งในภายหลัง",
   "desktop.update.installNetworkFailed": "ไม่สามารถติดตั้งอัปเดตได้ โปรดตรวจสอบการเชื่อมต่อแล้วลองอีกครั้ง",
   "desktop.update.installing": "กำลังเตรียมรีสตาร์ท…",

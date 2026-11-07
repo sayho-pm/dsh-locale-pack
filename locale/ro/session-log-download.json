@@ -7,6 +7,10 @@
   "dialog.successDescription": "Browserul descarcă arhiva ZIP a sesiunii.",
   "dialog.successTitle": "Descărcarea sesiunii a început",
   "header.more": "Mai multe acțiuni",
+  "menu.copyMarkdown": "Copierea sesiunii ca Markdown",
   "menu.download": "Descarcă jurnalul sesiunii",
-  "menu.feedback": "Feedback"
+  "menu.feedback": "Feedback",
+  "toast.clipboardFailed": "Nu a fost posibilă scrierea în clipboard. Verificați permisiunile clipboard și încercați din nou.",
+  "toast.copied": "Sesiunea a fost copiată ca Markdown.",
+  "toast.preparationFailed": "Nu a fost posibilă citirea sesiunii pentru copiere. Încercați din nou."
 }

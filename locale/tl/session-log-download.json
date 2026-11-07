@@ -7,6 +7,10 @@
   "dialog.successDescription": "Dina-download ng browser ang ZIP ng sesyon.",
   "dialog.successTitle": "Nagsimula na ang pag-download ng sesyon",
   "header.more": "Higit pang mga aksyon",
+  "menu.copyMarkdown": "Kopyahin ang Sesyon bilang Markdown",
   "menu.download": "I-download ang log ng sesyon",
-  "menu.feedback": "Puna"
+  "menu.feedback": "Puna",
+  "toast.clipboardFailed": "Hindi makapagsulat sa clipboard. Suriin ang pahintulot sa clipboard at subukan muli.",
+  "toast.copied": "Nakopya ang Sesyon bilang Markdown.",
+  "toast.preparationFailed": "Hindi makabasa ng Sesyon para sa kopya. Subukan muli."
 }

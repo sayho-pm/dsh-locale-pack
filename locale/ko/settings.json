@@ -12,6 +12,7 @@
   "desktop.update.downloadDetail": "업데이트 다운로드 중: {percent}%\n목표 버전: {version}",
   "desktop.update.downloadFailed": "업데이트를 다운로드할 수 없습니다. 다시 시도하세요.",
   "desktop.update.downloadNetworkFailed": "업데이트를 다운로드할 수 없습니다. 연결을 확인하고 다시 시도하세요.",
+  "desktop.update.fullscreenTimeout": "전체 화면 모드에서 벗어나지 못했습니다. 전체 화면 모드를 종료한 후 업데이트를 다시 시도해 주십시오.",
   "desktop.update.installFailed": "업데이트를 설치할 수 없습니다. 나중에 다시 시도하세요.",
   "desktop.update.installNetworkFailed": "업데이트를 설치할 수 없습니다. 연결을 확인하고 다시 시도하세요.",
   "desktop.update.installing": "다시 시작 준비 중…",

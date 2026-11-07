@@ -1,4 +1,6 @@
 {
+  "allow": "Tillåt",
+  "allowAlways": "Alltid tillåt",
   "allowOnce": "Tillåt en gång",
   "detail.aria": "Godkännandedetaljer",
   "escalation": "Verktyget {toolName} begär privilegierad körning",

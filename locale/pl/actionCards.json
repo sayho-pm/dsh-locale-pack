@@ -1,0 +1,16 @@
+{
+  "collapseBrief": "Pokaż mniej",
+  "dismiss": "Nie teraz",
+  "dismissed": "Odrzucone",
+  "expandBrief": "Pokaż więcej",
+  "replaced": "Zastąpione",
+  "row.error": "Nie pokazano",
+  "row.inspect": "Sprawdź wywołanie",
+  "row.ok": "Zaproponowane",
+  "row.preparing": "Przygotowuje się karta",
+  "row.running": "Proponowane",
+  "row.stopped": "Przerwane",
+  "row.title": "Karta działań",
+  "transport": "Nie udało się potwierdzić wyniku. Połącz się ponownie i sprawdź kartę przed ponowną próbą.",
+  "unavailable": "Ta akcja jest niedostępna. Sprawdź wtyczkę w zakładce Wtyczki."
+}

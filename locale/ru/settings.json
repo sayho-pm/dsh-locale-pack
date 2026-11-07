@@ -12,6 +12,7 @@
   "desktop.update.downloadDetail": "Загрузка обновления: {percent}%\nЦелевая версия: {version}",
   "desktop.update.downloadFailed": "Не удалось загрузить обновление. Повторите попытку.",
   "desktop.update.downloadNetworkFailed": "Не удалось загрузить обновление. Проверьте подключение и повторите попытку.",
+  "desktop.update.fullscreenTimeout": "Невозможно выйти в режим полноэкранного отображения. Выходите в режим полноэкранного отображения затем попробуйте выполнить обновление снова.",
   "desktop.update.installFailed": "Не удалось установить обновление. Повторите попытку позже.",
   "desktop.update.installNetworkFailed": "Не удалось установить обновление. Проверьте подключение и повторите попытку.",
   "desktop.update.installing": "Подготовка к перезапуску…",

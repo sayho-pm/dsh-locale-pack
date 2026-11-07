@@ -4,7 +4,7 @@
   "current": "Текущий чат",
   "empty": "Пока нет общих задач. Создайте их через разговор.",
   "failure": "Недопустимая сохраненная запись команды: {message}",
-  "loading": "Загрузка команды…",
+  "loading": "Загружается команда…",
   "memberStatus.failed": "Ошибка",
   "memberStatus.inactive": "Неактивен",
   "memberStatus.provisioning": "Подготовка",
@@ -20,7 +20,7 @@
   "task.collapse": "Показать меньше",
   "task.expand": "Показать больше",
   "tasks": "Общие задачи",
-  "trigger": "Команда агентов",
+  "trigger": "Команда агента",
   "unavailable": "Команда недоступна",
   "unowned": "Без владельца",
   "writeScopes": "Области записи"

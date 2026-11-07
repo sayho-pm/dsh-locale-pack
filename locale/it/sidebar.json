@@ -1,8 +1,10 @@
 {
+  "navigation.label": "Navigazione",
   "panels.label": "Pannelli globali",
   "panels.more": "Altro",
   "session.new": "Nuova sessione",
   "session.new.label": "Nuova sessione",
   "toggle.collapse": "Comprimi barra laterale",
-  "toggle.open": "Apri barra laterale"
+  "toggle.open": "Apri barra laterale",
+  "version.copied": "Versione copiata"
 }

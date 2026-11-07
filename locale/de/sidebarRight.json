@@ -31,6 +31,9 @@
   "dock.splitPane": "Teilen",
   "dock.splitPaneDisabled": "Zwei Bereiche sind das Maximum",
   "dock.splitPaneNarrow": "Nicht genügend Breite zum Teilen, Seitenleiste verbreitern",
+  "menu.close": "Schließen",
+  "menu.closeOthers": "Andere Tabellen schließen",
+  "menu.closeRight": "Tabellen rechts schließen",
   "tab.guide.more": "Weitere Tools",
   "tab.guide.title": "Start",
   "tab.unavailable": "Hier kann diese Art von Inhalt noch nicht angezeigt werden."

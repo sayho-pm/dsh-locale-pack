@@ -1,4 +1,6 @@
 {
+  "allow": "Cho phép",
+  "allowAlways": "Luôn cho phép",
   "allowOnce": "Cho phép một lần",
   "detail.aria": "Chi tiết phê duyệt",
   "escalation": "Công cụ {toolName} yêu cầu thực thi đặc quyền",

@@ -26,6 +26,7 @@
   "mode.external": "外部タスク",
   "mode.oneShot": "単発",
   "mode.unknown": "不明なモード",
+  "open.floatWindow": "浮動パネルで開く",
   "open.sidebar": "サイドバーで開く",
   "open.sidebar.aria": "{label}をサイドバーで開く",
   "readonly.body": "親セッションはオフラインです。続けてメッセージを送るには再開してください。",

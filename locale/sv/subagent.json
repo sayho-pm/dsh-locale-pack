@@ -26,6 +26,7 @@
   "mode.external": "Extern uppgift",
   "mode.oneShot": "engångs",
   "mode.unknown": "okänt läge",
+  "open.floatWindow": "Öppna i flytande panel",
   "open.sidebar": "Öppna i sidofältet",
   "open.sidebar.aria": "Öppna {label} i sidofältet",
   "readonly.body": "Den överordnade sessionen är offline; öppna den igen för att fortsätta skicka meddelanden.",

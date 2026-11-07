@@ -1,4 +1,6 @@
 {
+  "allow": "Permite",
+  "allowAlways": "Permite întotdeauna",
   "allowOnce": "Permite o dată",
   "detail.aria": "Detaliile aprobării",
   "escalation": "Instrumentul {toolName} solicită execuție privilegiată",

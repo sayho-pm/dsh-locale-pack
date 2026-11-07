@@ -26,6 +26,7 @@
   "mode.external": "Dış görev",
   "mode.oneShot": "tek seferlik",
   "mode.unknown": "bilinmeyen mod",
+  "open.floatWindow": "Yüzen panelde aç",
   "open.sidebar": "Kenar çubuğunda aç",
   "open.sidebar.aria": "{label} öğesini kenar çubuğunda aç",
   "readonly.body": "Üst oturum çevrimdışı; mesaj göndermeye devam etmek için yeniden açın.",

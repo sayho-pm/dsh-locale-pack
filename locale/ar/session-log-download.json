@@ -7,6 +7,10 @@
   "dialog.successDescription": "المتصفح يقوم بتنزيل ملف ZIP الخاص بالجلسة.",
   "dialog.successTitle": "بدأ تنزيل الجلسة",
   "header.more": "المزيد من الإجراءات",
+  "menu.copyMarkdown": "نسخ الجلسة كملف Markdown",
   "menu.download": "تنزيل سجل الجلسة",
-  "menu.feedback": "الملاحظات"
+  "menu.feedback": "الملاحظات",
+  "toast.clipboardFailed": "لم يتسن كتابة المحتوى في القصاصة. تحقق من إعدادات الصلاحيات وحاول مرة أخرى.",
+  "toast.copied": "تم نسخ الجلسة كملف Markdown.",
+  "toast.preparationFailed": "لم يتسن قراءة الجلسة لأغراض النسخ. جرب مرة أخرى."
 }

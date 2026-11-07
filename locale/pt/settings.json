@@ -12,6 +12,7 @@
   "desktop.update.downloadDetail": "A transferir actualização: {percent}%\nVersão de destino: {version}",
   "desktop.update.downloadFailed": "Não foi possível transferir a actualização. Por favor, tenta novamente.",
   "desktop.update.downloadNetworkFailed": "Não foi possível transferir a actualização. Verifica a tua ligação e tenta novamente.",
+  "desktop.update.fullscreenTimeout": "Não foi possível sair do modo tela cheia. Saia do modo tela cheia e tente a atualização novamente.",
   "desktop.update.installFailed": "Não foi possível instalar a actualização. Por favor, tenta novamente mais tarde.",
   "desktop.update.installNetworkFailed": "Não foi possível instalar a actualização. Verifica a tua ligação e tenta novamente.",
   "desktop.update.installing": "A preparar o reinício…",

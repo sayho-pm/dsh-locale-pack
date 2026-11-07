@@ -12,6 +12,7 @@
   "desktop.update.downloadDetail": "Laddar ned uppdatering: {percent}%\nMålversion: {version}",
   "desktop.update.downloadFailed": "Kunde inte ladda ned uppdateringen. Försök igen.",
   "desktop.update.downloadNetworkFailed": "Kunde inte ladda ned uppdateringen. Kontrollera anslutningen och försök igen.",
+  "desktop.update.fullscreenTimeout": "Kunde inte lämna fullskärm. Lämna fullskärm och försök igen med uppdateringen.",
   "desktop.update.installFailed": "Kunde inte installera uppdateringen. Försök igen senare.",
   "desktop.update.installNetworkFailed": "Kunde inte installera uppdateringen. Kontrollera anslutningen och försök igen.",
   "desktop.update.installing": "Förbereder omstart…",

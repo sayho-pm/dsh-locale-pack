@@ -1,12 +1,16 @@
 {
+  "dialog.close": "닫기",
+  "dialog.commandFailed": "세션 내보내기를 시작할 수 없습니다.",
+  "dialog.errorTitle": "세션 내보내기 실패",
+  "dialog.preparingDescription": "이 세션, 하위 세션, 첨부파일이 담긴 ZIP을 준비하고 있습니다.",
+  "dialog.preparingTitle": "세션 내보내는 중",
+  "dialog.successDescription": "브라우저에서 세션 ZIP을 다운로드하고 있습니다.",
+  "dialog.successTitle": "세션 다운로드 시작됨",
   "header.more": "기타 작업",
+  "menu.copyMarkdown": "세션을 Markdown 형태로 복사합니다",
   "menu.download": "세션 로그 다운로드",
   "menu.feedback": "피드백",
-  "dialog.preparingTitle": "세션 내보내는 중",
-  "dialog.preparingDescription": "이 세션, 하위 세션, 첨부파일이 담긴 ZIP을 준비하고 있습니다.",
-  "dialog.successTitle": "세션 다운로드 시작됨",
-  "dialog.successDescription": "브라우저에서 세션 ZIP을 다운로드하고 있습니다.",
-  "dialog.errorTitle": "세션 내보내기 실패",
-  "dialog.close": "닫기",
-  "dialog.commandFailed": "세션 내보내기를 시작할 수 없습니다."
+  "toast.clipboardFailed": "클립보드에 저장하는 데 문제가 발생했습니다. 클립보드 사용 권한을 확인한 후 다시 시도해 주십시오",
+  "toast.copied": "세션이 Markdown 형태로 복사되었습니다",
+  "toast.preparationFailed": "복사를 위해 세션을 읽는 데 문제가 발생했습니다. 다시 시도해 주십시오"
 }

@@ -26,6 +26,7 @@
   "mode.external": "Attività esterna",
   "mode.oneShot": "singola esecuzione",
   "mode.unknown": "modalità sconosciuta",
+  "open.floatWindow": "Apri in pannello fluttuante",
   "open.sidebar": "Apri nella barra laterale",
   "open.sidebar.aria": "Apri {label} nella barra laterale",
   "readonly.body": "La sessione principale è offline; riaprila per continuare a inviare messaggi.",

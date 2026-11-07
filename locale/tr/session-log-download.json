@@ -7,6 +7,10 @@
   "dialog.successDescription": "Tarayıcı, Oturum ZIP dosyasını indiriyor.",
   "dialog.successTitle": "Oturum indirme başladı",
   "header.more": "Daha fazla işlem",
+  "menu.copyMarkdown": "Seansı Markdown olarak kopyala",
   "menu.download": "Oturum günlüğünü indir",
-  "menu.feedback": "Geri bildirim"
+  "menu.feedback": "Geri bildirim",
+  "toast.clipboardFailed": "Klipboara yazılamadı. Klipboara izinlerini kontrol edin ve tekrar deneyin.",
+  "toast.copied": "Seans Markdown olarak kopyalandı.",
+  "toast.preparationFailed": "Kopyalama için Seans okunamadı. Tekrar deneyin."
 }

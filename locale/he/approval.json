@@ -1,4 +1,6 @@
 {
+  "allow": "לאפשר",
+  "allowAlways": "לאפשר תמיד",
   "allowOnce": "אפשר פעם אחת",
   "detail.aria": "פרטי האישור",
   "escalation": "הכלי {toolName} מבקש הרצה עם הרשאות מורחבות",

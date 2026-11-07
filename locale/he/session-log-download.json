@@ -7,6 +7,10 @@
   "dialog.successDescription": "הדפדפן מוריד את קובץ ZIP של ההפעלה.",
   "dialog.successTitle": "הורדת ההפעלה החלה",
   "header.more": "פעולות נוספות",
+  "menu.copyMarkdown": "העתק את המפגש כ‑Markdown",
   "menu.download": "הורדת יומן ההפעלה",
-  "menu.feedback": "משוב"
+  "menu.feedback": "משוב",
+  "toast.clipboardFailed": "לא ניתן לכתוב למחברת ההעתקים. בדקו את הרשאות המחברת ונסו שוב.",
+  "toast.copied": "המפגש הועתק כ‑Markdown.",
+  "toast.preparationFailed": "לא ניתן לקרוא את המפגש לצורך העתקה. נסו שוב."
 }

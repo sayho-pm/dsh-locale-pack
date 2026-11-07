@@ -1,8 +1,10 @@
 {
+  "navigation.label": "Navigatie",
   "panels.label": "Globale panelen",
   "panels.more": "Meer",
   "session.new": "Nieuwe sessie",
   "session.new.label": "Nieuwe sessie",
   "toggle.collapse": "Zijbalk inklappen",
-  "toggle.open": "Zijbalk openen"
+  "toggle.open": "Zijbalk openen",
+  "version.copied": "Versie gekopieerd"
 }

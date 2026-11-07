@@ -7,6 +7,10 @@
   "dialog.successDescription": "Il browser sta scaricando il file ZIP della sessione.",
   "dialog.successTitle": "Scaricamento della sessione avviato",
   "header.more": "Altre azioni",
+  "menu.copyMarkdown": "Copiare sessione come Markdown",
   "menu.download": "Scarica registro della sessione",
-  "menu.feedback": "Commenti"
+  "menu.feedback": "Commenti",
+  "toast.clipboardFailed": "Non è stato possibile scrivere nella clipboard. Verificare i permessi e provare di nuovo.",
+  "toast.copied": "La sessione è stata copiata come Markdown.",
+  "toast.preparationFailed": "Non è stato possibile leggere la sessione per la copia. Provare di nuovo."
 }

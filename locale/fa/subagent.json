@@ -26,6 +26,7 @@
   "mode.external": "وظیفه خارجی",
   "mode.oneShot": "یک‌باره",
   "mode.unknown": "حالت ناشناخته",
+  "open.floatWindow": "در پنل شناور باز کنید",
   "open.sidebar": "باز کردن در نوار کناری",
   "open.sidebar.aria": "باز کردن {label} در نوار کناری",
   "readonly.body": "نشست والد آفلاین است؛ برای ادامه ارسال پیام‌ها آن را دوباره باز کنید.",

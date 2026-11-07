@@ -26,6 +26,7 @@
   "mode.external": "Zadanie zewnętrzne",
   "mode.oneShot": "jednorazowy",
   "mode.unknown": "nieznany tryb",
+  "open.floatWindow": "Otwórz w panelu pływającym",
   "open.sidebar": "Otwórz w panelu bocznym",
   "open.sidebar.aria": "Otwórz {label} w panelu bocznym",
   "readonly.body": "Sesja nadrzędna jest rozłączona; otwórz ją ponownie, aby kontynuować wysyłanie wiadomości.",

@@ -1,8 +1,10 @@
 {
+  "navigation.label": "التنقل",
   "panels.label": "اللوحات العامة",
   "panels.more": "أكثر",
   "session.new": "جلسة جديدة",
   "session.new.label": "جلسة جديدة",
   "toggle.collapse": "طي الشريط الجانبي",
-  "toggle.open": "فتح الشريط الجانبي"
+  "toggle.open": "فتح الشريط الجانبي",
+  "version.copied": "تم نسخ الإصدار"
 }

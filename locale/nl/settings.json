@@ -12,6 +12,7 @@
   "desktop.update.downloadDetail": "Update downloaden: {percent}%\nDoelversie: {version}",
   "desktop.update.downloadFailed": "Kon de update niet downloaden. Probeer het opnieuw.",
   "desktop.update.downloadNetworkFailed": "Kon de update niet downloaden. Controleer uw verbinding en probeer het opnieuw.",
+  "desktop.update.fullscreenTimeout": "Het is niet mogelijk om uit volledig scherm te gaan. Ga eerst uit volledig scherm en probeer de update opnieuw.",
   "desktop.update.installFailed": "Kon de update niet installeren. Probeer het later opnieuw.",
   "desktop.update.installNetworkFailed": "Kon de update niet installeren. Controleer uw verbinding en probeer het opnieuw.",
   "desktop.update.installing": "Voorbereiden op opnieuw opstarten…",

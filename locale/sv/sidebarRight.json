@@ -31,6 +31,9 @@
   "dock.splitPane": "Dela",
   "dock.splitPaneDisabled": "Två paneler är gränsen",
   "dock.splitPaneNarrow": "Inte tillräckligt brett för att dela, bredda sidofältet",
+  "menu.close": "Stäng",
+  "menu.closeOthers": "Stäng andra flikar",
+  "menu.closeRight": "Stäng flikar till höger",
   "tab.guide.more": "Mer verktyg",
   "tab.guide.title": "Start",
   "tab.unavailable": "Inget här kan visa den här typen av innehåll ännu."

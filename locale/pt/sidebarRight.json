@@ -31,6 +31,9 @@
   "dock.splitPane": "Dividir",
   "dock.splitPaneDisabled": "O limite é de dois painéis",
   "dock.splitPaneNarrow": "Largura insuficiente para dividir, alarga a barra lateral",
+  "menu.close": "Fechar",
+  "menu.closeOthers": "Fechar Outras Abas",
+  "menu.closeRight": "Fechar Abas à Direita",
   "tab.guide.more": "Mais ferramentas",
   "tab.guide.title": "Início",
   "tab.unavailable": "Ainda nada aqui consegue apresentar este tipo de conteúdo."

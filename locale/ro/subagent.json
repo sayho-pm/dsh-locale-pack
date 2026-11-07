@@ -26,6 +26,7 @@
   "mode.external": "Sarcină externă",
   "mode.oneShot": "unic",
   "mode.unknown": "mod necunoscut",
+  "open.floatWindow": "Deschide în panou plutitor",
   "open.sidebar": "Deschide în bara laterală",
   "open.sidebar.aria": "Deschide {label} în bara laterală",
   "readonly.body": "Sesiunea părinte este deconectată; redeschide-o pentru a continua să trimiți mesaje.",

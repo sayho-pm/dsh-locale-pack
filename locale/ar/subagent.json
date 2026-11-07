@@ -26,6 +26,7 @@
   "mode.external": "مهمة خارجية",
   "mode.oneShot": "مرة واحدة",
   "mode.unknown": "وضع غير معروف",
+  "open.floatWindow": "فتح في لوحة عائمة",
   "open.sidebar": "فتح في الشريط الجانبي",
   "open.sidebar.aria": "فتح {label} في الشريط الجانبي",
   "readonly.body": "الجلسة الأصلية غير متصلة. أعد فتحها لمواصلة إرسال الرسائل.",

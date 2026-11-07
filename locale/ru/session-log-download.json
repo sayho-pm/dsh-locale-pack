@@ -7,6 +7,10 @@
   "dialog.successDescription": "Браузер скачивает ZIP-архив сессии.",
   "dialog.successTitle": "Скачивание сессии началось",
   "header.more": "Дополнительные действия",
+  "menu.copyMarkdown": "Скопировать сессию в формате Markdown",
   "menu.download": "Скачать журнал сессии",
-  "menu.feedback": "Обратная связь"
+  "menu.feedback": "Обратная связь",
+  "toast.clipboardFailed": "Не удалось записать данные в буфер обмена. Проверьте разрешения на доступ к буферу обмена и попробуйте снова.",
+  "toast.copied": "Сессия скопирована в формате Markdown.",
+  "toast.preparationFailed": "Не удалось прочитать сессию для копирования. Попробуйте снова."
 }

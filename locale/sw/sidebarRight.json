@@ -31,6 +31,9 @@
   "dock.splitPane": "Gawanya",
   "dock.splitPaneDisabled": "Sehemu mbili ndiyo kikomo",
   "dock.splitPaneNarrow": "Upana hautoshi kugawanya, panua upau wa kando",
+  "menu.close": "Kufunga",
+  "menu.closeOthers": "Kufunga Tabu Zingine",
+  "menu.closeRight": "Kufunga Tabu za Kushoto",
   "tab.guide.more": "Za zaidi za vifaa",
   "tab.guide.title": "Mwanzo",
   "tab.unavailable": "Hakuna chochote hapa kinachoweza kuonyesha aina hii ya yaliyomo bado."

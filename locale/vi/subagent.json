@@ -26,6 +26,7 @@
   "mode.external": "Nhiệm vụ bên ngoài",
   "mode.oneShot": "một lần",
   "mode.unknown": "chế độ không xác định",
+  "open.floatWindow": "Mở trong bảng điều khiển nổi",
   "open.sidebar": "Mở trong thanh bên",
   "open.sidebar.aria": "Mở {label} trong thanh bên",
   "readonly.body": "Phiên cha đang ngoại tuyến; mở lại để tiếp tục gửi tin nhắn.",

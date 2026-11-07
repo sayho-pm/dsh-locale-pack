@@ -3,7 +3,7 @@
   "blockedBy": "Blocat de",
   "current": "Conversația curentă",
   "empty": "Nu există încă sarcini partajate. Creați-le prin conversație.",
-  "failure": "Înregistrare persistentă de echipă nevalidă: {message}",
+  "failure": "Înregistrarea nevalidă a echipei persistată: {message}",
   "loading": "Se încarcă echipa…",
   "memberStatus.failed": "Eșuat",
   "memberStatus.inactive": "Inactiv",
@@ -20,7 +20,7 @@
   "task.collapse": "Afișează mai puțin",
   "task.expand": "Afișează mai mult",
   "tasks": "Sarcini partajate",
-  "trigger": "Echipă de agenți",
+  "trigger": "Echipa agentului",
   "unavailable": "Echipa nu este disponibilă",
   "unowned": "Fără proprietar",
   "writeScopes": "Domenii de scriere"

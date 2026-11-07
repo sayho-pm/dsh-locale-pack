@@ -12,6 +12,7 @@
   "desktop.update.downloadDetail": "更新をダウンロードしています: {percent}%\n対象バージョン: {version}",
   "desktop.update.downloadFailed": "更新をダウンロードできませんでした。もう一度お試しください。",
   "desktop.update.downloadNetworkFailed": "更新をダウンロードできませんでした。接続を確認してもう一度お試しください。",
+  "desktop.update.fullscreenTimeout": "フルスクリーンモードから終了できませんでした。まずフルスクリーンモードを終了してから、更新を再試行してください。",
   "desktop.update.installFailed": "更新をインストールできませんでした。後でもう一度お試しください。",
   "desktop.update.installNetworkFailed": "更新をインストールできませんでした。接続を確認してもう一度お試しください。",
   "desktop.update.installing": "再起動の準備をしています…",

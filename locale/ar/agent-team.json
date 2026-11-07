@@ -4,7 +4,7 @@
   "current": "المحادثة الحالية",
   "empty": "لا توجد مهام مشتركة بعد. أنشئها من خلال المحادثة.",
   "failure": "سجل الفريق المحفوظ غير صالح: {message}",
-  "loading": "جارٍ تحميل الفريق…",
+  "loading": "يتم تحميل الفريق…",
   "memberStatus.failed": "فشل",
   "memberStatus.inactive": "غير نشط",
   "memberStatus.provisioning": "قيد التجهيز",
@@ -20,7 +20,7 @@
   "task.collapse": "عرض أقل",
   "task.expand": "عرض المزيد",
   "tasks": "المهام المشتركة",
-  "trigger": "فريق الوكلاء",
+  "trigger": "فريق العميل",
   "unavailable": "الفريق غير متاح",
   "unowned": "بلا مالك",
   "writeScopes": "نطاقات الكتابة"

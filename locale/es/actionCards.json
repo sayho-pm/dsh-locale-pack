@@ -1,0 +1,16 @@
+{
+  "collapseBrief": "Mostrar menos",
+  "dismiss": "No ahora",
+  "dismissed": "Descartado",
+  "expandBrief": "Mostrar más",
+  "replaced": "Sustituido",
+  "row.error": "No se muestra",
+  "row.inspect": "Inspeccionar llamada",
+  "row.ok": "Propuesto",
+  "row.preparing": "Preparando una tarjeta",
+  "row.running": "Proponiendo",
+  "row.stopped": "Interrumpido",
+  "row.title": "Tarjeta de acción",
+  "transport": "No se pudo confirmar el resultado. Vuelva a conectarse y revise la tarjeta antes de intentarlo de nuevo.",
+  "unavailable": "Esta acción no está disponible. Revise el complemento en Complementos."
+}

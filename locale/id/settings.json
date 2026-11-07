@@ -12,6 +12,7 @@
   "desktop.update.downloadDetail": "Mengunduh pembaruan: {percent}%\nVersi target: {version}",
   "desktop.update.downloadFailed": "Tidak dapat mengunduh pembaruan. Silakan coba lagi.",
   "desktop.update.downloadNetworkFailed": "Tidak dapat mengunduh pembaruan. Periksa koneksi Anda dan coba lagi.",
+  "desktop.update.fullscreenTimeout": "Tidak dapat keluar dari mode layar penuh. Keluar dari mode layar penuh terlebih dahulu lalu coba ulangi proses pembaruan.",
   "desktop.update.installFailed": "Tidak dapat menginstal pembaruan. Silakan coba lagi nanti.",
   "desktop.update.installNetworkFailed": "Tidak dapat menginstal pembaruan. Periksa koneksi Anda dan coba lagi.",
   "desktop.update.installing": "Menyiapkan untuk memulai ulang…",

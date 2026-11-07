@@ -26,6 +26,7 @@
   "mode.external": "Tugas eksternal",
   "mode.oneShot": "sekali jalan",
   "mode.unknown": "mode tidak dikenal",
+  "open.floatWindow": "Buka dalam panel mengambang",
   "open.sidebar": "Buka di bilah sisi",
   "open.sidebar.aria": "Buka {label} di bilah sisi",
   "readonly.body": "Sesi induk sedang luring; buka kembali untuk terus mengirim pesan.",

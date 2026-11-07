@@ -57,6 +57,26 @@ const locale = {
 const ctx = { effect: (fn) => fn(), locale };
 apply(ctx);
 
+// Dictionaries register after boot in deferred chunks (the web client has a
+// finite activation budget), so the assertions below wait for the queue to drain.
+const flushRegistration = async (maxTicks = 6000) => {
+  let last = -1;
+  let stable = 0;
+  for (let i = 0; i < maxTicks; i += 1) {
+    const count = [...dicts.values()].reduce((n, m) => n + m.size, 0);
+    if (count === last) {
+      stable += 1;
+      if (stable > 5) return;
+    } else {
+      stable = 0;
+      last = count;
+    }
+    await new Promise((resolve) => setTimeout(resolve, 0));
+  }
+  fail('deferred dictionary registration did not settle');
+};
+await flushRegistration();
+
 // 1. every language in the bundle is registered with an en fallback
 for (const { id, label } of LANGS) {
   const entry = catalog.get(id);

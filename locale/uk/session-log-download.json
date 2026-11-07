@@ -7,6 +7,10 @@
   "dialog.successDescription": "Браузер завантажує ZIP-архів сеансу.",
   "dialog.successTitle": "Завантаження сеансу розпочато",
   "header.more": "Більше дій",
+  "menu.copyMarkdown": "Копіювати сеанс у форматі Markdown",
   "menu.download": "Завантажити журнал сеансу",
-  "menu.feedback": "Зворотний зв'язок"
+  "menu.feedback": "Зворотний зв'язок",
+  "toast.clipboardFailed": "Не вдалося записати у буфер копіювання. Перевірте дозволи буфера копіювання та спробуйте ще раз.",
+  "toast.copied": "Сеанс копіювався у форматі Markdown.",
+  "toast.preparationFailed": "Не вдалося прочитати сеанс для копіювання. Спробуйте ще раз."
 }

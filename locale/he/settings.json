@@ -12,6 +12,7 @@
   "desktop.update.downloadDetail": "מוריד עדכון: {percent}%\nגרסת יעד: {version}",
   "desktop.update.downloadFailed": "לא ניתן להוריד את העדכון. נסה שוב.",
   "desktop.update.downloadNetworkFailed": "לא ניתן להוריד את העדכון. בדוק את החיבור ונסה שוב.",
+  "desktop.update.fullscreenTimeout": "לא ניתן לצאת ממצב מלא המסך. צאו ממצב מלא המסך ונסו שוב את העדכון.",
   "desktop.update.installFailed": "לא ניתן להתקין את העדכון. נסה שוב מאוחר יותר.",
   "desktop.update.installNetworkFailed": "לא ניתן להתקין את העדכון. בדוק את החיבור ונסה שוב.",
   "desktop.update.installing": "מתכונן להפעלה מחדש…",

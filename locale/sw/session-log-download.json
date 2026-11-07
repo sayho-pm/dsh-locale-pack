@@ -7,6 +7,10 @@
   "dialog.successDescription": "Kivinjari kinapakua ZIP ya Kipindi.",
   "dialog.successTitle": "Upakuaji wa Kipindi umeanza",
   "header.more": "Vitendo zaidi",
+  "menu.copyMarkdown": "Kopisha sesi kama Markdown",
   "menu.download": "Pakua kumbukumbu ya kipindi",
-  "menu.feedback": "Maoni"
+  "menu.feedback": "Maoni",
+  "toast.clipboardFailed": "Hakuna uwezo wa kuandika kwenye clipboard. Angalia ruhusa za clipboard na jaribu tena.",
+  "toast.copied": "Sesi imekopishwa kama Markdown.",
+  "toast.preparationFailed": "Hakuna uwezo wa kusoma sesi kwa ajili ya kopisho. Jaribu tena."
 }

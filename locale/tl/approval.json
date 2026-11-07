@@ -1,4 +1,6 @@
 {
+  "allow": "Pahintulutan",
+  "allowAlways": "Laging pahintulutan",
   "allowOnce": "Payagan nang isang beses",
   "detail.aria": "Mga detalye ng pag-apruba",
   "escalation": "Ang tool na {toolName} ay humihiling ng pribilihiyadong pagpapatakbo",

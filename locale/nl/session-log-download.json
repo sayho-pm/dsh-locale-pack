@@ -7,6 +7,10 @@
   "dialog.successDescription": "De browser downloadt de sessie-ZIP.",
   "dialog.successTitle": "Sessiedownload gestart",
   "header.more": "Meer acties",
+  "menu.copyMarkdown": "Sessie kopiëren als Markdown",
   "menu.download": "Sessielogboek downloaden",
-  "menu.feedback": "Feedback"
+  "menu.feedback": "Feedback",
+  "toast.clipboardFailed": "Kon niet schrijven in het klipbord. Controleer de toestemmingen voor het klipbord en probeer het opnieuw.",
+  "toast.copied": "Sessie is gekopieerd als Markdown.",
+  "toast.preparationFailed": "Kon de sessie niet lezen voor kopiëren. Probeer het opnieuw."
 }

@@ -12,6 +12,7 @@
   "desktop.update.downloadDetail": "Đang tải xuống bản cập nhật: {percent}%\nPhiên bản mục tiêu: {version}",
   "desktop.update.downloadFailed": "Không thể tải xuống bản cập nhật. Vui lòng thử lại.",
   "desktop.update.downloadNetworkFailed": "Không thể tải xuống bản cập nhật. Hãy kiểm tra kết nối của bạn và thử lại.",
+  "desktop.update.fullscreenTimeout": "Không thể thoát chế độ toàn màn hình. Hãy thoát chế độ toàn màn hình trước rồi thử cập nhật lại.",
   "desktop.update.installFailed": "Không thể cài đặt bản cập nhật. Vui lòng thử lại sau.",
   "desktop.update.installNetworkFailed": "Không thể cài đặt bản cập nhật. Hãy kiểm tra kết nối của bạn và thử lại.",
   "desktop.update.installing": "Đang chuẩn bị khởi động lại…",

@@ -31,6 +31,9 @@
   "dock.splitPane": "分割",
   "dock.splitPaneDisabled": "ペインは二つまでです",
   "dock.splitPaneNarrow": "分割するには幅が足りません。サイドバーを広げてください。",
+  "menu.close": "閉じる",
+  "menu.closeOthers": "他のタブを閉じる",
+  "menu.closeRight": "右側のタブを閉じる",
   "tab.guide.more": "その他のツール",
   "tab.guide.title": "開始",
   "tab.unavailable": "この種類のコンテンツはまだ表示できません。"

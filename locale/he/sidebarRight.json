@@ -31,6 +31,9 @@
   "dock.splitPane": "פצל",
   "dock.splitPaneDisabled": "המגבלה היא שתי חלוניות",
   "dock.splitPaneNarrow": "אין מספיק רוחב לפיצול, הרחב את סרגל הצד",
+  "menu.close": "לסגור",
+  "menu.closeOthers": "לסגור כרטיסיות אחרות",
+  "menu.closeRight": "לסגור כרטיסיות מימין",
   "tab.guide.more": "עוד כלים",
   "tab.guide.title": "התחלה",
   "tab.unavailable": "שום דבר כאן אינו יכול להציג סוג תוכן זה עדיין."

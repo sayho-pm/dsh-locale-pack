@@ -1,0 +1,16 @@
+{
+  "collapseBrief": "Ipakita ang mas kaunti",
+  "dismiss": "Hindi ngayon",
+  "dismissed": "Tinanggal na",
+  "expandBrief": "Ipakita ang higit pa",
+  "replaced": "Pinalitan na",
+  "row.error": "Hindi ipinapakita",
+  "row.inspect": "Suriin ang tawag",
+  "row.ok": "Iminungkahi",
+  "row.preparing": "Naghahanda ng card",
+  "row.running": "Iminumungkahi",
+  "row.stopped": "Naputol",
+  "row.title": "Card ng aksyon",
+  "transport": "Hindi makumpirma ang resulta. Iugnay muli at suriin ang card bago subukang muli.",
+  "unavailable": "Hindi available ang aksyong ito. Suriin ang plugin sa Mga Plugin."
+}

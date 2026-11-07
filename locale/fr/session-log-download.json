@@ -7,6 +7,10 @@
   "dialog.successDescription": "Le navigateur télécharge le fichier ZIP de la session.",
   "dialog.successTitle": "Le téléchargement de la session a commencé",
   "header.more": "Plus d'actions",
+  "menu.copyMarkdown": "Copier la session sous forme de Markdown",
   "menu.download": "Télécharger le journal de session",
-  "menu.feedback": "Commentaires"
+  "menu.feedback": "Commentaires",
+  "toast.clipboardFailed": "Il n a pas été possible d écrire dans le presse papier. Vérifiez les permissions du presse papier et essayez à nouveau.",
+  "toast.copied": "La session a été copiée sous forme de Markdown.",
+  "toast.preparationFailed": "Il n a pas été possible de lire la session pour la copier. Essayez à nouveau."
 }

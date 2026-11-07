@@ -1,4 +1,6 @@
 {
+  "allow": "允許",
+  "allowAlways": "始終允許",
   "allowOnce": "允許一次",
   "detail.aria": "批准詳情",
   "escalation": "工具 {toolName} 要求特權執行",

@@ -1,8 +1,10 @@
 {
+  "navigation.label": "Navigering",
   "panels.label": "Globala paneler",
   "panels.more": "Mer",
   "session.new": "Ny session",
   "session.new.label": "Ny session",
   "toggle.collapse": "Fäll ihop sidofältet",
-  "toggle.open": "Öppna sidofältet"
+  "toggle.open": "Öppna sidofältet",
+  "version.copied": "Versionen har kopierats"
 }

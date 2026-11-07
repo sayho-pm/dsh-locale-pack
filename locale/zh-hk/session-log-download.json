@@ -7,6 +7,10 @@
   "dialog.successDescription": "瀏覽器正在下載工作階段壓縮檔。",
   "dialog.successTitle": "已開始下載工作階段",
   "header.more": "更多操作",
+  "menu.copyMarkdown": "將會話複製為 Markdown 格式",
   "menu.download": "下載工作階段紀錄",
-  "menu.feedback": "意見反映"
+  "menu.feedback": "意見反映",
+  "toast.clipboardFailed": "無法寫入剪貼簿。請檢查剪貼簿權限後再試一次。",
+  "toast.copied": "會話已成功複製為 Markdown 格式。",
+  "toast.preparationFailed": "無法讀取會話內容以進行複製。請再試一次。"
 }

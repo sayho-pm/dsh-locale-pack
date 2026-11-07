@@ -1,9 +1,9 @@
 {
-  "dsh": "0.2.0-rc.2",
-  "namespaces": 45,
-  "keys": 2528,
+  "dsh": "0.2.2-rc.1",
+  "namespaces": 72,
+  "keys": 4016,
   "languages": 29,
-  "translatedKeysPerLanguage": 2528,
-  "koKeys": 2325,
-  "checkedAt": "2026-10-03"
+  "translatedKeysPerLanguage": 4016,
+  "koKeys": 4016,
+  "checkedAt": "2026-11-07"
 }

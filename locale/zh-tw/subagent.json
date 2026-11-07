@@ -26,6 +26,7 @@
   "mode.external": "外部任務",
   "mode.oneShot": "單次",
   "mode.unknown": "未知模式",
+  "open.floatWindow": "在浮動面板中開啟",
   "open.sidebar": "在側邊欄中開啟",
   "open.sidebar.aria": "在側邊欄中開啟 {label}",
   "readonly.body": "父工作階段已離線，請重新開啟以繼續傳送訊息。",

@@ -1,4 +1,6 @@
 {
+  "allow": "Izinkan",
+  "allowAlways": "Izinkan selalu",
   "allowOnce": "Izinkan sekali",
   "detail.aria": "Detail persetujuan",
   "escalation": "Alat {toolName} meminta eksekusi istimewa",

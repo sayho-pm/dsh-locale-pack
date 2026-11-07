@@ -7,6 +7,10 @@
   "dialog.successDescription": "Przeglądarka pobiera plik ZIP sesji.",
   "dialog.successTitle": "Rozpoczęto pobieranie sesji",
   "header.more": "Więcej akcji",
+  "menu.copyMarkdown": "Skopiuj sesję jako Markdown",
   "menu.download": "Pobierz dziennik sesji",
-  "menu.feedback": "Opinia"
+  "menu.feedback": "Opinia",
+  "toast.clipboardFailed": "Nie udało się zapisać do schowka. Sprawdź uprawnienia do schowka i spróbuj ponownie.",
+  "toast.copied": "Sesja została skopiowana jako Markdown.",
+  "toast.preparationFailed": "Nie udało się odczytać sesji w celu skopiowania. Spróbuj ponownie."
 }

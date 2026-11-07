@@ -1,4 +1,6 @@
 {
+  "allow": "Zezwolić",
+  "allowAlways": "Zawsze zezwolić",
   "allowOnce": "Zezwól raz",
   "detail.aria": "Szczegóły zatwierdzenia",
   "escalation": "Narzędzie {toolName} prosi o uprzywilejowane wykonanie",

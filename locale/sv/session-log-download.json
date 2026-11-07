@@ -7,6 +7,10 @@
   "dialog.successDescription": "Webbläsaren laddar ner sessionens ZIP-fil.",
   "dialog.successTitle": "Nedladdning av sessionen har startat",
   "header.more": "Fler åtgärder",
+  "menu.copyMarkdown": "Kopiera sessionen som Markdown",
   "menu.download": "Ladda ner sessionslogg",
-  "menu.feedback": "Återkoppling"
+  "menu.feedback": "Återkoppling",
+  "toast.clipboardFailed": "Kunde inte skriva till klippbordet. Kontrollera klippbordstillgångarna och försök igen.",
+  "toast.copied": "Sessionen har kopierats som Markdown.",
+  "toast.preparationFailed": "Kunde inte läsa sessionen för kopiering. Försök igen."
 }

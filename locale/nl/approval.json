@@ -1,4 +1,6 @@
 {
+  "allow": "Toestaan",
+  "allowAlways": "Altijd toestaan",
   "allowOnce": "Eenmalig toestaan",
   "detail.aria": "Goedkeuringsdetails",
   "escalation": "Tool {toolName} vraagt om uitvoering met verhoogde rechten",

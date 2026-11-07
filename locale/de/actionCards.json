@@ -1,0 +1,16 @@
+{
+  "collapseBrief": "Mehr anzeigen verbergen",
+  "dismiss": "Jetzt nicht",
+  "dismissed": "Verbergen",
+  "expandBrief": "Mehr anzeigen",
+  "replaced": "Ersetzt",
+  "row.error": "Wird nicht angezeigt",
+  "row.inspect": "Aufruf überprüfen",
+  "row.ok": "Vorgeschlagen",
+  "row.preparing": "Karte vorbereiten",
+  "row.running": "Vorschlagen",
+  "row.stopped": "Unterbrochen",
+  "row.title": "Aktionskarte",
+  "transport": "Es konnte das Ergebnis nicht bestätigt werden. Verbinden Sie sich erneut und überprüfen Sie die Karte bevor Sie es erneut versuchen.",
+  "unavailable": "Diese Aktion ist nicht verfügbar. Überprüfen Sie den Plugin in Plugins."
+}

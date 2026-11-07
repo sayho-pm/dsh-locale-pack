@@ -12,6 +12,7 @@
   "desktop.update.downloadDetail": "اپ ڈیٹ ڈاؤن لوڈ ہو رہا ہے: {percent}%\nمطلوبہ ورژن: {version}",
   "desktop.update.downloadFailed": "اپ ڈیٹ ڈاؤن لوڈ نہیں ہو سکا۔ براہ کرم دوبارہ کوشش کریں۔",
   "desktop.update.downloadNetworkFailed": "اپ ڈیٹ ڈاؤن لوڈ نہیں ہو سکا۔ اپنا کنکشن چیک کریں اور دوبارہ کوشش کریں۔",
+  "desktop.update.fullscreenTimeout": "فل  اسکرین سے نکلنے میں ناکامی ہوئی۔ براہ کرم فل  اسکرین سے نکلیں، پھر اپ ڈیٹ کو دوبارہ آزمائیں۔",
   "desktop.update.installFailed": "اپ ڈیٹ انسٹال نہیں ہو سکا۔ براہ کرم بعد میں دوبارہ کوشش کریں۔",
   "desktop.update.installNetworkFailed": "اپ ڈیٹ انسٹال نہیں ہو سکا۔ اپنا کنکشن چیک کریں اور دوبارہ کوشش کریں۔",
   "desktop.update.installing": "دوبارہ شروع کرنے کی تیاری ہو رہی ہے…",

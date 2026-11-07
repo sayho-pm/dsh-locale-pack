@@ -7,6 +7,10 @@
   "dialog.successDescription": "ব্রাউজার সেশন ZIP ডাউনলোড করছে।",
   "dialog.successTitle": "সেশন ডাউনলোড শুরু হয়েছে",
   "header.more": "আরও ক্রিয়া",
+  "menu.copyMarkdown": "সেশনটি মার্কডাউন আকারে কপি করুন",
   "menu.download": "সেশন লগ ডাউনলোড করুন",
-  "menu.feedback": "মতামত"
+  "menu.feedback": "মতামত",
+  "toast.clipboardFailed": "ক্লিপবোর্ডে লেখা সম্ভব হয়নি। ক্লিপবোর্ডের অনুমতি পরীক্ষা করুন এবং আবার চেষ্টা করুন।",
+  "toast.copied": "সেশনটি মার্কডাউন আকারে কপি হয়েছে।",
+  "toast.preparationFailed": "কপি করার জন্য সেশনটি পড়া সম্ভব হয়নি। আবার চেষ্টা করুন।"
 }

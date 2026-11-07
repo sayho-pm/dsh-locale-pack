@@ -12,6 +12,7 @@
   "desktop.update.downloadDetail": "Téléchargement de la mise à jour : {percent}%\nVersion cible : {version}",
   "desktop.update.downloadFailed": "Impossible de télécharger la mise à jour. Veuillez réessayer.",
   "desktop.update.downloadNetworkFailed": "Impossible de télécharger la mise à jour. Vérifiez votre connexion et réessayez.",
+  "desktop.update.fullscreenTimeout": "Il n est pas possible de quitter le mode plein écran. Veuillez quitter le mode plein écran puis réessayer la mise à jour.",
   "desktop.update.installFailed": "Impossible d'installer la mise à jour. Veuillez réessayer ultérieurement.",
   "desktop.update.installNetworkFailed": "Impossible d'installer la mise à jour. Vérifiez votre connexion et réessayez.",
   "desktop.update.installing": "Préparation du redémarrage…",

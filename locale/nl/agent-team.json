@@ -3,7 +3,7 @@
   "blockedBy": "Geblokkeerd door",
   "current": "Huidige chat",
   "empty": "Nog geen gedeelde taken. Maak ze via het gesprek.",
-  "failure": "Ongeldig opgeslagen teamrecord: {message}",
+  "failure": "Ongeldige opgeslagen teamregistratie: {message}",
   "loading": "Team laden…",
   "memberStatus.failed": "Mislukt",
   "memberStatus.inactive": "Inactief",
@@ -20,7 +20,7 @@
   "task.collapse": "Minder weergeven",
   "task.expand": "Meer weergeven",
   "tasks": "Gedeelde taken",
-  "trigger": "Agentteam",
+  "trigger": "Agent team",
   "unavailable": "Team is niet beschikbaar",
   "unowned": "Zonder eigenaar",
   "writeScopes": "Schrijfbereiken"

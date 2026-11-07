@@ -12,6 +12,7 @@
   "desktop.update.downloadDetail": "Nagda-download ng update: {percent}%\nTarget na bersyon: {version}",
   "desktop.update.downloadFailed": "Hindi ma-download ang update. Pakisubukang muli.",
   "desktop.update.downloadNetworkFailed": "Hindi ma-download ang update. Suriin ang iyong koneksyon at subukang muli.",
+  "desktop.update.fullscreenTimeout": "Hindi makalabas sa fullscreen. Lumabas muna sa fullscreen, pagkatapos ay subukan muli ang pag-update.",
   "desktop.update.installFailed": "Hindi ma-install ang update. Pakisubukang muli mamaya.",
   "desktop.update.installNetworkFailed": "Hindi ma-install ang update. Suriin ang iyong koneksyon at subukang muli.",
   "desktop.update.installing": "Naghahanda sa pag-restart…",

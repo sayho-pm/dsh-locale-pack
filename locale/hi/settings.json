@@ -12,6 +12,7 @@
   "desktop.update.downloadDetail": "अपडेट डाउनलोड हो रहा है: {percent}%\nलक्षित संस्करण: {version}",
   "desktop.update.downloadFailed": "अपडेट डाउनलोड नहीं हो सका। कृपया पुनः प्रयास करें।",
   "desktop.update.downloadNetworkFailed": "अपडेट डाउनलोड नहीं हो सका। अपना कनेक्शन जाँचें और पुनः प्रयास करें।",
+  "desktop.update.fullscreenTimeout": "पूर्ण स्क्रीन मोड से बाहर नहीं निकला जा सका। पहले पूर्ण स्क्रीन मोड से बाहर निकलें फिर अपडेट को पुनः आजमाएँ।",
   "desktop.update.installFailed": "अपडेट इंस्टॉल नहीं हो सका। कृपया बाद में पुनः प्रयास करें।",
   "desktop.update.installNetworkFailed": "अपडेट इंस्टॉल नहीं हो सका। अपना कनेक्शन जाँचें और पुनः प्रयास करें।",
   "desktop.update.installing": "पुनरारंभ की तैयारी हो रही है…",

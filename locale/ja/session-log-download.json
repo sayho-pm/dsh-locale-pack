@@ -7,6 +7,10 @@
   "dialog.successDescription": "ブラウザーがセッションのジップをダウンロードしています。",
   "dialog.successTitle": "セッションのダウンロード開始",
   "header.more": "その他の操作",
+  "menu.copyMarkdown": "セッションをMarkdown形式でコピー",
   "menu.download": "セッションログのダウンロード",
-  "menu.feedback": "フィードバック"
+  "menu.feedback": "フィードバック",
+  "toast.clipboardFailed": "クリップボードに書き込むことができませんでした。クリップボードの権限を確認してからもう一度試してください。",
+  "toast.copied": "セッションがMarkdown形式でコピーされました。",
+  "toast.preparationFailed": "コピーのためにセッションを読み取ることができませんでした。もう一度試してください。"
 }

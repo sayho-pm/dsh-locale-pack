@@ -1,0 +1,16 @@
+{
+  "collapseBrief": "Tampilkan lebih sedikit",
+  "dismiss": "Belum sekarang",
+  "dismissed": "Ditolak",
+  "expandBrief": "Tampilkan lebih banyak",
+  "replaced": "Diganti",
+  "row.error": "Tidak ditampilkan",
+  "row.inspect": "Periksa panggilan",
+  "row.ok": "Disarankan",
+  "row.preparing": "Membuat kartu",
+  "row.running": "Disarankan",
+  "row.stopped": "Terhenti",
+  "row.title": "Kartu tindakan",
+  "transport": "Tidak dapat memastikan hasilnya. Sambungkan kembali dan periksa kartu sebelum mencoba lagi.",
+  "unavailable": "Tindakan ini tidak tersedia. Periksa plugin di bagian Plugins."
+}

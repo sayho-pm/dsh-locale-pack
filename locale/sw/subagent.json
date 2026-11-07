@@ -26,6 +26,7 @@
   "mode.external": "Kazi ya nje",
   "mode.oneShot": "mara moja",
   "mode.unknown": "hali isiyojulikana",
+  "open.floatWindow": "Fungua katika paneli ya kufunga",
   "open.sidebar": "Fungua kwenye utepe wa kando",
   "open.sidebar.aria": "Fungua {label} kwenye utepe wa kando",
   "readonly.body": "Kipindi kikuu kiko nje ya mtandao; kifungue tena ili uendelee kutuma ujumbe.",

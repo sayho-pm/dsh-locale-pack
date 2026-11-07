@@ -1,8 +1,10 @@
 {
+  "navigation.label": "Навигация",
   "panels.label": "Глобальные панели",
   "panels.more": "Еще",
   "session.new": "Новый сеанс",
   "session.new.label": "Новый сеанс",
   "toggle.collapse": "Свернуть боковую панель",
-  "toggle.open": "Открыть боковую панель"
+  "toggle.open": "Открыть боковую панель",
+  "version.copied": "Версия скопирована"
 }

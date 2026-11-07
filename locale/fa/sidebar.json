@@ -1,8 +1,10 @@
 {
+  "navigation.label": "ناوبری",
   "panels.label": "پنل‌های سراسری",
   "panels.more": "بیشتر",
   "session.new": "نشست جدید",
   "session.new.label": "نشست جدید",
   "toggle.collapse": "جمع کردن نوار کناری",
-  "toggle.open": "باز کردن نوار کناری"
+  "toggle.open": "باز کردن نوار کناری",
+  "version.copied": "نسخه کپی شد"
 }

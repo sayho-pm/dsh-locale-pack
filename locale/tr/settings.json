@@ -12,6 +12,7 @@
   "desktop.update.downloadDetail": "Güncelleme indiriliyor: {percent}%\nHedef sürüm: {version}",
   "desktop.update.downloadFailed": "Güncelleme indirilemedi. Lütfen yeniden deneyin.",
   "desktop.update.downloadNetworkFailed": "Güncelleme indirilemedi. Bağlantınızı kontrol edip yeniden deneyin.",
+  "desktop.update.fullscreenTimeout": "Tam ekran modundan çıkılamadı. Lütfen tam ekran modundan çıkın ve ardından güncellemeyi tekrar deneyin.",
   "desktop.update.installFailed": "Güncelleme yüklenemedi. Lütfen daha sonra yeniden deneyin.",
   "desktop.update.installNetworkFailed": "Güncelleme yüklenemedi. Bağlantınızı kontrol edip yeniden deneyin.",
   "desktop.update.installing": "Yeniden başlatmaya hazırlanıyor…",

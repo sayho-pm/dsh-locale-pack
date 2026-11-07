@@ -31,6 +31,9 @@
   "dock.splitPane": "تقسيم",
   "dock.splitPaneDisabled": "الحد الأقصى لوحتان",
   "dock.splitPaneNarrow": "لا توجد مساحة عرض كافية للتقسيم، وسع الشريط الجانبي",
+  "menu.close": "إغلاق",
+  "menu.closeOthers": "إغلاق علامات التبويب الأخرى",
+  "menu.closeRight": "إغلاق علامات التبويب الموجودة على اليمين",
   "tab.guide.more": "أدوات إضافية",
   "tab.guide.title": "البداية",
   "tab.unavailable": "لا يمكن عرض هذا النوع من المحتوى هنا بعد."

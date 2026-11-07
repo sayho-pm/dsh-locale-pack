@@ -12,6 +12,7 @@
   "desktop.update.downloadDetail": "正在下載更新：{percent}%\n目標版本：{version}",
   "desktop.update.downloadFailed": "無法下載更新，請再試一次。",
   "desktop.update.downloadNetworkFailed": "無法下載更新，請檢查網絡連線後再試。",
+  "desktop.update.fullscreenTimeout": "無法退出全螢幕模式。請先退出全螢幕模式，再嘗試進行更新。",
   "desktop.update.installFailed": "無法安裝更新，請稍後再試。",
   "desktop.update.installNetworkFailed": "無法安裝更新，請檢查網絡連線後再試。",
   "desktop.update.installing": "準備重新啟動…",

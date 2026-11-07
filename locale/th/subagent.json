@@ -26,6 +26,7 @@
   "mode.external": "งานภายนอก",
   "mode.oneShot": "แบบครั้งเดียว",
   "mode.unknown": "โหมดที่ไม่รู้จัก",
+  "open.floatWindow": "เปิดในแผงลอย",
   "open.sidebar": "เปิดในแถบด้านข้าง",
   "open.sidebar.aria": "เปิด {label} ในแถบด้านข้าง",
   "readonly.body": "เซสชันหลักออฟไลน์อยู่; เปิดอีกครั้งเพื่อส่งข้อความต่อ",

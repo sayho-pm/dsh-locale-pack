@@ -4,7 +4,7 @@
   "encoding": "Cet encodage de texte n'a pas pu être lu. Enregistrez le fichier en UTF-8 ou UTF-16 avec BOM et réessayez.",
   "featureSeparator": ", ",
   "formulaWarning": "Ce classeur contient des formules. Les résultats affichés peuvent être manquants ou inexacts.",
-  "images": "images",
+  "images": "Images",
   "invalid": "Cette feuille de calcul n'a pas pu être ouverte. Vérifiez son format, son contenu ou sa protection par mot de passe.",
   "language": "en",
   "loading": "Rendu du document...",

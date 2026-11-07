@@ -12,6 +12,7 @@
   "desktop.update.downloadDetail": "Aktualisierung wird heruntergeladen: {percent}%\nZielversion: {version}",
   "desktop.update.downloadFailed": "Die Aktualisierung konnte nicht heruntergeladen werden. Bitte erneut versuchen.",
   "desktop.update.downloadNetworkFailed": "Die Aktualisierung konnte nicht heruntergeladen werden. Verbindung prüfen und erneut versuchen.",
+  "desktop.update.fullscreenTimeout": "Es ist nicht möglich den Vollbildmodus zu verlassen. Verlassen Sie den Vollbildmodus und versuchen Sie den Updatevorgang erneut.",
   "desktop.update.installFailed": "Die Aktualisierung konnte nicht installiert werden. Bitte später erneut versuchen.",
   "desktop.update.installNetworkFailed": "Die Aktualisierung konnte nicht installiert werden. Verbindung prüfen und erneut versuchen.",
   "desktop.update.installing": "Neustart wird vorbereitet…",

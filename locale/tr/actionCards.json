@@ -1,0 +1,16 @@
+{
+  "collapseBrief": "Daha az göster",
+  "dismiss": "Şimdi değil",
+  "dismissed": "Reddedildi",
+  "expandBrief": "Daha fazla göster",
+  "replaced": "Yerine konuldu",
+  "row.error": "Gösterilmiyor",
+  "row.inspect": "Aramayı incele",
+  "row.ok": "Önerildi",
+  "row.preparing": "Bir kart hazırlanıyor",
+  "row.running": "Öneriliyor",
+  "row.stopped": "Yarıda kesildi",
+  "row.title": "Eylem kartı",
+  "transport": "Sonuç doğrulanamadı. Tekrar denemeden önce bağlantıyı yenileyin ve kartı kontrol edin.",
+  "unavailable": "Bu eylem kullanılamıyor. Eklentiler bölümündeki eklentiyi kontrol edin."
+}

@@ -7,6 +7,10 @@
   "dialog.successDescription": "เบราว์เซอร์กำลังดาวน์โหลดไฟล์ ZIP ของเซสชัน",
   "dialog.successTitle": "เริ่มดาวน์โหลดเซสชันแล้ว",
   "header.more": "การดำเนินการเพิ่มเติม",
+  "menu.copyMarkdown": "คัดลอกเซสชันเป็นรูปแบบ Markdown",
   "menu.download": "ดาวน์โหลดบันทึกเซสชัน",
-  "menu.feedback": "ข้อเสนอแนะ"
+  "menu.feedback": "ข้อเสนอแนะ",
+  "toast.clipboardFailed": "ไม่สามารถเขียนลงในคลิปบอร์ดได้ กรุณาตรวจสอบสิทธิ์คลิปบอร์ดแล้วลองอีกครั้ง",
+  "toast.copied": "เซสชันถูกคัดลอกเป็นรูปแบบ Markdown แล้ว",
+  "toast.preparationFailed": "ไม่สามารถอ่านเซสชันเพื่อคัดลอกได้ กรุณาลองอีกครั้ง"
 }

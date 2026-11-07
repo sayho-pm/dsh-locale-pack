@@ -12,6 +12,7 @@
   "desktop.update.downloadDetail": "Scaricamento dell'aggiornamento: {percent}%\nVersione di destinazione: {version}",
   "desktop.update.downloadFailed": "Impossibile scaricare l'aggiornamento. Riprova.",
   "desktop.update.downloadNetworkFailed": "Impossibile scaricare l'aggiornamento. Controlla la connessione e riprova.",
+  "desktop.update.fullscreenTimeout": "Non è stato possibile uscire dallo schermo intero. Uscite dallo schermo intero e riprovate con l'aggiornamento.",
   "desktop.update.installFailed": "Impossibile installare l'aggiornamento. Riprova più tardi.",
   "desktop.update.installNetworkFailed": "Impossibile installare l'aggiornamento. Controlla la connessione e riprova.",
   "desktop.update.installing": "Preparazione al riavvio in corso…",

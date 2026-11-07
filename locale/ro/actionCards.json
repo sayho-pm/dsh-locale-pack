@@ -1,0 +1,16 @@
+{
+  "collapseBrief": "Afișa mai puțin",
+  "dismiss": "Nu acum",
+  "dismissed": "A fost respins",
+  "expandBrief": "Afișa mai mult",
+  "replaced": "A fost înlocuit",
+  "row.error": "Nu este afișat",
+  "row.inspect": "Inspectează apelul",
+  "row.ok": "Propus",
+  "row.preparing": "Se pregătește o carte",
+  "row.running": "Se propună",
+  "row.stopped": "A fost interupt",
+  "row.title": "Carte de acțiune",
+  "transport": "Nu a fost posibilă confirmarea rezultatului. Conectează-te din nou și verifică cartea înainte de a încerca din nou.",
+  "unavailable": "Această acțiune nu este disponibilă. Verifică pluginul în secțiunea Plugins."
+}

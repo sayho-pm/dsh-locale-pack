@@ -26,6 +26,7 @@
   "mode.external": "Tâche externe",
   "mode.oneShot": "à usage unique",
   "mode.unknown": "mode inconnu",
+  "open.floatWindow": "Ouvrir dans un panneau flottant",
   "open.sidebar": "Ouvrir dans la barre latérale",
   "open.sidebar.aria": "Ouvrir {label} dans la barre latérale",
   "readonly.body": "La session parente est hors ligne ; rouvrez-la pour continuer à envoyer des messages.",

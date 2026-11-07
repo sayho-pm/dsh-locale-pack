@@ -1,0 +1,16 @@
+{
+  "collapseBrief": "הצג פחות",
+  "dismiss": "לא עכשיו",
+  "dismissed": "נדחה",
+  "expandBrief": "הצג יותר",
+  "replaced": "הוחלף",
+  "row.error": "לא מוצג",
+  "row.inspect": "בדוק את הקריאה",
+  "row.ok": "הוצע",
+  "row.preparing": "מכינים כרטיס",
+  "row.running": "מציעים",
+  "row.stopped": "נקטע",
+  "row.title": "כרטיס פעולה",
+  "transport": "לא ניתן היה לאשר את התוצאה. חברו מחדש ובדקו את הכרטיס לפני ניסיון נוסף.",
+  "unavailable": "פעולה זו אינה זמינה. בדקו את התוסף בקטגוריה Plugins."
+}

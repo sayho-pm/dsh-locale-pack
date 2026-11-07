@@ -7,6 +7,10 @@
   "dialog.successDescription": "El navegador está descargando el ZIP de la sesión.",
   "dialog.successTitle": "Descarga de la sesión iniciada",
   "header.more": "Más acciones",
+  "menu.copyMarkdown": "Copiar sesión como Markdown",
   "menu.download": "Descargar registro de sesión",
-  "menu.feedback": "Comentarios"
+  "menu.feedback": "Comentarios",
+  "toast.clipboardFailed": "No se pudo escribir en el portapapeles. Verifique los permisos del portapapeles e inténtelo de nuevo.",
+  "toast.copied": "La sesión se copió como Markdown.",
+  "toast.preparationFailed": "No se pudo leer la sesión para copiarla. Inténtelo de nuevo."
 }

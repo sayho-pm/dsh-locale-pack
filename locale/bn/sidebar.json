@@ -1,8 +1,10 @@
 {
+  "navigation.label": "নেভিগেশন",
   "panels.label": "গ্লোবাল প্যানেল",
   "panels.more": "আরও",
   "session.new": "নতুন সেশন",
   "session.new.label": "নতুন সেশন",
   "toggle.collapse": "সাইডবার সংকুচিত করুন",
-  "toggle.open": "সাইডবার খুলুন"
+  "toggle.open": "সাইডবার খুলুন",
+  "version.copied": "ভার্সনটি কপি হয়েছে"
 }

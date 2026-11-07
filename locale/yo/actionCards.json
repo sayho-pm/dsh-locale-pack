@@ -1,0 +1,16 @@
+{
+  "collapseBrief": "Iwọ ọdún mọ",
+  "dismiss": "Maa bá àwọn ọdún mọ lèyìn",
+  "dismissed": "Àwọn ọdún mọ wà",
+  "expandBrief": "Iwọ ọdún mọ àti àwọn ọdún mọ miiran",
+  "replaced": "Iwọ ọdún mọ wà nípa àwọn ọdún mọ miiran",
+  "row.error": "Àwọn ọdún mọ wà kò sì wá",
+  "row.inspect": "Iwọ ọdún mọ àti àwọn ọdún mọ ti o jẹ",
+  "row.ok": "Iwọ ọdún mọ wà nípa àwọn ọdún mọ ti o wá",
+  "row.preparing": "Iwọ ọdún mọ àti àwọn ọdún mọ ti o wá wà lèyìn",
+  "row.running": "Iwọ ọdún mọ wà nípa àwọn ọdún mọ ti o wá",
+  "row.stopped": "Àwọn ọdún mọ wà kò tún wá",
+  "row.title": "Àwọn ọdún mọ ti o wá",
+  "transport": "Àwọn ọdún mọ wà kò sì wá. Iwọ ṣe àwọn ọdún mọ tó kò wá lèyìn àti ṣe àwọn iṣẹlẹ tuntun lèyìn.",
+  "unavailable": "Àwọn ọdún mọ wà kò sì wá. Iwọ ṣe àwọn iṣẹlẹ ti o wá lèyìn nípa àwọn plugin."
+}

@@ -12,6 +12,7 @@
   "desktop.update.downloadDetail": "Pobieranie aktualizacji: {percent}%\nDocelowa wersja: {version}",
   "desktop.update.downloadFailed": "Nie można pobrać aktualizacji. Spróbuj ponownie.",
   "desktop.update.downloadNetworkFailed": "Nie można pobrać aktualizacji. Sprawdź połączenie i spróbuj ponownie.",
+  "desktop.update.fullscreenTimeout": "Nie udało się wyjść z trybu pełnoekranowego. Wyjdź z trybu pełnoekranowego a następnie spróbuj ponownie zaktualizować.",
   "desktop.update.installFailed": "Nie można zainstalować aktualizacji. Spróbuj ponownie później.",
   "desktop.update.installNetworkFailed": "Nie można zainstalować aktualizacji. Sprawdź połączenie i spróbuj ponownie.",
   "desktop.update.installing": "Przygotowywanie do ponownego uruchomienia…",

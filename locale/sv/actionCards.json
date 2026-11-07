@@ -1,0 +1,16 @@
+{
+  "collapseBrief": "Visa mindre",
+  "dismiss": "Inte nu",
+  "dismissed": "Avvisat",
+  "expandBrief": "Visa mer",
+  "replaced": "Bytts ut",
+  "row.error": "Visas inte",
+  "row.inspect": "Kolla anropet",
+  "row.ok": "Förslag",
+  "row.preparing": "Förbereder en kort",
+  "row.running": "Förslag ges",
+  "row.stopped": "Avbrutet",
+  "row.title": "Handlingskort",
+  "transport": "Kunde inte bekräfta resultatet. Anslut om och kolla kortet innan du försöker igen.",
+  "unavailable": "Denna handling är otillgänglig. Kolla pluginet i Plugins."
+}

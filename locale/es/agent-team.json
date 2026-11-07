@@ -3,7 +3,7 @@
   "blockedBy": "Bloqueado por",
   "current": "Chat actual",
   "empty": "Aún no hay tareas compartidas. Créalas desde la conversación.",
-  "failure": "Registro persistido del equipo no válido: {message}",
+  "failure": "Registro de equipo persistido inválido: {message}",
   "loading": "Cargando equipo…",
   "memberStatus.failed": "Fallido",
   "memberStatus.inactive": "Inactivo",
@@ -20,7 +20,7 @@
   "task.collapse": "Mostrar menos",
   "task.expand": "Mostrar más",
   "tasks": "Tareas compartidas",
-  "trigger": "Equipo de agentes",
+  "trigger": "Equipo de agente",
   "unavailable": "El equipo no está disponible",
   "unowned": "Sin propietario",
   "writeScopes": "Ámbitos de escritura"

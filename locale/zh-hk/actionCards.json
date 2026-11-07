@@ -1,0 +1,16 @@
+{
+  "collapseBrief": "顯示較少",
+  "dismiss": "稍後再處理",
+  "dismissed": "已取消",
+  "expandBrief": "顯示更多",
+  "replaced": "已替換",
+  "row.error": "未顯示",
+  "row.inspect": "檢視呼叫",
+  "row.ok": "已提議",
+  "row.preparing": "正在準備卡片",
+  "row.running": "正在提議",
+  "row.stopped": "已中斷",
+  "row.title": "動作卡片",
+  "transport": "無法確認結果。請重新連線並檢查卡片後再嘗試。",
+  "unavailable": "此動作目前無法使用。請在 Plugins 中檢查該外掛程式。"
+}

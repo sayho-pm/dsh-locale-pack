@@ -26,6 +26,7 @@
   "mode.external": "Tarea externa",
   "mode.oneShot": "de una sola vez",
   "mode.unknown": "modo desconocido",
+  "open.floatWindow": "Abrir en panel flotante",
   "open.sidebar": "Abrir en la barra lateral",
   "open.sidebar.aria": "Abrir {label} en la barra lateral",
   "readonly.body": "La sesión principal está sin conexión; vuelve a abrirla para seguir enviando mensajes.",

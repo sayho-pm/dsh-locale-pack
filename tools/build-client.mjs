@@ -176,18 +176,36 @@ window.__ModuleLoader__.load({
           return () => {};
         }, "locale-pack: language " + id);
       }
+      // Dictionaries are registered in deferred chunks: the harness boot has a
+      // finite activation budget, and registering every namespace synchronously
+      // starves it on the web profile (built-in languages such as de/ja abort
+      // the whole client boot when they arrive inside that window).
+      const queue = [];
       for (const [lang, namespaces] of Object.entries(DICTS)) {
-        for (const [ns, dict] of Object.entries(namespaces)) {
-          ctx.effect(() => {
-            try {
-              return ctx.locale.register(ns, { [lang]: dict });
-            } catch (error) {
-              if (!/already has locale/.test(String(error && error.message))) throw error;
-              return () => {};
-            }
-          }, "locale-pack: " + lang + "/" + ns);
-        }
+        for (const [ns, dict] of Object.entries(namespaces)) queue.push([lang, ns, dict]);
       }
+      const disposers = [];
+      let stopped = false;
+      const drain = () => {
+        if (stopped) return;
+        for (let n = 0; n < 12 && queue.length > 0; n += 1) {
+          const [lang, ns, dict] = queue.shift();
+          try {
+            disposers.push(ctx.locale.register(ns, { [lang]: dict }));
+          } catch (error) {
+            // A namespace that already carries this locale keeps its own copy.
+            void error;
+          }
+        }
+        if (queue.length > 0) setTimeout(drain, 0);
+      };
+      setTimeout(drain, 0);
+      ctx.effect(() => () => {
+        stopped = true;
+        for (const dispose of disposers.splice(0)) {
+          try { dispose(); } catch (error) { void error; }
+        }
+      }, "locale-pack: dictionary registration");
     }
 
     exports.apply = apply;

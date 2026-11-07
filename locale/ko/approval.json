@@ -1,4 +1,6 @@
 {
+  "allow": "허용하기",
+  "allowAlways": "항상 허용하기",
   "allowOnce": "한 번 허용",
   "detail.aria": "승인 세부 정보",
   "escalation": "도구 {toolName}에서 권한 있는 실행을 요청합니다",

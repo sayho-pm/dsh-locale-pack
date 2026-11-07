@@ -12,6 +12,7 @@
   "desktop.update.downloadDetail": "جارٍ تنزيل التحديث: {percent}%\nالإصدار المستهدف: {version}",
   "desktop.update.downloadFailed": "تعذّر تنزيل التحديث. يرجى المحاولة مرة أخرى.",
   "desktop.update.downloadNetworkFailed": "تعذّر تنزيل التحديث. تحقق من اتصالك وحاول مرة أخرى.",
+  "desktop.update.fullscreenTimeout": "لم يتسن الخروج من الوضع الكامل. قم بالخروج من الوضع الكامل ثم جرب تنزيل التحديث مرة أخرى.",
   "desktop.update.installFailed": "تعذّر تثبيت التحديث. يرجى المحاولة مرة أخرى لاحقا.",
   "desktop.update.installNetworkFailed": "تعذّر تثبيت التحديث. تحقق من اتصالك وحاول مرة أخرى.",
   "desktop.update.installing": "جارٍ الاستعداد لإعادة التشغيل…",
