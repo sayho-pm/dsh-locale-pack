@@ -2,9 +2,9 @@
 
 <p align="right"><a href="README.md">English</a> | <a href="README.ko.md">한국어</a> | <a href="README.zh-TW.md">繁體中文</a> | <a href="README.id.md">Bahasa Indonesia</a> | <a href="README.vi.md">Tiếng Việt</a> | <strong>Türkçe</strong></p>
 
-<p align="center"><img src="docs/pack-overview.png" alt="dsh-locale-pack overview: 29 languages added, 116,467 translated entries, DeepSeek Harness 0.2.2-rc.1, the supported languages, and the git clone install command" width="100%"></p>
+<p align="center"><img src="docs/pack-overview.png" alt="dsh-locale-pack overview: 29 language dictionaries, 116,467 translated entries, DeepSeek Harness 0.2.2-rc.1, the supported languages, and the git clone install command" width="100%"></p>
 
-DeepSeek Harness için hem masaüstü uygulamasını hem de tarayıcı sürümünü kapsayan bir yerel ayar paketi. Dil seçicide 29 dil kaydeder ve her biri için bir sözlük içerir. Henüz çevrilmemiş dizeler İngilizce'ye geri döner, böylece kapsam genişlerken ekran okunabilir kalır. DeepSeek Harness varsayılan olarak İngilizce ve Basitleştirilmiş Çince ile birlikte gelir, bu da kurulumdan sonra 31 dili seçilebilir hale getirir. Paket, en son DeepSeek Harness sürümüyle güncel tutulur. Ayrıca DSH eklentileri ve araçlarının topluluk dizini olan [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) içinde de listelenmiştir.
+DeepSeek Harness için hem masaüstü uygulamasını hem de tarayıcı sürümünü kapsayan bir yerel ayar paketi. Dil seçicide 29 sözlük kaydeder: DeepSeek Harness'in sunmadığı 23 dil ve resmi 8 dilin 6'sı (Japonca, İspanyolca, Fransızca, Almanca, Rusça, Portekizce) için yenilenmiş dosyalar. Henüz çevrilmemiş dizeler İngilizce'ye geri döner, böylece kapsam genişlerken ekran okunabilir kalır. Yerleşik İngilizce ve Basitleştirilmiş Çince ile birlikte kurulumdan sonra 31 dil seçilebilir. Paket, en son DeepSeek Harness sürümüyle güncel tutulur. Ayrıca DSH eklentileri ve araçlarının topluluk dizini olan [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) içinde de listelenmiştir.
 
 ## Bu neden var
 
@@ -161,4 +161,4 @@ Ek diller için talepler memnuniyetle karşılanır. Bu depoda dili belirten bir
 
 MIT
 
-<!-- pack-facts: version=0.6.1 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->
+<!-- pack-facts: version=0.6.2 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->

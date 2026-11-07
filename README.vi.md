@@ -2,9 +2,9 @@
 
 <p align="right"><a href="README.md">English</a> | <a href="README.ko.md">한국어</a> | <a href="README.zh-TW.md">繁體中文</a> | <a href="README.id.md">Bahasa Indonesia</a> | <strong>Tiếng Việt</strong> | <a href="README.tr.md">Türkçe</a></p>
 
-<p align="center"><img src="docs/pack-overview.png" alt="dsh-locale-pack overview: 29 languages added, 116,467 translated entries, DeepSeek Harness 0.2.2-rc.1, the supported languages, and the git clone install command" width="100%"></p>
+<p align="center"><img src="docs/pack-overview.png" alt="dsh-locale-pack overview: 29 language dictionaries, 116,467 translated entries, DeepSeek Harness 0.2.2-rc.1, the supported languages, and the git clone install command" width="100%"></p>
 
-Gói ngôn ngữ cho DeepSeek Harness, bao gồm cả ứng dụng máy tính và phiên bản trình duyệt. Nó đăng ký 29 ngôn ngữ trong trình chọn ngôn ngữ và cung cấp từ điển cho từng ngôn ngữ. Các chuỗi chưa được dịch sẽ dùng tiếng Anh, vì vậy màn hình vẫn dễ đọc trong khi độ phủ bản dịch tiếp tục tăng. DeepSeek Harness tích hợp sẵn tiếng Anh và tiếng Trung Giản thể theo mặc định, nâng tổng số lên 31 ngôn ngữ có thể chọn sau khi cài đặt. Gói này luôn được cập nhật theo bản phát hành DeepSeek Harness mới nhất. Nó cũng được liệt kê trong [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness), chỉ mục cộng đồng gồm các plugin và công cụ DSH.
+Gói ngôn ngữ cho DeepSeek Harness, bao gồm cả ứng dụng máy tính và phiên bản trình duyệt. Nó đăng ký 29 từ điển trong trình chọn ngôn ngữ: 23 ngôn ngữ mà DeepSeek Harness chưa cung cấp, cùng từ điển mới cho 6 trong 8 ngôn ngữ chính thức (Nhật, Tây Ban Nha, Pháp, Đức, Nga, Bồ Đào Nha). Các chuỗi chưa được dịch sẽ dùng tiếng Anh, vì vậy màn hình vẫn dễ đọc trong khi độ phủ bản dịch tiếp tục tăng. Cùng với tiếng Anh và tiếng Trung Giản thể có sẵn, sau khi cài đặt có 31 ngôn ngữ để chọn. Gói này luôn được cập nhật theo bản phát hành DeepSeek Harness mới nhất. Nó cũng được liệt kê trong [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness), chỉ mục cộng đồng gồm các plugin và công cụ DSH.
 
 ## Tại sao điều này tồn tại
 
@@ -161,4 +161,4 @@ Các yêu cầu về ngôn ngữ bổ sung luôn được chào đón. Mở mộ
 
 MIT
 
-<!-- pack-facts: version=0.6.1 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->
+<!-- pack-facts: version=0.6.2 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->

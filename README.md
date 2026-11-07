@@ -2,9 +2,9 @@
 
 <p align="right"><strong>English</strong> | <a href="README.ko.md">한국어</a> | <a href="README.zh-TW.md">繁體中文</a> | <a href="README.id.md">Bahasa Indonesia</a> | <a href="README.vi.md">Tiếng Việt</a> | <a href="README.tr.md">Türkçe</a></p>
 
-<p align="center"><img src="docs/pack-overview.png" alt="dsh-locale-pack overview: 29 languages added, 116,467 translated entries, DeepSeek Harness 0.2.2-rc.1, the supported languages, and the git clone install command" width="100%"></p>
+<p align="center"><img src="docs/pack-overview.png" alt="dsh-locale-pack overview: 29 language dictionaries, 116,467 translated entries, DeepSeek Harness 0.2.2-rc.1, the supported languages, and the git clone install command" width="100%"></p>
 
-A locale pack for DeepSeek Harness, covering both the desktop app and the browser edition. It registers 29 languages in the language picker and ships a dictionary for each one. Strings that are not translated yet fall back to English, so the screen stays readable while coverage grows. DeepSeek Harness ships English and Simplified Chinese by default, which makes 31 languages selectable after install. The pack is kept up to date with the latest DeepSeek Harness release. It is also listed in [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness), the community index of DSH plugins and tools.
+A locale pack for DeepSeek Harness, covering both the desktop app and the browser edition. It registers 29 dictionaries in the language picker: 23 for languages DeepSeek Harness does not ship, and refreshed files for 6 of the 8 it does (Japanese, Spanish, French, German, Russian, Portuguese). Strings that are not translated yet fall back to English, so the screen stays readable while coverage grows. With the built-in English and Simplified Chinese, 31 languages are selectable after install. The pack is kept up to date with the latest DeepSeek Harness release. It is also listed in [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness), the community index of DSH plugins and tools.
 
 ## Why this exists
 
@@ -161,4 +161,4 @@ Requests for additional languages are welcome. Open an issue in this repository 
 
 MIT
 
-<!-- pack-facts: version=0.6.1 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->
+<!-- pack-facts: version=0.6.2 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->

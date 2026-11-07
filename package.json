@@ -1,7 +1,7 @@
 {
   "name": "dsh-locale-pack",
   "description": "A locale pack for the DeepSeek Harness desktop app: registers 29 languages and ships a dictionary for each one.",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "type": "module",
   "main": "lib/index.js",
   "exports": {

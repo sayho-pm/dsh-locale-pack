@@ -4,7 +4,7 @@
 
 <p align="center"><img src="docs/pack-overview.png" alt="dsh-locale-pack 소개: 추가한 언어 29개, 번역 문구 116,467개, DeepSeek Harness 0.2.2-rc.1, 지원 언어 목록과 git clone 설치 명령" width="100%"></p>
 
-DeepSeek Harness 데스크톱 앱과 브라우저 웹판을 함께 지원하는 로케일 팩입니다. 언어 선택 목록에 29개 언어를 등록하고 각 언어의 사전을 함께 싣습니다. 번역이 아직 없는 문구는 영어로 표시되므로 화면을 읽을 수 있는 상태가 유지됩니다. DeepSeek Harness가 기본으로 싣는 영어와 간체 중국어까지 합치면 화면에서 고를 수 있는 언어는 31개입니다. DeepSeek Harness의 최신 버전에 맞춰 사전을 계속 갱신합니다. 커뮤니티 목록인 [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness)에도 등재되어 있습니다.
+DeepSeek Harness 데스크톱 앱과 브라우저 웹판을 함께 지원하는 로케일 팩입니다. 언어 선택 목록에 사전 29개를 싣습니다. DeepSeek Harness가 제공하지 않는 23개 언어와, 공식 배포 8개 중 6개(일본어·스페인어·프랑스어·독일어·러시아어·포르투갈어)의 사전이 들어갑니다. 번역이 아직 없는 문구는 영어로 표시되므로 화면을 읽을 수 있는 상태가 유지됩니다. 기본 제공되는 영어와 간체 중국어까지 더하면 설치 후 31개 언어를 고를 수 있습니다. DeepSeek Harness의 최신 버전에 맞춰 사전을 계속 갱신합니다. 커뮤니티 목록인 [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness)에도 등재되어 있습니다.
 
 ## 만든 이유
 
@@ -161,4 +161,4 @@ python3 tools/translate_worker.py --all              # 전체
 
 MIT
 
-<!-- pack-facts: version=0.6.1 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->
+<!-- pack-facts: version=0.6.2 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->

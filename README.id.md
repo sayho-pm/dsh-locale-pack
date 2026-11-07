@@ -2,9 +2,9 @@
 
 <p align="right"><strong>English</strong> | <a href="README.ko.md">한국어</a> | <a href="README.zh-TW.md">繁體中文</a> | <a href="README.id.md">Bahasa Indonesia</a> | <a href="README.vi.md">Tiếng Việt</a> | <a href="README.tr.md">Türkçe</a></p>
 
-<p align="center"><img src="docs/pack-overview.png" alt="dsh-locale-pack overview: 29 languages added, 116,467 translated entries, DeepSeek Harness 0.2.2-rc.1, the supported languages, and the git clone install command" width="100%"></p>
+<p align="center"><img src="docs/pack-overview.png" alt="dsh-locale-pack overview: 29 language dictionaries, 116,467 translated entries, DeepSeek Harness 0.2.2-rc.1, the supported languages, and the git clone install command" width="100%"></p>
 
-Paket lokal untuk DeepSeek Harness, yang mencakup aplikasi desktop dan edisi browser. Paket ini mendaftarkan 29 bahasa di pemilih bahasa dan menyediakan kamus untuk masing-masing bahasa. String yang belum diterjemahkan akan kembali ke bahasa Inggris, sehingga tampilan tetap terbaca selagi cakupan bertambah. DeepSeek Harness sudah menyertakan bahasa Inggris dan Mandarin Sederhana secara default, sehingga 31 bahasa dapat dipilih setelah pemasangan. Paket ini selalu diperbarui agar sesuai dengan rilis DeepSeek Harness terbaru. Paket ini juga terdaftar di [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness), indeks komunitas plugin dan alat DSH.
+Paket lokal untuk DeepSeek Harness, yang mencakup aplikasi desktop dan edisi browser. Paket ini mendaftarkan 29 kamus di pemilih bahasa: 23 bahasa yang belum disediakan DeepSeek Harness, ditambah kamus baru untuk 6 dari 8 bahasa resminya (Jepang, Spanyol, Prancis, Jerman, Rusia, Portugis). String yang belum diterjemahkan akan kembali ke bahasa Inggris, sehingga tampilan tetap terbaca selagi cakupan bertambah. Bersama bahasa Inggris dan Mandarin Sederhana bawaan, ada 31 bahasa yang dapat dipilih setelah pemasangan. Paket ini selalu diperbarui agar sesuai dengan rilis DeepSeek Harness terbaru. Paket ini juga terdaftar di [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness), indeks komunitas plugin dan alat DSH.
 
 ## Mengapa ini ada
 
@@ -161,6 +161,6 @@ Permintaan bahasa tambahan dipersilakan. Buka issue di repositori ini dengan men
 
 MIT
 
-<!-- fakta-paket: versi=0.6.1 dsh=0.2.2-rc.1 bahasa=29 kunci=4,016 entri=116,467 bundel="8.3 MB" -->
+<!-- fakta-paket: versi=0.6.2 dsh=0.2.2-rc.1 bahasa=29 kunci=4,016 entri=116,467 bundel="8.3 MB" -->
 
-<!-- pack-facts: version=0.6.1 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->
+<!-- pack-facts: version=0.6.2 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->
