@@ -12,7 +12,7 @@
   "desktop.update.downloadDetail": "Gbígbà ìmúdójú lásìkò: {percent}%\nẸ̀yà ìfójúsùn: {version}",
   "desktop.update.downloadFailed": "Á kò lè gbà ìmúdójú. Jọ̀wọ́ tún gbìyànjú.",
   "desktop.update.downloadNetworkFailed": "Á kò lè gbà ìmúdójú. Ṣàyẹ̀wò ìsòpọ̀ rẹ̀ kí ó sì tún gbìyànjú.",
-  "desktop.update.fullscreenTimeout": "Kò sí i ṣe ọdún òfin òfin. Ṣe ọdún òfin, tó kò sí ṣe ọdún òfin lèyìn.",
+  "desktop.update.fullscreenTimeout": "Kò lè jáde kúrò nínú ìbòjú kíkún. Jáde kúrò nínú ìbòjú kíkún, kí o sì tún gbìyànjú àtúnṣe náà.",
   "desktop.update.installFailed": "Á kò lè fì ìmúdójú sórí ẹ̀rọ̀. Jọ̀wọ́ tún gbìyànjú lẹ́yìn náà.",
   "desktop.update.installNetworkFailed": "Á kò lè fì ìmúdójú sórí ẹ̀rọ̀. Ṣàyẹ̀wò ìsòpọ̀ rẹ̀ kí ó sì tún gbìyànjú.",
   "desktop.update.installing": "Múrá látí tún bẹ̀rẹ̀…",

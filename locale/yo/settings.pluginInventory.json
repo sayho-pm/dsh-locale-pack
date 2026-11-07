@@ -6,7 +6,7 @@
   "condition": "Kò ní ṣiṣẹ́ nígbà tí",
   "conditionalTag": "Pẹ̀lú ààyè",
   "configuration": "Àtúntò",
-  "countUnit": "àfikún",
+  "countUnit": "àwọ̀n àfikún",
   "disabledTag": "Tí kò ṣiṣẹ́",
   "empty": "Kò sí àfikún kànkàn tí ó wà.",
   "emptySearch": "Kò sí àfikún tó bárámú.",
@@ -14,7 +14,7 @@
   "enabledTag": "Tí à fàyè gbà",
   "error": "Àwọn àfikún kò sí fún ìgbà díẹ̀.",
   "failed": "Ó kùnà látì bẹ̀rẹ̀",
-  "failedCountLabel": "kùnà",
+  "failedCountLabel": "tí ó kùnà",
   "failedTag": "Ó kùnà",
   "fromPreset": "Látì",
   "globalSubtitle": "A pín rẹ̀ pẹ̀lú ètò àti gbogbo ìpàdé",
@@ -38,5 +38,5 @@
   "tab": "Àkójọ àwọn àfikún",
   "unloading": "Ń yọ́ kúrò",
   "unobserved": "Kò ń ṣiṣẹ́",
-  "viewInPreset": "Wo ní ẹgbẹ́ ètò títẹ̀lẹ̀"
+  "viewInPreset": "Wò nínú ẹgbẹ́ ìṣètò tẹ́lẹ̀"
 }

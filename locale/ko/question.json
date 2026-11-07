@@ -31,5 +31,5 @@
   "wait.countdown": "{seconds}초 후 계속",
   "wait.held": "답변할 때까지 대기 중",
   "wait.paused": "일시정지 · 남은 {seconds}초",
-  "wait.takeTime": "천천히"
+  "wait.takeTime": "시간 갖기"
 }

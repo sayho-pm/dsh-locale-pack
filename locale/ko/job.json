@@ -31,7 +31,7 @@
   "terminal.copied": "복사됨",
   "terminal.copy": "복사",
   "terminal.done": "완료됨",
-  "terminal.exitCode": "종료 {code}",
+  "terminal.exitCode": "종료 코드 {code}",
   "terminal.expand": "{n}줄 더 표시",
   "terminal.expandAria": "접힌 출력 {n}줄 펼치기",
   "terminal.failed": "실패함",

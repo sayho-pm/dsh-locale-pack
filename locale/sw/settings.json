@@ -12,7 +12,7 @@
   "desktop.update.downloadDetail": "Inapakua sasisho: {percent}%\nToleo lengwa: {version}",
   "desktop.update.downloadFailed": "Imeshindwa kupakua sasisho. Tafadhali jaribu tena.",
   "desktop.update.downloadNetworkFailed": "Imeshindwa kupakua sasisho. Angalia muunganisho wako na ujaribu tena.",
-  "desktop.update.fullscreenTimeout": "Hakuna uwezo wa kutoweka katika hali ya fullscreen. Tumie fullscreen, kisha jaribu tena kufanya updati.",
+  "desktop.update.fullscreenTimeout": "Imeshindwa kutoka kwenye skrini nzima. Toka kwenye skrini nzima, kisha jaribu tena kusasisha.",
   "desktop.update.installFailed": "Imeshindwa kusakinisha sasisho. Tafadhali jaribu tena baadaye.",
   "desktop.update.installNetworkFailed": "Imeshindwa kusakinisha sasisho. Angalia muunganisho wako na ujaribu tena.",
   "desktop.update.installing": "Inajiandaa kuwasha upya…",

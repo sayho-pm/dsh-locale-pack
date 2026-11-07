@@ -1,6 +1,6 @@
 # dsh-locale-pack
 
-<p align="right"><a href="README.md">English</a> | <strong>한국어</strong></p>
+<p align="right"><a href="README.md">English</a> | <strong>한국어</strong> | <a href="README.zh-TW.md">繁體中文</a> | <a href="README.id.md">Bahasa Indonesia</a> | <a href="README.vi.md">Tiếng Việt</a> | <a href="README.tr.md">Türkçe</a></p>
 
 <p align="center"><img src="docs/pack-overview.png" alt="dsh-locale-pack 소개: 추가한 언어 29개, 번역 문구 116,467개, DeepSeek Harness 0.2.2-rc.1, 지원 언어 목록과 git clone 설치 명령" width="100%"></p>
 
@@ -120,7 +120,7 @@ node tools/check-keep.mjs     # 번역 품질 점검
 node tools/build-client.mjs --langs ko,ja   # 한국어와 일본어만
 ```
 
-언어 두 개를 묶으면 4.2MB가 아니라 약 320KB가 됩니다. 위 표의 언어 코드를 쉼표로 이어 넣으면 됩니다. 옵션을 빼면 전체 언어를 다시 묶습니다.
+언어 두 개를 묶으면 8.3MB가 아니라 약 575KB가 됩니다. 위 표의 언어 코드를 쉼표로 이어 넣으면 됩니다. 옵션을 빼면 전체 언어를 다시 묶습니다.
 
 ## 번역 품질 점검
 
@@ -160,3 +160,5 @@ python3 tools/translate_worker.py --all              # 전체
 ## 라이선스
 
 MIT
+
+<!-- pack-facts: version=0.6.1 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->

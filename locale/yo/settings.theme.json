@@ -14,9 +14,9 @@
   "fontSize.code.description": "Á ń lò ó fún àwọ̀n búrọ́ọ̀kì kọ́ọ̀dù, kọ́ọ̀dù ìnú ìlà, àtí àbájádé ìrìnṣẹ́",
   "fontSize.code.increase": "Mú ìtóbi fọ́ntì kóòdù pọ̀ sí",
   "fontSize.code.title": "Ìtóbi fọ́ntì kóòdù",
-  "fontSize.decrease": "Dín ìtóbí lẹ́tà kù",
-  "fontSize.description": "Fún ọ̀rọ̀ ìbánísọ̀rọ̀ nìkán",
-  "fontSize.increase": "Pọ̀ ìtóbí lẹ́tà",
+  "fontSize.decrease": "Dín ìwọ̀n lẹ́tà kù",
+  "fontSize.description": "Ó kàn àkóónú ìfọ̀rọ̀wérọ̀ nìkàn",
+  "fontSize.increase": "Mú ìwọ̀n lẹ́tà pọ̀",
   "fontSize.more": "Àwọn ìṣètò fọ́ntì síi",
   "fontSize.terminal.decrease": "Dín ìtóbi fọ́ọ̀ntì terminal kù",
   "fontSize.terminal.description": "Á ń lò ó fún Terminal ẹ̀gbẹ́",
@@ -26,6 +26,6 @@
   "fontSize.text.description": "Ó kàn ní ìpà lórí àkóónú ìfọ̀rọ̀wérọ̀ náà nìkàn",
   "fontSize.text.increase": "Mú ìtóbi fọ́ntì pọ̀ sí",
   "fontSize.text.title": "Ìtóbi fọ́ntì",
-  "fontSize.title": "Ìtóbí lẹ́tà",
+  "fontSize.title": "Ìwọ̀n lẹ́tà",
   "fontSize.unit": "px"
 }

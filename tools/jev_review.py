@@ -72,10 +72,22 @@ HEADERS = {
 }
 
 
-def read_tsv(lang, limit=None):
+def read_tsv(lang, limit=None, suffix=None):
     rows = []
     # 최신 버전 대조표를 읽는다. 이전 버전은 남아 있으므로 보존된다.
     import re as _re
+    if suffix:
+        path = os.path.join(TSV, f"{lang}_{suffix}.tsv")
+        if not os.path.exists(path):
+            raise SystemExit(f"대조표가 없습니다: {path}")
+        for line in open(path, encoding="utf-8"):
+            if line.startswith("##") or not line.strip():
+                continue
+            parts = line.rstrip("\n").split("\t")
+            if len(parts) < 3:
+                continue
+            rows.append((parts[0], parts[1], parts[2]))
+        return rows[:limit] if limit else rows
     latest, highest = None, -1
     for name in os.listdir(TSV) if os.path.isdir(TSV) else []:
         m = _re.fullmatch(_re.escape(lang) + r"_v(\d+)\.tsv", name)
@@ -154,14 +166,18 @@ def versioned_path(out_dir: str, stem: str, ext: str) -> str:
 def main():
     lang = sys.argv[1]
     limit = None
+    suffix = None
     if "--limit" in sys.argv:
         limit = int(sys.argv[sys.argv.index("--limit") + 1])
+    if "--suffix" in sys.argv:
+        suffix = sys.argv[sys.argv.index("--suffix") + 1]
     key = load_key()
     HEADERS["Authorization"] = f"Bearer {key}"
-    rows = read_tsv(lang, limit)
+    rows = read_tsv(lang, limit, suffix)
     batches = [rows[i:i + BATCH] for i in range(0, len(rows), BATCH)]
     os.makedirs(OUT, exist_ok=True)
-    result_path = versioned_path(OUT, f"{lang}_결과", "jsonl")
+    stem = f"{lang}_{suffix}_결과" if suffix else f"{lang}_결과"
+    result_path = versioned_path(OUT, stem, "jsonl")
     assert not os.path.exists(result_path), f"덮어쓰기 차단: {result_path}"
     print(f"{lang}: {len(rows)}줄, {len(batches)}배치, 배치 크기 {BATCH}")
     done = 0

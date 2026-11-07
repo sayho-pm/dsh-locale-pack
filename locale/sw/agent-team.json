@@ -3,7 +3,7 @@
   "blockedBy": "Imezuiwa na",
   "current": "Gumzo la sasa",
   "empty": "Hakuna kazi za pamoja bado. Ziunde kupitia mazungumzo.",
-  "failure": "Rekodi ya timu iliyokuwa ikimwili hai: {message}",
+  "failure": "Kumbukumbu ya timu iliyohifadhiwa haifai: {message}",
   "loading": "Ninachukua taarifa za timu…",
   "memberStatus.failed": "Imeshindwa",
   "memberStatus.inactive": "Hafanyi kazi",

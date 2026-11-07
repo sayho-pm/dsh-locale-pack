@@ -1,6 +1,6 @@
 # dsh-locale-pack
 
-<p align="right"><strong>English</strong> | <a href="README.ko.md">한국어</a></p>
+<p align="right"><strong>English</strong> | <a href="README.ko.md">한국어</a> | <a href="README.zh-TW.md">繁體中文</a> | <a href="README.id.md">Bahasa Indonesia</a> | <a href="README.vi.md">Tiếng Việt</a> | <a href="README.tr.md">Türkçe</a></p>
 
 <p align="center"><img src="docs/pack-overview.png" alt="dsh-locale-pack overview: 29 languages added, 116,467 translated entries, DeepSeek Harness 0.2.2-rc.1, the supported languages, and the git clone install command" width="100%"></p>
 
@@ -120,7 +120,7 @@ Installing the whole pack is the default, and switching language afterwards is a
 node tools/build-client.mjs --langs ko,ja   # Korean and Japanese only
 ```
 
-A two-language bundle comes out at roughly 320 KB instead of 4.2 MB. The flag accepts any comma-separated list of the language codes in the table above. Omitting it rebuilds every language.
+A two-language bundle comes out at roughly 575 KB instead of 8.3 MB. The flag accepts any comma-separated list of the language codes in the table above. Omitting it rebuilds every language.
 
 ## Translation quality checks
 
@@ -160,3 +160,5 @@ Requests for additional languages are welcome. Open an issue in this repository 
 ## License
 
 MIT
+
+<!-- pack-facts: version=0.6.1 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->
