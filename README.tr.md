@@ -12,6 +12,8 @@ DeepSeek Harness bir kodlama aracıdır: ona bir görev verirsiniz ve ajan dosya
 
 Bu arayüz İngilizce ve Basitleştirilmiş Çince olarak mevcuttu. Başka bir dilde çalışmayı tercih eden geliştiriciler her etiketi ikinci bir dilde okumak zorundaydı. Bu proje bu boşluğu sözlükleri ekleyerek ve dil sayısını derin değil geniş tutarak dolduruyor: bir dil, seçicide sunulduğunda ve yaygın ekranlar okunabilir olduğunda kullanılabilir olur.
 
+DeepSeek Harness başlangıçta yalnızca İngilizce ve Basitleştirilmiş Çince sunuyordu; 0.2.2-rc.1 itibarıyla sekiz dil sunuyor. Korece, Türkçe, Vietnamca, Endonezce veya bu paketin kapsadığı başka bir dili kendisi sunmaya başlarsa, paket aynı sözlüğün ikinci bir kopyasını tutmak yerine o dilin güncellemesini yavaşlatır ya da durdurur.
+
 ## Desteklenen diller
 
 | Language | Code | Language | Code |
@@ -140,4 +142,4 @@ Ek diller için talepler memnuniyetle karşılanır. Bu depoda dili belirten bir
 
 MIT
 
-<!-- pack-facts: version=0.7.0 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->
+<!-- pack-facts: version=0.8.0 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->

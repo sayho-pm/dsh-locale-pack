@@ -12,6 +12,8 @@ DeepSeek Harness 是一款程式設計工具：您指派一項任務給它，代
 
 That interface was available in English and Simplified Chinese. Developers who prefer to work in another language had to read every label in a second language. This project fills that gap by adding the dictionaries, and by keeping the number of languages wide rather than deep: a language is usable once the picker offers it and the common screens are readable.
 
+DeepSeek Harness 最初只提供英文與簡體中文，到了 0.2.2-rc.1 已提供八種語言。若它開始提供韓文、土耳其文、越南文、印尼文等本語言包涵蓋的語言，本語言包會放慢或停止該語言的更新，不另外保留一份相同的字典。
+
 ## 支援的語言
 
 | Language | Code | Language | Code |
@@ -140,4 +142,4 @@ node tools/build-client.mjs --langs ko,ja   # Korean and Japanese only
 
 MIT
 
-<!-- pack-facts: version=0.7.0 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->
+<!-- pack-facts: version=0.8.0 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->

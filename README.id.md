@@ -12,6 +12,8 @@ DeepSeek Harness adalah alat coding: Anda memberinya tugas dan agen membaca file
 
 Antarmuka itu tersedia dalam bahasa Inggris dan bahasa Tionghoa Sederhana. Pengembang yang lebih memilih bekerja dalam bahasa lain harus membaca setiap label dalam bahasa kedua. Proyek ini mengisi kesenjangan itu dengan menambahkan kamus, dan dengan menjaga jumlah bahasa tetap luas alih-alih mendalam: suatu bahasa dapat digunakan begitu pemilih menyediakannya dan layar-layar umum dapat dibaca.
 
+DeepSeek Harness awalnya hanya menyertakan bahasa Inggris dan Mandarin Sederhana, dan pada 0.2.2-rc.1 sudah menyertakan delapan bahasa. Jika nanti ia menyertakan bahasa Korea, Turki, Vietnam, Indonesia, atau bahasa lain yang dicakup paket ini, paket ini akan memperlambat atau menghentikan pembaruan bahasa tersebut alih-alih memelihara salinan kedua.
+
 ## Bahasa yang didukung
 
 | Language | Code | Language | Code |
@@ -140,6 +142,6 @@ Pengelola yang menjalankan alur terjemahan dapat menemukan perintahnya di [MAINT
 
 MIT
 
-<!-- fakta-paket: versi=0.7.0 dsh=0.2.2-rc.1 bahasa=29 kunci=4,016 entri=116,467 bundel="8.3 MB" -->
+<!-- fakta-paket: versi=0.8.0 dsh=0.2.2-rc.1 bahasa=29 kunci=4,016 entri=116,467 bundel="8.3 MB" -->
 
-<!-- pack-facts: version=0.7.0 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->
+<!-- pack-facts: version=0.8.0 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->

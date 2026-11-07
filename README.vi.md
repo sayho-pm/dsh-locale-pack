@@ -12,6 +12,8 @@ DeepSeek Harness là một công cụ lập trình: bạn giao cho nó một nhi
 
 Giao diện đó có sẵn bằng tiếng Anh và tiếng Trung Giản thể. Các nhà phát triển muốn làm việc bằng ngôn ngữ khác phải đọc mọi nhãn bằng ngôn ngữ thứ hai. Dự án này lấp đầy khoảng trống đó bằng cách bổ sung các từ điển, và bằng cách giữ số lượng ngôn ngữ rộng thay vì sâu: một ngôn ngữ có thể dùng được khi bộ chọn cung cấp nó và các màn hình phổ biến có thể đọc được.
 
+DeepSeek Harness ban đầu chỉ có tiếng Anh và tiếng Trung Giản thể, đến 0.2.2-rc.1 đã có tám ngôn ngữ. Nếu sau này nó cung cấp tiếng Hàn, tiếng Thổ Nhĩ Kỳ, tiếng Việt, tiếng Indonesia hoặc ngôn ngữ khác mà gói này đang bao phủ, gói này sẽ chậm lại hoặc dừng cập nhật ngôn ngữ đó thay vì giữ thêm một bản sao.
+
 ## Các ngôn ngữ được hỗ trợ
 
 | Language | Code | Language | Code |
@@ -140,4 +142,4 @@ Người bảo trì chạy quy trình dịch có thể xem lệnh trong [MAINTAI
 
 MIT
 
-<!-- pack-facts: version=0.7.0 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->
+<!-- pack-facts: version=0.8.0 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->

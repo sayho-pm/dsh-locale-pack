@@ -1,0 +1,14 @@
+{
+  "package": "@deepseek-ai/dsh-client-locale",
+  "version": "0.2.2-rc.1",
+  "languages": [
+    "de",
+    "en",
+    "es",
+    "fr",
+    "ja",
+    "pt",
+    "ru",
+    "zh"
+  ]
+}

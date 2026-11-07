@@ -1,7 +1,7 @@
 {
   "name": "dsh-locale-pack",
   "description": "A locale pack for the DeepSeek Harness desktop app: registers 29 languages and ships a dictionary for each one.",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "type": "module",
   "main": "lib/index.js",
   "exports": {
@@ -47,6 +47,9 @@
     "check-keep": "node tools/check-keep.mjs",
     "check-upstream": "node tools/check-upstream.mjs",
     "readme:sync": "node tools/update-readmes.mjs",
-    "readme:check": "node tools/update-readmes.mjs --check"
+    "readme:check": "node tools/update-readmes.mjs --check",
+    "overview": "python3 tools/render_overview.py",
+    "overview:check": "python3 tools/render_overview.py --check",
+    "upstream:languages": "python3 tools/check-upstream-languages.py"
   }
 }

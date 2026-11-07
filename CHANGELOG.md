@@ -1,5 +1,10 @@
 # 변경 이력
 
+## 0.8.0 (2026-11-08)
+- README에 공식 언어 확대 시의 방침을 적었다. DeepSeek Harness는 처음 영어·간체 중국어 두 개를 배포했고 0.2.2-rc.1 기준 8개를 배포한다. 한국어·튀르키예어·베트남어·인도네시아어처럼 이 팩이 다루는 언어를 DeepSeek Harness가 직접 배포하면, 같은 사전을 두 벌로 유지하지 않고 그 언어의 업데이트를 늦추거나 멈춘다. 여섯 개 언어 README에 같은 문단을 넣었다
+- 대표 이미지를 손으로 고치지 않도록 생성기를 넣었다. `docs/overview.html`이 배너의 골격이고, `tools/render_overview.py`가 저장소의 언어 수·문구 수·대상 버전을 읽어 `docs/pack-overview.png`를 다시 뽑는다. `npm run overview:check`는 이미지가 값과 어긋나면 실패한다
+- `tools/check-upstream-languages.py`를 넣었다. npm에 배포된 `@deepseek-ai/dsh-client-locale`의 최신 버전에서 `locale/*.json` 목록을 읽어 직전 기록과 비교하고, 공식 언어가 늘거나 줄면 알린다. `SUPPORTED_DSH.json`에 이 팩이 다루는 29개 언어 목록(`coveredLanguages`)을 함께 기록해 겹치는 언어를 바로 보여준다
+
 ## 0.7.0 (2026-11-07)
 - README에서 번역 파이프라인 문서를 걷어냈다. '번역 품질 점검'과 '번역을 다시 돌리는 방법' 두 절은 이 팩을 설치해 쓰는 사람과 문구를 고치려는 기여자에게 필요하지 않다. 같은 내용을 `MAINTAINING.md`로 옮기고, 기여 절에서 그 파일을 가리킨다
 - README 절 구성은 만든 이유·지원 언어·설치·구조·문구 수정·사용자 유의사항·기여·라이선스 여덟 개로 줄었다. 여섯 개 언어 README에 같은 구성을 적용했다

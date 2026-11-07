@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>dsh-locale-pack overview</title>
+<style>
+  :root {
+    --ink: #F5F7FB;
+    --sub: #EEF2FB;
+    --muted: #8D9AB9;
+    --body: #C3CDE4;
+    --cmd: #DFE7F7;
+    --font: "Inter", -apple-system, "SF Pro Display", "Helvetica Neue", Arial, sans-serif;
+    --mono: "SF Mono", "JetBrains Mono", Menlo, monospace;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { width: 1600px; }
+  body {
+    background:
+      radial-gradient(1200px 860px at 86% 12%, rgba(40, 68, 138, 0.34), rgba(40, 68, 138, 0) 70%),
+      radial-gradient(1000px 600px at 104% 96%, rgba(30, 54, 116, 0.22), rgba(30, 54, 116, 0) 68%),
+      radial-gradient(760px 560px at -4% 104%, rgba(52, 46, 132, 0.50), rgba(52, 46, 132, 0) 66%),
+      linear-gradient(168deg, #0B1120 0%, #0E1627 55%, #151D38 100%);
+    font-family: var(--font);
+    color: var(--ink);
+    position: relative;
+    overflow: hidden;
+  }
+  .stage { position: relative; width: 1600px; height: var(--h, 948px); }
+
+  .chips {
+    position: absolute; left: 96px; top: 84px;
+    display: flex; gap: 14px; align-items: center;
+  }
+  .chips span {
+    display: flex; align-items: center; justify-content: center;
+    height: 39px; border-radius: 10px;
+    border: 1px solid rgba(174, 185, 214, 0.28);
+    font-size: 13px; font-weight: 600; letter-spacing: 2.6px;
+    color: #AEB9D6; text-transform: uppercase;
+  }
+  .chips span:nth-child(1) { width: 249px; }
+  .chips span:nth-child(2) { width: 112px; }
+  .chips span:nth-child(3) { width: 72px; }
+  h1 {
+    position: absolute; left: 96px; top: 173px;
+    font-size: 100px; font-weight: 600; letter-spacing: -2.6px;
+    line-height: 1; color: var(--ink);
+  }
+  .sub {
+    position: absolute; left: 96px; top: 303px; width: 1130px;
+    font-size: 26.5px; font-weight: 400; line-height: 41px;
+    color: var(--sub); letter-spacing: -0.1px;
+  }
+  .stats { position: absolute; left: 96px; top: 446px; display: flex; }
+  .stat { width: 310px; }
+  .stat.num { width: 310px; }
+  .stat b {
+    display: block; font-size: 82px; font-weight: 600; line-height: 1;
+    letter-spacing: -1.2px; color: #fff; white-space: nowrap;
+  }
+  .stat:nth-child(2) { width: 369px; }
+  .stat:nth-child(3) { width: 520px; }
+  .stat i {
+    display: block; margin-top: 8px;
+    font-style: normal; font-size: 20px; font-weight: 600;
+    letter-spacing: 1.0px; text-transform: uppercase; color: var(--muted);
+  }
+  .langs {
+    position: absolute; left: 96px; top: 608px;
+    display: grid; grid-template-columns: repeat(5, 287px);
+    row-gap: 16px; column-gap: 0;
+    list-style: none; font-size: 19.5px; color: var(--body);
+  }
+  .langs li { line-height: 19px; white-space: nowrap; }
+  .cmd {
+    position: absolute; left: 96px; top: 870px;
+    font-family: var(--mono); font-size: 20px; color: var(--cmd);
+  }
+</style>
+</head>
+<body>
+  <div class="stage" style="--h: {{HEIGHT}}px">
+    <div class="chips"><span>DeepSeek Harness</span><span>Plugin</span><span>MIT</span></div>
+    <h1>dsh-locale-pack</h1>
+    <p class="sub">A {{COUNT}}-language locale pack for the DeepSeek Harness desktop app and web edition. Pick your language in Settings &gt; Language.</p>
+    <div class="stats">
+      <div class="stat num"><b>{{COUNT}}</b><i>Languages added</i></div>
+      <div class="stat"><b>{{ENTRIES}}</b><i>Translated entries</i></div>
+      <div class="stat"><b>{{DSH}}</b><i>Harness version</i></div>
+    </div>
+    <ul class="langs">
+{{LANGUAGES}}
+    </ul>
+    <p class="cmd">git clone https://github.com/sayho-pm/dsh-locale-pack</p>
+  </div>
+</body>
+</html>

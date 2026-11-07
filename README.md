@@ -12,6 +12,8 @@ DeepSeek Harness is a coding tool: you hand it a task and the agent reads files,
 
 That interface was available in English and Simplified Chinese. Developers who prefer to work in another language had to read every label in a second language. This project fills that gap by adding the dictionaries, and by keeping the number of languages wide rather than deep: a language is usable once the picker offers it and the common screens are readable.
 
+DeepSeek Harness shipped English and Simplified Chinese at launch; it ships eight languages as of 0.2.2-rc.1. If it starts shipping Korean, Turkish, Vietnamese, Indonesian, or another language this pack covers, this pack will slow down or stop covering that language instead of keeping a second copy in step.
+
 ## Supported languages
 
 | Language | Code | Language | Code |
@@ -140,4 +142,4 @@ Maintainers who run the translation pipeline will find the commands in [MAINTAIN
 
 MIT
 
-<!-- pack-facts: version=0.7.0 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->
+<!-- pack-facts: version=0.8.0 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->

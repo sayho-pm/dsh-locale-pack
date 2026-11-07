@@ -12,6 +12,8 @@ DeepSeek Harness는 코딩 도구입니다. 할 일을 넘기면 에이전트가
 
 이 화면은 영어와 간체 중국어로만 제공되었습니다. 다른 언어를 쓰는 개발자는 모든 낱말을 두 번째 언어로 읽어야 했습니다. 이 프로젝트는 그 자리를 채웁니다. 넓이를 우선해 언어 수를 늘렸습니다. 선택 목록에 언어가 뜨고 주요 화면을 읽을 수 있으면 그 언어는 쓸 수 있는 상태입니다.
 
+DeepSeek Harness는 처음에 영어와 간체 중국어 두 개만 배포했고, 0.2.2-rc.1 기준으로 8개를 배포합니다. 한국어·튀르키예어·베트남어·인도네시아어처럼 이 팩이 다루는 언어를 DeepSeek Harness가 직접 배포하기 시작하면, 같은 사전을 두 벌로 유지하지 않도록 그 언어의 업데이트를 늦추거나 마칩니다.
+
 ## 지원 언어
 
 | 언어 | 코드 | 언어 | 코드 |
@@ -140,4 +142,4 @@ node tools/build-client.mjs --langs ko,ja   # 한국어와 일본어만
 
 MIT
 
-<!-- pack-facts: version=0.7.0 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->
+<!-- pack-facts: version=0.8.0 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->
