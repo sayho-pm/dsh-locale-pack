@@ -1,9 +1,0 @@
-{
-  "allow": "許可する",
-  "allowAlways": "常に許可する",
-  "allowOnce": "一度だけ許可",
-  "detail.aria": "承認の詳細",
-  "escalation": "ツール {toolName} が特権実行を要求しています",
-  "reject": "拒否",
-  "waiting": "承認待ち"
-}

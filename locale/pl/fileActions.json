@@ -1,0 +1,14 @@
+{
+  "menu.copied": "Skopiowano",
+  "menu.copyFailed": "Nie udało się skopiować. Upewnij się, że treść jest dostępna, a następnie spróbuj ponownie.",
+  "menu.copyImage": "Skopiuj obraz",
+  "menu.download": "Pobierz",
+  "menu.downloadStarted": "Rozpoczęto pobieranie",
+  "menu.downloaded": "Pobieranie zakończone",
+  "menu.finder": "Pokaż w Finderze",
+  "menu.reveal": "Pokaż w folderze",
+  "menu.saveAs": "Zapisz jako…",
+  "menu.saveFailed": "Nie udało się zapisać. Sprawdź źródło i miejsce docelowe, a następnie spróbuj ponownie.",
+  "menu.saved": "Zapisano",
+  "path.revealError": "Nie udało się pokazać lokalizacji pliku. Spróbuj ponownie."
+}

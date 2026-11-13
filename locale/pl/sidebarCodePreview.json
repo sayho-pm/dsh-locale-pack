@@ -1,5 +1,9 @@
 {
   "copied": "Skopiowano",
   "copy": "Kopiuj",
-  "title": "Kod"
+  "failed": "Nie udało się wyświetlić tego obrazu.",
+  "loading": "Przetwarzanie dokumentu...",
+  "preview": "Przegląd obrazu: {name}",
+  "title": "Obraz",
+  "unsupported": "Przegląd obrazu wymaga całej zawartości pliku."
 }

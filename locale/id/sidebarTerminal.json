@@ -1,5 +1,9 @@
 {
   "attachmentEnded": "Koneksi Terminal berakhir. Sambungkan ulang untuk melanjutkan.",
+  "badge.agent": "Agen",
+  "badge.readOnlyHint": "Perintah dijalankan di sandbox read-only agen termasuk perintah yang Anda ketik di sini.",
+  "badge.sandbox": "Sandbox",
+  "badge.workspaceWriteHint": "Perintah dijalankan di sandbox workspace agen termasuk perintah yang Anda ketik di sini.",
   "cleanupFailed": "Terminal “{title}” tidak dapat diakhiri: {message}",
   "closed": "Terminal ditutup.",
   "connecting": "Menghubungkan…",

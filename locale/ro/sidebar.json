@@ -2,6 +2,8 @@
   "navigation.label": "Navigare",
   "panels.label": "Panouri globale",
   "panels.more": "Mai multe",
+  "panels.unpin": "Despin {name} din bara laterală",
+  "panels.unpinTooltip": "Despin din bara laterală stângă",
   "session.new": "Sesiune Nouă",
   "session.new.label": "Sesiune nouă",
   "toggle.collapse": "Restrânge bara laterală",

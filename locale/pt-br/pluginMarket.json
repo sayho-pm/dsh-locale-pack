@@ -79,6 +79,8 @@
   "switchToAscending": "Classificar em ordem ascendente",
   "switchToDescending": "Classificar em ordem descendente",
   "title": "Descobrir",
+  "update": "Atualizar",
+  "updateTitle": "Atualizar {name} para {version}",
   "versionDefault": "Recomendado",
   "versionExempted": "Isentado",
   "versionIncompatible": "Incompatível",

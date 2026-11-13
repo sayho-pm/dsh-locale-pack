@@ -2,6 +2,8 @@
   "navigation.label": "Navigering",
   "panels.label": "Globala paneler",
   "panels.more": "Mer",
+  "panels.unpin": "Avpinna {name} från sidoradan",
+  "panels.unpinTooltip": "Avpinna från vänster sidorada",
   "session.new": "Ny session",
   "session.new.label": "Ny session",
   "toggle.collapse": "Fäll ihop sidofältet",

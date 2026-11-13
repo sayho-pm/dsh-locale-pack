@@ -1,6 +1,11 @@
 {
   "code.copied": "Gekopieerd",
   "code.copy": "Kopiëren",
+  "failed": "Deze afbeelding kan niet worden getoond.",
   "footnotes": "Voetnoten",
+  "loading": "Document wordt weergegeven...",
+  "preview": "Voorbeeldafbeelding: {name}",
+  "title": "Afbeelding",
+  "unsupported": "Voorbeeldafbeelding vereist de volledige inhoud van het bestand.",
   "viewer.label": "Markdown"
 }

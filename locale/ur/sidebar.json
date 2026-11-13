@@ -2,6 +2,8 @@
   "navigation.label": "نیویگیشن",
   "panels.label": "عالمی پینلز",
   "panels.more": "مزید",
+  "panels.unpin": "{name} کو سائیڈ بار سے انپن کریں",
+  "panels.unpinTooltip": "بائیں سائیڈ بار سے انپن کریں",
   "session.new": "نیا سیشن",
   "session.new.label": "نیا سیشن",
   "toggle.collapse": "سائیڈبار سمیٹیں",

@@ -79,6 +79,8 @@
   "switchToAscending": "מיון עולה",
   "switchToDescending": "מיון יורד",
   "title": "גילוי",
+  "update": "עדכון",
+  "updateTitle": "עדכן את {name} ל-{version}",
   "versionDefault": "מומלץ",
   "versionExempted": "פטור",
   "versionIncompatible": "לא תואם",

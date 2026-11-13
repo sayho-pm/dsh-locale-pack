@@ -1,6 +1,8 @@
 {
-  "failed": "Hindi ma-preview ang dokumentong HTML na ito.",
+  "failed": "Hindi maipapakita ang larawang ito.",
   "frame": "Preview ng dokumentong HTML",
   "loading": "Nire-render ang dokumento...",
-  "title": "HTML"
+  "preview": "Preview ng larawan: {name}",
+  "title": "Larawan",
+  "unsupported": "Kailangan ang buong nilalaman ng file para sa preview ng larawan."
 }

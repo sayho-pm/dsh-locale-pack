@@ -1,6 +1,11 @@
 {
   "code.copied": "Kopyalandı",
   "code.copy": "Kopyala",
+  "failed": "Bu görsel gösterilemiyor.",
   "footnotes": "Dipnotlar",
+  "loading": "Belge işleniyor...",
+  "preview": "Görsel önizleme: {name}",
+  "title": "Görsel",
+  "unsupported": "Görsel önizlemesi için dosyanın tam içeriği gereklidir.",
   "viewer.label": "Markdown"
 }

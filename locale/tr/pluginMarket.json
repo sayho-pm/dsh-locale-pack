@@ -79,6 +79,8 @@
   "switchToAscending": "Yükselen sıralama",
   "switchToDescending": "Alçalan sıralama",
   "title": "Keşfet",
+  "update": "Güncelleme",
+  "updateTitle": "{name} u {version} sürümüne güncelle",
   "versionDefault": "Önerilen",
   "versionExempted": "Muaf",
   "versionIncompatible": "Uyumlu değil",

@@ -2,6 +2,8 @@
   "navigation.label": "การนำทาง",
   "panels.label": "แผงส่วนกลาง",
   "panels.more": "เพิ่มเติม",
+  "panels.unpin": "ถอดการยึด {name} จากแถบด้านข้าง",
+  "panels.unpinTooltip": "ถอดการยึดจากแถบด้านซ้าย",
   "session.new": "เซสชันใหม่",
   "session.new.label": "เซสชันใหม่",
   "toggle.collapse": "ยุบแถบด้านข้าง",

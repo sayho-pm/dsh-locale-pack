@@ -2,9 +2,9 @@
 
 <p align="right"><a href="README.md">English</a> | <a href="README.ko.md">한국어</a> | <a href="README.zh-TW.md">繁體中文</a> | <a href="README.id.md">Bahasa Indonesia</a> | <a href="README.vi.md">Tiếng Việt</a> | <strong>Türkçe</strong></p>
 
-<p align="center"><img src="docs/pack-overview.png" alt="dsh-locale-pack overview: 29 language dictionaries, 116,467 translated entries, DeepSeek Harness 0.2.2-rc.1, the supported languages, and the git clone install command" width="100%"></p>
+<p align="center"><img src="docs/pack-overview.png" alt="dsh-locale-pack overview: 23 language dictionaries, 102,767 translated entries, DeepSeek Harness 0.2.2-rc.2, the supported languages, and the git clone install command" width="100%"></p>
 
-DeepSeek Harness için hem masaüstü uygulamasını hem de tarayıcı sürümünü kapsayan bir yerel ayar paketi. Dil seçicide 29 sözlük kaydeder: DeepSeek Harness'in sunmadığı 23 dil ve resmi 8 dilin 6'sı (Japonca, İspanyolca, Fransızca, Almanca, Rusça, Portekizce) için yenilenmiş dosyalar. Henüz çevrilmemiş dizeler İngilizce'ye geri döner, böylece kapsam genişlerken ekran okunabilir kalır. Yerleşik İngilizce ve Basitleştirilmiş Çince ile birlikte kurulumdan sonra 31 dil seçilebilir. Paket, en son DeepSeek Harness sürümüyle güncel tutulur. Ayrıca DSH eklentileri ve araçlarının topluluk dizini olan [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) içinde de listelenmiştir.
+DeepSeek Harness için hem masaüstü uygulamasını hem de tarayıcı sürümünü kapsayan bir yerel ayar paketi. Dil seçicide 23 sözlük kaydeder; her biri DeepSeek Harness'in sunmadığı bir dile karşılık gelir. Henüz çevrilmemiş dizeler İngilizce'ye geri döner, böylece kapsam genişlerken ekran okunabilir kalır. Yerleşik İngilizce ve Basitleştirilmiş Çince ile birlikte kurulumdan sonra 25 dil seçilebilir. Paket, en son DeepSeek Harness sürümüyle güncel tutulur. Ayrıca DSH eklentileri ve araçlarının topluluk dizini olan [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) içinde de listelenmiştir.
 
 ## Bu neden var
 
@@ -19,22 +19,19 @@ DeepSeek Harness başlangıçta yalnızca İngilizce ve Basitleştirilmiş Çinc
 | Language | Code | Language | Code |
 |---|---|---|---|
 | 한국어 | `ko` | Polski | `pl` |
-| 日本語 | `ja` | Русский | `ru` |
 | 繁體中文 (台灣) | `zh-tw` | Українська | `uk` |
 | 繁體中文 (香港) | `zh-hk` | Svenska | `sv` |
-| Deutsch | `de` | Türkçe | `tr` |
-| Français | `fr` | Bahasa Indonesia | `id` |
-| Español | `es` | Tiếng Việt | `vi` |
-| Português (Brasil) | `pt-br` | ไทย | `th` |
-| Italiano | `it` | हिन्दी | `hi` |
-| Nederlands | `nl` | العربية | `ar` |
-| Filipino | `tl` | Română | `ro` |
-| বাংলা | `bn` | اردو | `ur` |
-| עברית | `he` | فارسی | `fa` |
-| Português (Portugal) | `pt` | Kiswahili | `sw` |
-| Yorùbá | `yo` | | |
+| Türkçe | `tr` | Bahasa Indonesia | `id` |
+| Tiếng Việt | `vi` | Português (Brasil) | `pt-br` |
+| ไทย | `th` | Italiano | `it` |
+| हिन्दी | `hi` | Nederlands | `nl` |
+| العربية | `ar` | Filipino | `tl` |
+| Română | `ro` | বাংলা | `bn` |
+| اردو | `ur` | עברית | `he` |
+| فارسی | `fa` | Kiswahili | `sw` |
+| Yorùbá | `yo` |  |  |
 
-29 dil, her biri 4,016 anahtar — toplamda 116,467 çevrilmiş girdi. Sözlükler, DeepSeek Harness yeni bir sürüm yayınladığında yenilenir ve şu anda en son sürümü, `0.2.2-rc.1` kapsar.
+23 dil, her biri 4,468 anahtar — toplamda 102,767 çevrilmiş girdi. Sözlükler, DeepSeek Harness yeni bir sürüm yayımladığında güncellenir; paket şu anda `0.2.2-rc.2` ile uyumludur.
 
 ## Yükle
 
@@ -142,4 +139,4 @@ Ek diller için talepler memnuniyetle karşılanır. Bu depoda dili belirten bir
 
 MIT
 
-<!-- pack-facts: version=0.8.0 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->
+<!-- pack-facts: version=0.9.0 dsh=0.2.2-rc.2 languages=23 keys=4,468 entries=102,767 bundle="7.4 MB" -->

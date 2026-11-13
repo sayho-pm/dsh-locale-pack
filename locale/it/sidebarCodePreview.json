@@ -1,5 +1,9 @@
 {
   "copied": "Copiato",
   "copy": "Copia",
-  "title": "Codice"
+  "failed": "Non è stato possibile visualizzare questa immagine.",
+  "loading": "Sto elaborando il documento...",
+  "preview": "Anteprima immagine: {name}",
+  "title": "Immagine",
+  "unsupported": "L'anteprima dell'immagine richiede i contenuti completi del file."
 }

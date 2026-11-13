@@ -3,5 +3,7 @@
   "createPrompt.conversation": "Creați un plugin pentru afișarea vizualizărilor conversației DSH.",
   "createPrompt.rightbar": "Creați un plugin DSH cu o intrare în bara din dreapta.",
   "createPrompt.sidebar": "Creați un plugin DSH cu o intrare în bara din stânga.",
-  "install": "Explorați alți pluginuri"
+  "install": "Explorați alți pluginuri",
+  "pin": "Fixați {name} în bara laterală",
+  "pinTooltip": "Fixați în bara laterală stângă"
 }

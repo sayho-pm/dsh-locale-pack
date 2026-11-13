@@ -79,6 +79,8 @@
   "switchToAscending": "Panga kwa kupanda",
   "switchToDescending": "Panga kwa kushuka",
   "title": "Gundua",
+  "update": "Kubadilisha",
+  "updateTitle": "Kubadilisha {name} hadi {version}",
   "versionDefault": "Linalopendekezwa",
   "versionExempted": "Imesamehewa",
   "versionIncompatible": "Haiendani",

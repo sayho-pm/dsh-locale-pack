@@ -3,5 +3,7 @@
   "createPrompt.conversation": "Stwórz plugin do wyświetlania rozmów DSH.",
   "createPrompt.rightbar": "Stwórz plugin DSH z pozycją w prawej kolumnie bocznicy.",
   "createPrompt.sidebar": "Stwórz plugin DSH z pozycją w lewej kolumnie bocznicy.",
-  "install": "Przeglądaj inne pluginy"
+  "install": "Przeglądaj inne pluginy",
+  "pin": "Zakotwicz {name} w pasku bocznym",
+  "pinTooltip": "Zakotwicz w lewej pasku bocznym"
 }

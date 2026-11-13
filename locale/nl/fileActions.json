@@ -1,0 +1,14 @@
+{
+  "menu.copied": "Gekopieerd",
+  "menu.copyFailed": "Kon niet kopiëren. Controleer of de inhoud beschikbaar is en probeer opnieuw.",
+  "menu.copyImage": "Afbeelding kopiëren",
+  "menu.download": "Downloaden",
+  "menu.downloadStarted": "Download is gestart",
+  "menu.downloaded": "Download voltooid",
+  "menu.finder": "Weergeven in Finder",
+  "menu.reveal": "Weergeven in map",
+  "menu.saveAs": "Opslaan als…",
+  "menu.saveFailed": "Kon niet opslaan. Controleer de bron en bestemming en probeer opnieuw.",
+  "menu.saved": "Geslagen",
+  "path.revealError": "Kon de bestandslocatie niet weergeven. Probeer opnieuw."
+}

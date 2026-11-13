@@ -1,6 +1,8 @@
 {
-  "failed": "Nie można wyświetlić podglądu tego dokumentu HTML.",
+  "failed": "Nie udało się wyświetlić tego obrazu.",
   "frame": "Podgląd dokumentu HTML",
   "loading": "Renderowanie dokumentu...",
-  "title": "HTML"
+  "preview": "Przegląd obrazu: {name}",
+  "title": "Obraz",
+  "unsupported": "Przegląd obrazu wymaga całej zawartości pliku."
 }

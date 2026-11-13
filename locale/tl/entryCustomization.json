@@ -3,5 +3,7 @@
   "createPrompt.conversation": "Lumikha ng plugin para sa view ng pag-uusap ng DSH.",
   "createPrompt.rightbar": "Lumikha ng plugin ng DSH na may entry sa kanang sidebar.",
   "createPrompt.sidebar": "Lumikha ng plugin ng DSH na may entry sa kaliwang sidebar.",
-  "install": "Tingnan ang iba pang mga plugin"
+  "install": "Tingnan ang iba pang mga plugin",
+  "pin": "Ipininid ang {name} sa sidebar",
+  "pinTooltip": "Ipininid sa kaliwang sidebar"
 }

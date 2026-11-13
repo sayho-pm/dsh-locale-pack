@@ -41,6 +41,7 @@
   "menu.defaultApp": "Abrir na aplicação padrão",
   "menu.external": "Abrir em um navegador externo",
   "menu.finder": "Mostrar no Finder",
+  "menu.openIn": "Abrir em",
   "menu.openInFloat": "Abrir no painel flutuante",
   "menu.openInSidebar": "Abrir na barra lateral",
   "menu.reveal": "Mostrar na pasta",

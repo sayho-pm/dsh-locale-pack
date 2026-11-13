@@ -1,0 +1,14 @@
+{
+  "menu.copied": "Nakopya",
+  "menu.copyFailed": "Hindi makapag-kopya. Suriin kung available ang nilalaman, pagkatapos ay subukang muli.",
+  "menu.copyImage": "Kopyahin ang larawan",
+  "menu.download": "I-download",
+  "menu.downloadStarted": "Nagsimula ang pag-download",
+  "menu.downloaded": "Kumpleto na ang pag-download",
+  "menu.finder": "Ipakita sa Finder",
+  "menu.reveal": "Ipakita sa folder",
+  "menu.saveAs": "I-save bilang…",
+  "menu.saveFailed": "Hindi makapag-save. Suriin ang pinagmulan at destinasyon, pagkatapos ay subukang muli.",
+  "menu.saved": "Naisave na",
+  "path.revealError": "Hindi makita ang lokasyon ng file. Subukan muli."
+}

@@ -1,6 +1,11 @@
 {
   "code.copied": "已複製",
   "code.copy": "複製",
+  "failed": "無法顯示此圖像。",
   "footnotes": "註腳",
+  "loading": "正在處理文件...",
+  "preview": "圖像預覽：{name}",
+  "title": "圖像",
+  "unsupported": "圖像預覽需要完整的檔案內容。",
   "viewer.label": "Markdown"
 }

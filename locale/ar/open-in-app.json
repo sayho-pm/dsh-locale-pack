@@ -41,6 +41,7 @@
   "menu.defaultApp": "فتح في التطبيق الافتراضي",
   "menu.external": "فتح في متصفح خارجي",
   "menu.finder": "عرض في Finder",
+  "menu.openIn": "فتح في",
   "menu.openInFloat": "فتح في لوحة عائمة",
   "menu.openInSidebar": "فتح في شريط الجانب",
   "menu.reveal": "عرض داخل المجلد",

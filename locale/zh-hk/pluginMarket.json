@@ -79,6 +79,8 @@
   "switchToAscending": "按升序排序",
   "switchToDescending": "按降序排序",
   "title": "探索",
+  "update": "更新",
+  "updateTitle": "將 {name} 更新至 {version}",
   "versionDefault": "推薦版本",
   "versionExempted": "已獲豁免版本",
   "versionIncompatible": "不相容版本",

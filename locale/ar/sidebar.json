@@ -2,6 +2,8 @@
   "navigation.label": "التنقل",
   "panels.label": "اللوحات العامة",
   "panels.more": "أكثر",
+  "panels.unpin": "إزالة تثبيت {name} من شريط الجانب",
+  "panels.unpinTooltip": "إزالة تثبيت من شريط الجانب الأيسر",
   "session.new": "جلسة جديدة",
   "session.new.label": "جلسة جديدة",
   "toggle.collapse": "طي الشريط الجانبي",

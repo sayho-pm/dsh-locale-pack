@@ -2,6 +2,8 @@
   "navigation.label": "Navigasi",
   "panels.label": "Panel global",
   "panels.more": "Lebih Banyak",
+  "panels.unpin": "Lepas pasang {name} dari sidebar",
+  "panels.unpinTooltip": "Lepas pasang dari sidebar kiri",
   "session.new": "Sesi Baru",
   "session.new.label": "Sesi baru",
   "toggle.collapse": "Ciutkan bilah sisi",

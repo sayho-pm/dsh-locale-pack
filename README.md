@@ -2,9 +2,9 @@
 
 <p align="right"><strong>English</strong> | <a href="README.ko.md">한국어</a> | <a href="README.zh-TW.md">繁體中文</a> | <a href="README.id.md">Bahasa Indonesia</a> | <a href="README.vi.md">Tiếng Việt</a> | <a href="README.tr.md">Türkçe</a></p>
 
-<p align="center"><img src="docs/pack-overview.png" alt="dsh-locale-pack overview: 29 language dictionaries, 116,467 translated entries, DeepSeek Harness 0.2.2-rc.1, the supported languages, and the git clone install command" width="100%"></p>
+<p align="center"><img src="docs/pack-overview.png" alt="dsh-locale-pack overview: 23 language dictionaries, 102,767 translated entries, DeepSeek Harness 0.2.2-rc.2, the supported languages, and the git clone install command" width="100%"></p>
 
-A locale pack for DeepSeek Harness, covering both the desktop app and the browser edition. It registers 29 dictionaries in the language picker: 23 for languages DeepSeek Harness does not ship, and refreshed files for 6 of the 8 it does (Japanese, Spanish, French, German, Russian, Portuguese). Strings that are not translated yet fall back to English, so the screen stays readable while coverage grows. With the built-in English and Simplified Chinese, 31 languages are selectable after install. The pack is kept up to date with the latest DeepSeek Harness release. It is also listed in [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness), the community index of DSH plugins and tools.
+A locale pack for DeepSeek Harness, covering both the desktop app and the browser edition. It registers 23 dictionaries in the language picker, one for each language DeepSeek Harness does not ship. Strings that are not translated yet fall back to English, so the screen stays readable while coverage grows. With the built-in English and Simplified Chinese, 25 languages are selectable after install. The pack is kept up to date with the latest DeepSeek Harness release. It is also listed in [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness), the community index of DSH plugins and tools.
 
 ## Why this exists
 
@@ -19,22 +19,19 @@ DeepSeek Harness shipped English and Simplified Chinese at launch; it ships eigh
 | Language | Code | Language | Code |
 |---|---|---|---|
 | 한국어 | `ko` | Polski | `pl` |
-| 日本語 | `ja` | Русский | `ru` |
 | 繁體中文 (台灣) | `zh-tw` | Українська | `uk` |
 | 繁體中文 (香港) | `zh-hk` | Svenska | `sv` |
-| Deutsch | `de` | Türkçe | `tr` |
-| Français | `fr` | Bahasa Indonesia | `id` |
-| Español | `es` | Tiếng Việt | `vi` |
-| Português (Brasil) | `pt-br` | ไทย | `th` |
-| Italiano | `it` | हिन्दी | `hi` |
-| Nederlands | `nl` | العربية | `ar` |
-| Filipino | `tl` | Română | `ro` |
-| বাংলা | `bn` | اردو | `ur` |
-| עברית | `he` | فارسی | `fa` |
-| Português (Portugal) | `pt` | Kiswahili | `sw` |
-| Yorùbá | `yo` | | |
+| Türkçe | `tr` | Bahasa Indonesia | `id` |
+| Tiếng Việt | `vi` | Português (Brasil) | `pt-br` |
+| ไทย | `th` | Italiano | `it` |
+| हिन्दी | `hi` | Nederlands | `nl` |
+| العربية | `ar` | Filipino | `tl` |
+| Română | `ro` | বাংলা | `bn` |
+| اردو | `ur` | עברית | `he` |
+| فارسی | `fa` | Kiswahili | `sw` |
+| Yorùbá | `yo` |  |  |
 
-29 languages, 4,016 keys each — 116,467 translated entries in all. The dictionaries are refreshed whenever DeepSeek Harness ships a new version, and currently cover the latest release, `0.2.2-rc.1`.
+23 languages, 4,468 keys each — 102,767 translated entries in all. The dictionaries are refreshed whenever DeepSeek Harness ships a new release; the pack currently tracks `0.2.2-rc.2`.
 
 ## Install
 
@@ -142,4 +139,4 @@ Maintainers who run the translation pipeline will find the commands in [MAINTAIN
 
 MIT
 
-<!-- pack-facts: version=0.8.0 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->
+<!-- pack-facts: version=0.9.0 dsh=0.2.2-rc.2 languages=23 keys=4,468 entries=102,767 bundle="7.4 MB" -->

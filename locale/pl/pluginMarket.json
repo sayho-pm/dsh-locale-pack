@@ -79,6 +79,8 @@
   "switchToAscending": "Sortowanie w porządku rosnącym",
   "switchToDescending": "Sortowanie w porządku malejącym",
   "title": "Odkryj",
+  "update": "Aktualizacja",
+  "updateTitle": "Aktualizacja {name} do {version}",
   "versionDefault": "Zalecana",
   "versionExempted": "Zwolniona",
   "versionIncompatible": "Niekompatybilna",

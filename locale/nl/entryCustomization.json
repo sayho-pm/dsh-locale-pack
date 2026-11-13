@@ -3,5 +3,7 @@
   "createPrompt.conversation": "Maak een plugin voor een conversatieweergave van DSH.",
   "createPrompt.rightbar": "Maak een DSH plugin met een item in de rechterbalk.",
   "createPrompt.sidebar": "Maak een DSH plugin met een item in de linkerbalk.",
-  "install": "Bekijk andere plugins"
+  "install": "Bekijk andere plugins",
+  "pin": "Plakken van {name} in de sidebar",
+  "pinTooltip": "Plakken in de linker sidebar"
 }

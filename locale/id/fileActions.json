@@ -1,0 +1,14 @@
+{
+  "menu.copied": "Telah disalin",
+  "menu.copyFailed": "Tidak dapat menyalin. Pastikan kontennya tersedia lalu coba lagi.",
+  "menu.copyImage": "Salin gambar",
+  "menu.download": "Unduh",
+  "menu.downloadStarted": "Unduhan dimulai",
+  "menu.downloaded": "Unduhan selesai",
+  "menu.finder": "Tampilkan di Finder",
+  "menu.reveal": "Tampilkan di folder",
+  "menu.saveAs": "Simpan sebagai…",
+  "menu.saveFailed": "Tidak dapat menyimpan. Periksa sumber dan tujuan lalu coba lagi.",
+  "menu.saved": "Telah disimpan",
+  "path.revealError": "Tidak dapat menampilkan lokasi file. Coba lagi."
+}

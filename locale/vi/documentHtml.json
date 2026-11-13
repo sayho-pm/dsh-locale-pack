@@ -1,6 +1,8 @@
 {
-  "failed": "Không thể xem trước tài liệu HTML này.",
+  "failed": "Hình ảnh này không thể được hiển thị.",
   "frame": "Xem trước tài liệu HTML",
   "loading": "Đang hiển thị tài liệu...",
-  "title": "HTML"
+  "preview": "Xem trước hình ảnh: {name}",
+  "title": "Hình ảnh",
+  "unsupported": "Việc xem trước hình ảnh đòi hỏi toàn bộ nội dung của tệp."
 }

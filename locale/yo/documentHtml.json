@@ -1,6 +1,8 @@
 {
-  "failed": "Kò lè ṣàyẹ̀wò ìwé HTML yìí.",
+  "failed": "Ìgbé ìjọba ìhìn ìyána kò tún sọ sí.",
   "frame": "Àṣàyẹ̀wò ìwé HTML",
   "loading": "Ń ṣàyẹ̀wò ìwé náà...",
-  "title": "HTML"
+  "preview": "Ìgbé ìjọba ìhìn: {name}",
+  "title": "Ìjọba ìhìn",
+  "unsupported": "Ìgbé ìjọba ìhìn nítorípa àwọn ọrọ òkùn tí àwọn àkọọlẹ àti àwọn ọrọ ìhìn."
 }

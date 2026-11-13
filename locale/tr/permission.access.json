@@ -9,11 +9,15 @@
   "close": "Kapat",
   "confirm.acknowledge": "Riskleri anlıyorum ve devam etmek istiyorum",
   "confirm.cancel": "İptal",
-  "confirm.description": "Tam erişim, onay adımlarını azaltır ve ajanın hassas işlemler, dosya değişiklikleri veya harici komutlar dahil olmak üzere daha fazla işlemi doğrudan gerçekleştirmesine olanak tanır. Bunu yalnızca mevcut göreve güvendiğinizde kullanın.",
+  "confirm.description": "Tam erişim sayesinde yeni oturumlar onay adımlarını azaltabilir ve hassas işlemler dosya değişiklikleri veya harici komutlar dahil olmak üzere daha fazla işlemi doğrudan gerçekleştirebilir. Yalnızca sonraki görevlere güvendiğinizde bunu kullanın.",
   "confirm.enable": "Tam erişimi etkinleştir",
   "confirm.title": "Tam erişim etkinleştirilsin mi?",
+  "description": "Yeni oturumlar için varsayılan izin modunu seçin",
+  "loading": "Yükleme",
   "mode": "Erişim modu, mevcut: {name}",
   "preset.fullAccess": "Tam erişim",
   "preset.readOnly": "Salt Okunur",
-  "preset.workspaceWrite": "Çalışma Alanına Yazma"
+  "preset.workspaceWrite": "Çalışma Alanına Yazma",
+  "title": "İzinler",
+  "unavailable": "Kullanılamıyor"
 }

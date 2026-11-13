@@ -1,0 +1,14 @@
+{
+  "menu.copied": "تم النسخ",
+  "menu.copyFailed": "لم يتسن نسخ المحتوى. تحقق من توفر المحتوى ثم جرب مرة أخرى.",
+  "menu.copyImage": "نسخ الصورة",
+  "menu.download": "تنزيل",
+  "menu.downloadStarted": "بدأ التنزيل",
+  "menu.downloaded": "انتهى التنزيل",
+  "menu.finder": "عرض في Finder",
+  "menu.reveal": "عرض في المجلد",
+  "menu.saveAs": "حفظ كـ…",
+  "menu.saveFailed": "لم يتسن حفظ الملف. تحقق من المصدر والوجهة ثم جرب مرة أخرى.",
+  "menu.saved": "تم الحفظ",
+  "path.revealError": "لم يتسن عرض موقع الملف. جرب مرة أخرى."
+}

@@ -79,6 +79,8 @@
   "switchToAscending": "Sortare ascendentă",
   "switchToDescending": "Sortare descendentă",
   "title": "Descoperi",
+  "update": "Actualizare",
+  "updateTitle": "Actualizare {name} la {version}",
   "versionDefault": "Recomandată",
   "versionExempted": "Exemptată",
   "versionIncompatible": "Incompatibilă",

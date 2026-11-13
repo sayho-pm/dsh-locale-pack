@@ -9,11 +9,15 @@
   "close": "Funga",
   "confirm.acknowledge": "Ninaelewa hatari na ninataka kuendelea",
   "confirm.cancel": "Sitisha",
-  "confirm.description": "Ufikiaji kamili hupunguza hatua za uthibitisho na humruhusu wakala kufanya vitendo zaidi moja kwa moja, ikiwa ni pamoja na shughuli nyeti, mabadiliko ya faili, au amri za nje. Itumie tu unapoiamini kazi ya sasa.",
+  "confirm.description": "Uwezo wa kumaliza unaruhusu sesi mpya kupunguza hatua za ukubaliano na kufanya vitendo zaidi moja kwa moja, ikiwemo matendo ya kisiri, mabadiliko ya faili, au amri za nje. Tumie tu wakati unatumai kazi zifuatazo.",
   "confirm.enable": "Wezesha Ufikiaji kamili",
   "confirm.title": "Wezesha Ufikiaji kamili?",
+  "description": "Chagua njia ya kawaida ya uruhusi kwa sesi mpya",
+  "loading": "Kutumia",
   "mode": "Hali ya ufikiaji, ya sasa: {name}",
   "preset.fullAccess": "Ufikiaji kamili",
   "preset.readOnly": "Kusoma tu",
-  "preset.workspaceWrite": "Kuandika katika eneo la kazi"
+  "preset.workspaceWrite": "Kuandika katika eneo la kazi",
+  "title": "Uruhusi",
+  "unavailable": "Haitumiki"
 }

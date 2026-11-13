@@ -1,5 +1,9 @@
 {
   "copied": "Copiat",
   "copy": "Copiază",
-  "title": "Cod"
+  "failed": "Nu a fost posibilă afișarea acestei imagini.",
+  "loading": "Renderizare a documentului...",
+  "preview": "Prévisualizare a imaginii: {name}",
+  "title": "Imagine",
+  "unsupported": "Prévisualizarea imaginii necesită conținutul complet al fișierului."
 }

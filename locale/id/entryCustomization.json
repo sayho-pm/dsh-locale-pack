@@ -3,5 +3,7 @@
   "createPrompt.conversation": "Buat plugin tampilan percakapan DSH.",
   "createPrompt.rightbar": "Buat plugin DSH dengan entri di bilah sisi kanan.",
   "createPrompt.sidebar": "Buat plugin DSH dengan entri di bilah sisi kiri.",
-  "install": "Lihat plugin lainnya"
+  "install": "Lihat plugin lainnya",
+  "pin": "Pasang {name} di sidebar",
+  "pinTooltip": "Pasang di sidebar kiri"
 }

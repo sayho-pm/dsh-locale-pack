@@ -2,6 +2,8 @@
   "navigation.label": "Navegação",
   "panels.label": "Painéis globais",
   "panels.more": "Mais",
+  "panels.unpin": "Desanexar {name} da barra lateral",
+  "panels.unpinTooltip": "Desanexar da barra lateral esquerda",
   "session.new": "Nova Sessão",
   "session.new.label": "Nova sessão",
   "toggle.collapse": "Recolher barra lateral",

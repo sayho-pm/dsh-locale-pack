@@ -1,6 +1,11 @@
 {
   "code.copied": "Copiado",
   "code.copy": "Copiar",
+  "failed": "Não foi possível exibir esta imagem.",
   "footnotes": "Notas de rodapé",
+  "loading": "Processando o documento...",
+  "preview": "Prévia da imagem: {name}",
+  "title": "Imagem",
+  "unsupported": "A prévia da imagem requer o conteúdo completo do arquivo.",
   "viewer.label": "Markdown"
 }

@@ -79,6 +79,8 @@
   "switchToAscending": "صعودی ترتیب دیں",
   "switchToDescending": "نزولی ترتیب دیں",
   "title": "دیکھیں",
+  "update": "اپ ڈیٹ کریں",
+  "updateTitle": "{name} کو {version} تک اپ ڈیٹ کریں",
   "versionDefault": "تجویز کردہ",
   "versionExempted": "مستثنیٰ",
   "versionIncompatible": "غیر مطابقت رکھنے والا",

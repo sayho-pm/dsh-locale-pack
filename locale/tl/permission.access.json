@@ -9,11 +9,15 @@
   "close": "Isara",
   "confirm.acknowledge": "Naiintindihan ko ang mga panganib at gusto kong magpatuloy",
   "confirm.cancel": "Kanselahin",
-  "confirm.description": "Binabawasan ng Buong pag-access ang mga hakbang sa pagkumpirma at hinahayaan ang agent na direktang gumawa ng mas maraming aksyon, kabilang ang mga sensitibong operasyon, pagbabago sa file, o panlabas na command. Gamitin lang ito kapag pinagkakatiwalaan mo ang kasalukuyang gawain.",
+  "confirm.description": "Ang buong access ay nagpapahintulot sa mga bagong sesyon na bawasan ang mga hakbang sa pagkumpirma at direktang isagawa ang mas maraming aksyon, kabilang ang mga sensitibong operasyon, pagbabago sa file, o mga panlabas na command. Gamitin lamang ito kapag nagtitiwala ka sa mga susunod na gawain.",
   "confirm.enable": "Paganahin ang Buong pag-access",
   "confirm.title": "Paganahin ang Buong pag-access?",
+  "description": "Pumili ng default na mode ng pahintulot para sa mga bagong sesyon",
+  "loading": "Naglo-load",
   "mode": "Mode ng pag-access, kasalukuyan: {name}",
   "preset.fullAccess": "Buong pag-access",
   "preset.readOnly": "Basahin Lang",
-  "preset.workspaceWrite": "Isulat sa workspace"
+  "preset.workspaceWrite": "Isulat sa workspace",
+  "title": "Pahintulot",
+  "unavailable": "Hindi available"
 }

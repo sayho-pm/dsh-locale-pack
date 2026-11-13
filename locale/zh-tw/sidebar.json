@@ -2,6 +2,8 @@
   "navigation.label": "導航",
   "panels.label": "全域面板",
   "panels.more": "更多",
+  "panels.unpin": "將 {name} 從側邊欄解除固定",
+  "panels.unpinTooltip": "將左側邊欄的項目解除固定",
   "session.new": "新增工作階段",
   "session.new.label": "新增工作階段",
   "toggle.collapse": "收合側邊欄",

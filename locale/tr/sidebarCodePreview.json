@@ -1,5 +1,9 @@
 {
   "copied": "Kopyalandı",
   "copy": "Kopyala",
-  "title": "Kod"
+  "failed": "Bu görüntü gösterilemedi.",
+  "loading": "Belge işleniyor...",
+  "preview": "Görüntü önizlemesi: {name}",
+  "title": "Görüntü",
+  "unsupported": "Görüntü önizlemesi için dosyanın tam içeriği gerekir."
 }

@@ -1,5 +1,9 @@
 {
   "copied": "Tí dáàkọ̀",
   "copy": "Dáàkọ̀",
-  "title": "Kóòdù"
+  "failed": "Ìpàtà àwọn éèyàn bá wá lè kọ ọdún.",
+  "loading": "A ṣe ọdún àwọn àwọn ọdún...",
+  "preview": "Ìpàtà àti {name}",
+  "title": "Ìpàtà",
+  "unsupported": "Ìpàtà àti àwọn ọdún tuntun nítorípa àwọn ọdún pẹlu àwọn ọdún kọọkan."
 }

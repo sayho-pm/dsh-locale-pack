@@ -1,5 +1,9 @@
 {
   "attachmentEnded": "Conexiunea Terminal s-a încheiat. Reconectați-vă pentru a continua.",
+  "badge.agent": "Agent",
+  "badge.readOnlyHint": "Comenziile se execută în sandboxul doar pentru citire al agentului, inclusiv comenziile pe care le introduceți aici.",
+  "badge.sandbox": "Sandbox",
+  "badge.workspaceWriteHint": "Comenziile se execută în sandboxul spațiului de lucru al agentului, inclusiv comenziile pe care le introduceți aici.",
   "cleanupFailed": "Terminal “{title}” nu a putut fi închis: {message}",
   "closed": "Terminal închis.",
   "connecting": "Se conectează…",

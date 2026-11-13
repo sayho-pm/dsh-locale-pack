@@ -1,5 +1,9 @@
 {
   "copied": "Gekopieerd",
   "copy": "Kopiëren",
-  "title": "Code"
+  "failed": "Deze afbeelding kan niet worden getoond.",
+  "loading": "Document wordt weergegeven...",
+  "preview": "Voorbeeldafbeelding: {name}",
+  "title": "Afbeelding",
+  "unsupported": "Voorbeeldafbeelding vereist de volledige inhoud van het bestand."
 }

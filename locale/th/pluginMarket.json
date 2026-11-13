@@ -79,6 +79,8 @@
   "switchToAscending": "จัดเรียงแบบเพิ่มขึ้น",
   "switchToDescending": "จัดเรียงแบบลดลง",
   "title": "ค้นหา",
+  "update": "อัปเดต",
+  "updateTitle": "อัปเดต {name} เป็น {version}",
   "versionDefault": "แนะนำ",
   "versionExempted": "ได้รับการยกเว้น",
   "versionIncompatible": "ไม่สอดคล้องกัน",

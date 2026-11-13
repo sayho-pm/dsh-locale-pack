@@ -79,6 +79,8 @@
   "switchToAscending": "مرتب‌سازی صعودی",
   "switchToDescending": "مرتب‌سازی نزولی",
   "title": "کشف کنید",
+  "update": "به‌روزرسانی",
+  "updateTitle": "به‌روزرسانی {name} به {version}",
   "versionDefault": "توصیه‌شده",
   "versionExempted": "معاف شده است",
   "versionIncompatible": "سازگار نیست",

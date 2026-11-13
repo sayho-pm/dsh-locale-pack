@@ -2,6 +2,8 @@
   "navigation.label": "Navigazione",
   "panels.label": "Pannelli globali",
   "panels.more": "Altro",
+  "panels.unpin": "Scollega {name} da barra laterale",
+  "panels.unpinTooltip": "Scollega da barra laterale sinistra",
   "session.new": "Nuova sessione",
   "session.new.label": "Nuova sessione",
   "toggle.collapse": "Comprimi barra laterale",

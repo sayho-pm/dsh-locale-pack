@@ -3,5 +3,7 @@
   "createPrompt.conversation": "একটি DSH conversation view প্লাগইন তৈরি করুন।",
   "createPrompt.rightbar": "একটি রাইট সাইডবার এন্ট্রি সহ DSH প্লাগইন তৈরি করুন।",
   "createPrompt.sidebar": "একটি লেফট সাইডবার এন্ট্রি সহ DSH প্লাগইন তৈরি করুন।",
-  "install": "অন্যান্য প্লাগইনগুলো দেখুন"
+  "install": "অন্যান্য প্লাগইনগুলো দেখুন",
+  "pin": "সাইডবারে {name} কে পিন করুন",
+  "pinTooltip": "বাম সাইডবারে পিন করুন"
 }

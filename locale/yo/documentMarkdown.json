@@ -1,6 +1,11 @@
 {
   "code.copied": "Tí dàkọ",
   "code.copy": "Dàkọ",
+  "failed": "Ìpàtún àwọn ìpàtún wọnyi kò le ṣe àwọn ọrọ.",
   "footnotes": "Àwọn àkíyèsí ìsàlẹ̀",
+  "loading": "Aṣẹ àwọn ọrọ òfin...",
+  "preview": "Ìpàtún ìpàtún: {name}",
+  "title": "Ìpàtún",
+  "unsupported": "Ìpàtún ìpàtún nítorípa àwọn orílẹ-èdè àwọn ọrọ wọnyi.",
   "viewer.label": "Markdown"
 }

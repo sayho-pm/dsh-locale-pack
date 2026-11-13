@@ -1,0 +1,14 @@
+{
+  "menu.copied": "Kopyalandı",
+  "menu.copyFailed": "Kopyalama işlemi gerçekleştirilemedi. İçeriğin erişilebilir olduğundan emin olup tekrar deneyin.",
+  "menu.copyImage": "Görüntüyü kopya",
+  "menu.download": "İndir",
+  "menu.downloadStarted": "İndirme başladı",
+  "menu.downloaded": "İndirme tamamlandı",
+  "menu.finder": "Finder'da göster",
+  "menu.reveal": "Klasörde göster",
+  "menu.saveAs": "Başka adla kaydet…",
+  "menu.saveFailed": "Kaydetme işlemi gerçekleştirilemedi. Kaynak ve hedefi kontrol edip tekrar deneyin.",
+  "menu.saved": "Kaydedildi",
+  "path.revealError": "Dosyanın konumu gösterilemedi. Tekrar deneyin."
+}

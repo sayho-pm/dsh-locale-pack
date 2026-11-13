@@ -1,6 +1,11 @@
 {
   "code.copied": "Đã sao chép",
   "code.copy": "Sao chép",
+  "failed": "Không thể hiển thị hình ảnh này.",
   "footnotes": "Chú thích",
+  "loading": "Đang xử lý tài liệu...",
+  "preview": "Xem trước hình ảnh: {name}",
+  "title": "Hình ảnh",
+  "unsupported": "Xem trước hình ảnh đòi hỏi toàn bộ nội dung tệp.",
   "viewer.label": "Markdown"
 }

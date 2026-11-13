@@ -2,6 +2,8 @@
   "navigation.label": "Навігація",
   "panels.label": "Глобальні панелі",
   "panels.more": "Ще",
+  "panels.unpin": "Зняти фіксацію {name} з панелі",
+  "panels.unpinTooltip": "Зняти фіксацію з лівої панелі",
   "session.new": "Новий сеанс",
   "session.new.label": "Новий сеанс",
   "toggle.collapse": "Згорнути бічну панель",

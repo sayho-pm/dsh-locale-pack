@@ -1,5 +1,9 @@
 {
   "attachmentEnded": "La connessione di Terminal è terminata. Riconnettiti per continuare.",
+  "badge.agent": "Agente",
+  "badge.readOnlyHint": "I comandi vengono eseguiti nella sandbox in sola lettura dell'agente, inclusi i comandi che digitate qui.",
+  "badge.sandbox": "Sandbox",
+  "badge.workspaceWriteHint": "I comandi vengono eseguiti nella sandbox dello spazio di lavoro dell'agente, inclusi i comandi che digitate qui.",
   "cleanupFailed": "Impossibile terminare Terminal “{title}”: {message}",
   "closed": "Terminal chiuso.",
   "connecting": "Connessione in corso…",

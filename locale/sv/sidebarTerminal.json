@@ -1,5 +1,9 @@
 {
   "attachmentEnded": "Anslutningen till Terminal avslutades. Återanslut för att fortsätta.",
+  "badge.agent": "Agent",
+  "badge.readOnlyHint": "Kommandon körs i agentens endast läsbara sandbox inklusive de kommandon du skriver här.",
+  "badge.sandbox": "Sandbox",
+  "badge.workspaceWriteHint": "Kommandon körs i agentens arbetsplats sandbox inklusive de kommandon du skriver här.",
   "cleanupFailed": "Terminal “{title}” kunde inte avslutas: {message}",
   "closed": "Terminal stängd.",
   "connecting": "Ansluter…",

@@ -3,5 +3,7 @@
   "createPrompt.conversation": "יצירת פלגין לצגת שיחות DSH.",
   "createPrompt.rightbar": "יצירת פלגין DSH עם רשומה בסרגל הימני.",
   "createPrompt.sidebar": "יצירת פלגין DSH עם רשומה בסרגל השמאלי.",
-  "install": "חיפוש אחר פלגינים אחרים"
+  "install": "חיפוש אחר פלגינים אחרים",
+  "pin": "תקעו את {name} בסרגל הצד",
+  "pinTooltip": "תקעו בסרגל הצד שמאלי"
 }

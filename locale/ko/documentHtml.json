@@ -1,6 +1,8 @@
 {
-  "failed": "이 HTML 문서를 미리 볼 수 없습니다.",
-  "frame": "HTML 문서 미리보기",
-  "loading": "문서 렌더링 중...",
-  "title": "HTML"
+ "failed": "이 이미지는 표시될 수 없습니다.",
+ "frame": "HTML 문서 미리보기",
+ "loading": "문서 렌더링 중...",
+ "preview": "이미지 미리보기: {name}",
+ "title": "이미지",
+ "unsupported": "이미지 미리보기를 위해서는 파일의 전체 내용이 필요합니다."
 }

@@ -79,6 +79,8 @@
   "switchToAscending": "I-uri sa pagtaas",
   "switchToDescending": "I-uri sa pagbaba",
   "title": "Tuklasin",
+  "update": "Pag-update",
+  "updateTitle": "Pag-update ng {name} patungo sa {version}",
   "versionDefault": "Inirerekomenda",
   "versionExempted": "May exemption",
   "versionIncompatible": "Hindi tugma",

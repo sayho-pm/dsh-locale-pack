@@ -79,6 +79,8 @@
   "switchToAscending": "Sorteren oplopend",
   "switchToDescending": "Sorteren aflopend",
   "title": "Ontdekken",
+  "update": "Updaten",
+  "updateTitle": "Updaten {name} naar {version}",
   "versionDefault": "Aanbevolen",
   "versionExempted": "Vrijgesteld",
   "versionIncompatible": "Niet compatibel",

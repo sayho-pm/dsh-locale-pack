@@ -1,6 +1,11 @@
 {
   "code.copied": "Nakopya",
   "code.copy": "Kopyahin",
+  "failed": "Hindi maipakita ang larawang ito.",
   "footnotes": "Mga talababa",
+  "loading": "Ipinoproseso ang dokumento...",
+  "preview": "Preview ng larawan: {name}",
+  "title": "Larawan",
+  "unsupported": "Kailangan ang buong nilalaman ng file para sa preview ng larawan.",
   "viewer.label": "Markdown"
 }

@@ -1,6 +1,11 @@
 {
   "code.copied": "הועתק",
   "code.copy": "העתק",
+  "failed": "לא ניתן היה להציג את התמונה הזו.",
   "footnotes": "הערות שוליים",
+  "loading": "עיבוד המסמך...",
+  "preview": "תצוגת תמונה: {name}",
+  "title": "תמונה",
+  "unsupported": "תצוגת תמונה דורשת את כל תוכן הקובץ.",
   "viewer.label": "Markdown"
 }

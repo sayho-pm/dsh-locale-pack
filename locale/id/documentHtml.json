@@ -1,6 +1,8 @@
 {
-  "failed": "Dokumen HTML ini tidak dapat dipratinjau.",
+  "failed": "Gambar ini tidak dapat ditampilkan.",
   "frame": "Pratinjau dokumen HTML",
   "loading": "Merender dokumen...",
-  "title": "HTML"
+  "preview": "Pratinjau gambar: {name}",
+  "title": "Gambar",
+  "unsupported": "Pratinjau gambar memerlukan isi file yang lengkap."
 }

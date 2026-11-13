@@ -1,5 +1,9 @@
 {
   "attachmentEnded": "Kết nối Terminal đã kết thúc. Kết nối lại để tiếp tục.",
+  "badge.agent": "Agent",
+  "badge.readOnlyHint": "Các lệnh được thực thi trong môi trường thử nghiệm chỉ đọc của Agent bao gồm cả các lệnh mà bạn gõ ở đây.",
+  "badge.sandbox": "Môi trường thử nghiệm",
+  "badge.workspaceWriteHint": "Các lệnh được thực thi trong môi trường thử nghiệm công việc của Agent bao gồm cả các lệnh mà bạn gõ ở đây.",
   "cleanupFailed": "Không thể kết thúc Terminal “{title}”: {message}",
   "closed": "Terminal đã đóng.",
   "connecting": "Đang kết nối…",

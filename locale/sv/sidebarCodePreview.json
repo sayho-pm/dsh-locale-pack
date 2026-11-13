@@ -1,5 +1,9 @@
 {
   "copied": "Kopierat",
   "copy": "Kopiera",
-  "title": "Kod"
+  "failed": "Denna bild kunde inte visas.",
+  "loading": "Man renderar dokumentet...",
+  "preview": "Förhandsvisning av bild: {name}",
+  "title": "Bild",
+  "unsupported": "Förhandsvisning av bild kräver hela filinnehållet."
 }

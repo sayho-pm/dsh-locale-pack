@@ -2,6 +2,8 @@
   "navigation.label": "Điều hướng",
   "panels.label": "Các bảng toàn cục",
   "panels.more": "Thêm",
+  "panels.unpin": "Gỡ kẹp {name} khỏi thanh bên",
+  "panels.unpinTooltip": "sidebar.panels.unpinTooltip",
   "session.new": "Phiên Mới",
   "session.new.label": "Phiên mới",
   "toggle.collapse": "Thu gọn thanh bên",

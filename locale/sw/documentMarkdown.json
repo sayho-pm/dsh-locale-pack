@@ -1,6 +1,11 @@
 {
   "code.copied": "Imenakiliwa",
   "code.copy": "Nakili",
+  "failed": "Hapana uwezo wa kuonyesha picha hii.",
   "footnotes": "Maelezo ya chini",
+  "loading": "Tunachapisha dokumendo...",
+  "preview": "Maelezo ya picha: {name}",
+  "title": "Picha",
+  "unsupported": "Maelezo ya picha inahitaji maudhui yote ya faili.",
   "viewer.label": "Markdown"
 }

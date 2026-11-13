@@ -1,9 +1,0 @@
-{
-  "allow": "Autoriser",
-  "allowAlways": "Autoriser toujours",
-  "allowOnce": "Autoriser une fois",
-  "detail.aria": "Détails de l'approbation",
-  "escalation": "L'outil {toolName} demande une exécution privilégiée",
-  "reject": "Rejeter",
-  "waiting": "En attente d'approbation"
-}

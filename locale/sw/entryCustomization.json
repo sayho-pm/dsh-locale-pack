@@ -3,5 +3,7 @@
   "createPrompt.conversation": "Undaanga plugin ya kuona mazungumzo ya DSH.",
   "createPrompt.rightbar": "Undaanga plugin ya DSH na kwenye sehemu ya kulia.",
   "createPrompt.sidebar": "Undaanga plugin ya DSH na kwenye sehemu ya kushoto.",
-  "install": "Angalia plugins zingine"
+  "install": "Angalia plugins zingine",
+  "pin": "Funga {name} kwenye sehemu ya kushoto",
+  "pinTooltip": "entryCustomization.pinTooltip"
 }

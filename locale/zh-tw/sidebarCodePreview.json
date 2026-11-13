@@ -1,5 +1,9 @@
 {
   "copied": "已複製",
   "copy": "複製",
-  "title": "程式碼"
+  "failed": "無法顯示此圖片。",
+  "loading": "正在渲染文件...",
+  "preview": "圖片預覽：{name}",
+  "title": "圖片",
+  "unsupported": "圖片預覽需要完整的檔案內容。"
 }

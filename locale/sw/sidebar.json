@@ -2,6 +2,8 @@
   "navigation.label": "Urambazaji",
   "panels.label": "Paneli za jumla",
   "panels.more": "Zaidi",
+  "panels.unpin": "Ondoa uwekaji wa {name} kutoka kwenye sehemu ya kushoto",
+  "panels.unpinTooltip": "sidebar.panels.unpinTooltip",
   "session.new": "Kipindi Kipya",
   "session.new.label": "Kipindi kipya",
   "toggle.collapse": "Kunja upau wa kando",

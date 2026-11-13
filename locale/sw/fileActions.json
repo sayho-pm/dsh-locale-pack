@@ -1,0 +1,14 @@
+{
+  "menu.copied": "Imekimwagwa",
+  "menu.copyFailed": "Hakupatikana kikimwagwa. Angalia iwapo maudhui yanapatikana, kisha jaribu tena.",
+  "menu.copyImage": "Kimwaga picha",
+  "menu.download": "Kupakua",
+  "menu.downloadStarted": "Kupakua kimeanza",
+  "menu.downloaded": "Kupakua imekamilika",
+  "menu.finder": "Onyesha katika Finder",
+  "menu.reveal": "Onyesha katika folda",
+  "menu.saveAs": "Ukimwaga kama…",
+  "menu.saveFailed": "Hakupatikana kumwaga. Angalia chanzo na mahali pa mwisho, kisha jaribu tena.",
+  "menu.saved": "Imewagwa",
+  "path.revealError": "Hakupatikana kuionyesha mahali ya faili. Jaribu tena."
+}

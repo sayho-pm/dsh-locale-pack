@@ -1,6 +1,8 @@
 {
-  "failed": "Det här HTML-dokumentet kunde inte förhandsvisas.",
+  "failed": "Denna bild kunde inte visas.",
   "frame": "Förhandsvisning av HTML-dokument",
   "loading": "Renderar dokument...",
-  "title": "HTML"
+  "preview": "Bildpreview: {name}",
+  "title": "Bild",
+  "unsupported": "Bildpreview kräver hela filens innehåll."
 }

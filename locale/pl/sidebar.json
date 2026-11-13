@@ -2,6 +2,8 @@
   "navigation.label": "Nawigacja",
   "panels.label": "Panele globalne",
   "panels.more": "Więcej",
+  "panels.unpin": "Odpięcie {name} od listy bocznej",
+  "panels.unpinTooltip": "Odpięcie od lewej listy bocznej",
   "session.new": "Nowa sesja",
   "session.new.label": "Nowa sesja",
   "toggle.collapse": "Zwiń pasek boczny",

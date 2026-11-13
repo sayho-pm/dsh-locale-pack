@@ -1,5 +1,9 @@
 {
   "attachmentEnded": "Muunganisho wa Terminal umekatika. Unganisha tena ili kuendelea.",
+  "badge.agent": "Mwenzilishi",
+  "badge.readOnlyHint": "Makosa yanachukuliwa katika sandboxi ya kusoma tu ya mwenzilishi, ikiwemo makosa unayotuma hapa.",
+  "badge.sandbox": "Sandboxi",
+  "badge.workspaceWriteHint": "Makosa yanachukuliwa katika sandboxi ya nafasi ya kazi ya mwenzilishi, ikiwemo makosa unayotuma hapa.",
   "cleanupFailed": "Terminal “{title}” haikuweza kufungwa: {message}",
   "closed": "Terminal imefungwa.",
   "connecting": "Inaunganisha…",

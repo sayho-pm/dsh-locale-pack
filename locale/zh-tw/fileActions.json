@@ -1,0 +1,14 @@
+{
+  "menu.copied": "已複製",
+  "menu.copyFailed": "無法複製。請確認內容可取得後再試一次。",
+  "menu.copyImage": "複製圖片",
+  "menu.download": "下載",
+  "menu.downloadStarted": "已開始下載",
+  "menu.downloaded": "下載完成",
+  "menu.finder": "在 Finder 中顯示",
+  "menu.reveal": "在資料夾中顯示",
+  "menu.saveAs": "另存為…",
+  "menu.saveFailed": "無法儲存。請檢查來源與目標位置後再試一次。",
+  "menu.saved": "已儲存",
+  "path.revealError": "無法顯示檔案位置。請再試一次。"
+}

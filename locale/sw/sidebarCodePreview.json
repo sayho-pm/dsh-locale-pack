@@ -1,5 +1,9 @@
 {
   "copied": "Imenakiliwa",
   "copy": "Nakili",
-  "title": "Msimbo"
+  "failed": "Hapana uwezo wa kuonyesha picha hii.",
+  "loading": "Tunachapisha dokumeni...",
+  "preview": "Miongozo wa picha: {name}",
+  "title": "Picha",
+  "unsupported": "Miongozo wa picha unahitaji maudhui yote ya faili."
 }

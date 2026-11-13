@@ -1,5 +1,9 @@
 {
   "attachmentEnded": "De Terminal-verbinding is beëindigd. Maak opnieuw verbinding om door te gaan.",
+  "badge.agent": "Agent",
+  "badge.readOnlyHint": "Commando's worden uitgevoerd in de alleen-lezen sandbox van de agent inclusief de commando's die u hier invoert.",
+  "badge.sandbox": "Sandbox",
+  "badge.workspaceWriteHint": "Commando's worden uitgevoerd in de sandbox van het werkgebied van de agent inclusief de commando's die u hier invoert.",
   "cleanupFailed": "Terminal “{title}” kon niet worden beëindigd: {message}",
   "closed": "Terminal gesloten.",
   "connecting": "Verbinden…",

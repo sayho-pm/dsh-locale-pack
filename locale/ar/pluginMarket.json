@@ -79,6 +79,8 @@
   "switchToAscending": "ترتيب تصاعدي",
   "switchToDescending": "ترتيب تنازلي",
   "title": "اكتشف",
+  "update": "تحديث",
+  "updateTitle": "تحديث {name} إلى {version}",
   "versionDefault": "الموصى به",
   "versionExempted": "معفاة",
   "versionIncompatible": "غير متوافق",

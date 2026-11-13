@@ -79,6 +79,8 @@
   "switchToAscending": "আরোহী ক্রমে সাজানো",
   "switchToDescending": "অবরোহী ক্রমে সাজানো",
   "title": "আবিষ্কার করুন",
+  "update": "আপডেট",
+  "updateTitle": "এই {name}-কে {version}-এ আপডেট করুন",
   "versionDefault": "সুপারিশকৃত",
   "versionExempted": "ছাড়প্রাপ্ত",
   "versionIncompatible": "সামঞ্জস্যহীন",

@@ -1,6 +1,11 @@
 {
   "code.copied": "Skopiowano",
   "code.copy": "Kopiuj",
+  "failed": "Nie udało się wyświetlić tego obrazu.",
   "footnotes": "Przypisy",
+  "loading": "Przetwarzanie dokumentu...",
+  "preview": "Przegląd obrazu: {name}",
+  "title": "Obraz",
+  "unsupported": "Przegląd obrazu wymaga całej zawartości pliku.",
   "viewer.label": "Markdown"
 }

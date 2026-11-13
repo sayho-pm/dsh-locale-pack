@@ -2,6 +2,8 @@
   "navigation.label": "নেভিগেশন",
   "panels.label": "গ্লোবাল প্যানেল",
   "panels.more": "আরও",
+  "panels.unpin": "সাইডবার থেকে {name} আনপিন করুন",
+  "panels.unpinTooltip": "বাম সাইডবার থেকে আনপিন করুন",
   "session.new": "নতুন সেশন",
   "session.new.label": "নতুন সেশন",
   "toggle.collapse": "সাইডবার সংকুচিত করুন",

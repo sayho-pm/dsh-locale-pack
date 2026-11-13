@@ -1,6 +1,11 @@
 {
   "code.copied": "Copiat",
   "code.copy": "Copiază",
+  "failed": "Nu a fost posibilă afișarea acestei imagini.",
   "footnotes": "Note de subsol",
+  "loading": "Renderizare a documentului...",
+  "preview": "Previsualizare a imaginii: {name}",
+  "title": "Imagine",
+  "unsupported": "Previsualizarea imaginii necesită conținutul complet al fișierului.",
   "viewer.label": "Markdown"
 }

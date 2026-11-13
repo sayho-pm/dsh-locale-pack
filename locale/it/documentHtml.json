@@ -1,6 +1,8 @@
 {
-  "failed": "Questo documento HTML non può essere visualizzato in anteprima.",
+  "failed": "Questa immagine non può essere visualizzata.",
   "frame": "Anteprima del documento HTML",
   "loading": "Visualizzazione del documento...",
-  "title": "HTML"
+  "preview": "Anteprima immagine: {name}",
+  "title": "Immagine",
+  "unsupported": "Lanteprima dellimmagine richiede i contenuti completi del file."
 }

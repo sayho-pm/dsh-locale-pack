@@ -2,6 +2,8 @@
   "navigation.label": "नेविगेशन",
   "panels.label": "वैश्विक पैनल",
   "panels.more": "अधिक",
+  "panels.unpin": "साइडबार से {name} को अनपिन करें",
+  "panels.unpinTooltip": "बाएँ साइडबार से अनपिन करें",
   "session.new": "नया सत्र",
   "session.new.label": "नया सत्र",
   "toggle.collapse": "साइडबार समेटें",

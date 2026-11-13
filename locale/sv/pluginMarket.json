@@ -79,6 +79,8 @@
   "switchToAscending": "Sortera i stigande ordning",
   "switchToDescending": "Sortera i fallande ordning",
   "title": "Upptäck",
+  "update": "Uppdatera",
+  "updateTitle": "Uppdatera {name} till {version}",
   "versionDefault": "Rekommenderad",
   "versionExempted": "Undantagen",
   "versionIncompatible": "Okompatibel",

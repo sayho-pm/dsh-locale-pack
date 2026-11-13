@@ -1,6 +1,8 @@
 {
-  "failed": "Dit HTML-document kon niet worden weergegeven.",
+  "failed": "Deze afbeelding kan niet worden weergegeven.",
   "frame": "HTML-documentvoorbeeld",
   "loading": "Document wordt gerenderd...",
-  "title": "HTML"
+  "preview": "Voorbeeld van afbeelding: {name}",
+  "title": "Afbeelding",
+  "unsupported": "Voor een afbeelding is de volledige inhoud van het bestand nodig."
 }

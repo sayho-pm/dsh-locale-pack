@@ -9,11 +9,15 @@
   "close": "Tì",
   "confirm.acknowledge": "Mo lóye àwọn ewu náà, mo sì fẹ́ láti tẹ̀síwájú",
   "confirm.cancel": "Kọ̀",
-  "confirm.description": "Ìwọlé kíkún dín ìjẹ́rìí kù, ó sì jẹ́ kí aṣojú ṣe ọ̀pọ̀lọpọ̀ nǹkan tààrà, títí kan iṣẹ́ tó lewu, àtúnṣe fáìlì, tàbí àwọn àṣẹ òde. Lo ó nìkán nígbà tí o bá gbẹ́kẹ̀lé iṣẹ́ lọ́wọ́lọ́wọ́.",
+  "confirm.description": "Ijọba kan ti o le ṣe awọn ọjọba mẹta ṣe awọn iṣẹlẹ tuntun lọwọlọwọ pẹlu awọn iṣẹlẹ tuntun ati awọn iṣẹlẹ tuntun ti o nira pẹlu awọn iṣẹlẹ tuntun ati awọn iṣẹlẹ tuntun ati awọn iṣẹlẹ tuntun. Ṣe aṣẹ rẹ tó kọ ṣe awọn iṣẹlẹ tuntun ti o nira.",
   "confirm.enable": "Mú Ìwọlé kíkún ṣiṣẹ́",
   "confirm.title": "Mú Ìwọlé kíkún ṣiṣẹ́?",
+  "description": "ọrọ ẹjọ lọ sí ọdún àwọn ọdún mẹta",
+  "loading": "ọdún òfin òfin òfin òfin òfin",
   "mode": "Ọ̀nà ìwọlé, lọ́wọ́lọ́wọ́: {name}",
   "preset.fullAccess": "Ìwọlé kíkún",
   "preset.readOnly": "Ka nìkán",
-  "preset.workspaceWrite": "Ààyè iṣẹ́ ìkọ̀wé"
+  "preset.workspaceWrite": "Ààyè iṣẹ́ ìkọ̀wé",
+  "title": "ilẹṣẹ ibaraẹnisọrọ",
+  "unavailable": "permission.access.unavailable"
 }

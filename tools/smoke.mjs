@@ -45,8 +45,12 @@ const locale = {
     }
     return () => {};
   },
+  // 영어로 떨어지는 것을 확인하려면, 팩이 실제로 싣는 언어를 먼저 보면 안 된다.
+  // 그 언어는 키를 제대로 갖고 있어서 값을 영문 대신 자기 번역으로 돌려주기 때문이다
+  // (실제로 ja를 뺀 뒤 ko/common.ok='확인'이 잡혀 이 검사가 떨어졌다).
+  // 팩이 절대 싣지 않는 가짜 언어를 먼저 보고, 없으면 영어를 쓴다.
   bind: (ns) => (key, params) => {
-    for (const l of ['ja', 'ko', 'en']) {
+    for (const l of ['__probe__', 'en']) {
       const v = dicts.get(ns)?.get(l)?.[key];
       if (v !== undefined) return params ? v.replace(/\{(\w+)\}/g, (mm, n) => (n in params ? String(params[n]) : mm)) : v;
     }

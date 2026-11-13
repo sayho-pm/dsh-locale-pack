@@ -1,6 +1,11 @@
 {
-  "code.copied": "복사됨",
-  "code.copy": "복사",
-  "footnotes": "각주",
-  "viewer.label": "Markdown"
+ "code.copied": "복사됨",
+ "code.copy": "복사",
+ "failed": "이 이미지를 표시할 수 없습니다.",
+ "footnotes": "각주",
+ "loading": "문서 렌더링 중...",
+ "preview": "이미지 미리보기: {name}",
+ "title": "이미지",
+ "unsupported": "이미지 미리보기를 위해서는 파일의 전체 내용이 필요합니다.",
+ "viewer.label": "Markdown"
 }

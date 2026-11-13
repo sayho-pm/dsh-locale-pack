@@ -91,7 +91,13 @@ def translate_one(lang: str, ns: str, key: str, source: str) -> str | None:
     prompt = f"{ns}.{key}\n{source}"
     for attempt in range(3):
         try:
-            text = clean(call(prompt, system))
+            raw = call(prompt, system)
+            # 모델이 프롬프트 첫 줄(네임스페이스.키)을 그대로 되돌리는 일이 있다.
+            # 이 줄이 그대로 값이 되면 플레이스홀더 검사에서 전건 떨어진다(실측 9키 전부).
+            lines = raw.strip().split("\n")
+            if lines and lines[0].strip() in (f"{ns}.{key}", key):
+                raw = "\n".join(lines[1:])
+            text = clean(raw)
         except Exception as exc:  # network hiccup or model restart
             print(f"    ! {ns}.{key} 호출 실패({exc}) — 재시도")
             time.sleep(3)

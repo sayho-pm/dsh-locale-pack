@@ -9,11 +9,15 @@
   "close": "Sluiten",
   "confirm.acknowledge": "Ik begrijp de risico's en wil doorgaan",
   "confirm.cancel": "Annuleren",
-  "confirm.description": "Volledige toegang vermindert het aantal bevestigingsstappen en laat de agent meer acties direct uitvoeren, waaronder gevoelige bewerkingen, bestandswijzigingen of externe opdrachten. Gebruik dit alleen als je de huidige taak vertrouwt.",
+  "confirm.description": "Volledige toegang stelt nieuwe sessies in staat om bevestigingsstappen te verminderen en direct meer acties uit te voeren inclusief gevoelige operaties bestandswijzigingen of externe commando's. Gebruik het alleen wanneer u de volgende taken vertrouwt.",
   "confirm.enable": "Volledige toegang inschakelen",
   "confirm.title": "Volledige toegang inschakelen?",
+  "description": "Kies het standaard toestemmingsmodel voor nieuwe sessies",
+  "loading": "Laden",
   "mode": "Toegangsmodus, huidige: {name}",
   "preset.fullAccess": "Volledige toegang",
   "preset.readOnly": "Alleen lezen",
-  "preset.workspaceWrite": "Werkruimte schrijven"
+  "preset.workspaceWrite": "Werkruimte schrijven",
+  "title": "Toestemming",
+  "unavailable": "Niet beschikbaar"
 }

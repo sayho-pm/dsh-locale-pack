@@ -2,6 +2,8 @@
   "navigation.label": "Gezinme",
   "panels.label": "Genel paneller",
   "panels.more": "Daha Fazla",
+  "panels.unpin": "{name} i kenar çubuğundan çıkar",
+  "panels.unpinTooltip": "Sol kenar çubuğundan çıkar",
   "session.new": "Yeni Oturum",
   "session.new.label": "Yeni oturum",
   "toggle.collapse": "Kenar çubuğunu daralt",

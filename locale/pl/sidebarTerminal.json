@@ -1,5 +1,9 @@
 {
   "attachmentEnded": "Połączenie z Terminal zostało zakończone. Połącz ponownie, aby kontynuować.",
+  "badge.agent": "Agent",
+  "badge.readOnlyHint": "Polecenia są wykonywane w jedynie do odczytu sandboxie agenta włączając polecenia które wpisujesz tutaj.",
+  "badge.sandbox": "Sandbox",
+  "badge.workspaceWriteHint": "Polecenia są wykonywane w sandboxie przestrzeni roboczej agenta włączając polecenia które wpisujesz tutaj.",
   "cleanupFailed": "Terminal “{title}” nie został zakończony: {message}",
   "closed": "Terminal zamknięty.",
   "connecting": "Łączenie…",

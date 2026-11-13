@@ -1,5 +1,9 @@
 {
   "attachmentEnded": "З'єднання Terminal завершено. Перепідключіться, щоб продовжити.",
+  "badge.agent": "агент",
+  "badge.readOnlyHint": "sidebarTerminal.badge.readOnlyHint",
+  "badge.sandbox": "sidebarTerminal.badge.sandbox",
+  "badge.workspaceWriteHint": "sidebarTerminal.badge.workspaceWriteHint",
   "cleanupFailed": "Terminal “{title}” не вдалося завершити: {message}",
   "closed": "Terminal закрито.",
   "connecting": "Підключення…",

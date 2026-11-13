@@ -1,5 +1,9 @@
 {
   "attachmentEnded": "Terminal 連線已結束。重新連線以繼續。",
+  "badge.agent": "代理人",
+  "badge.readOnlyHint": "指令會在代理人的唯讀沙箱環境中執行，包括您在此處輸入的指令。",
+  "badge.sandbox": "沙箱環境",
+  "badge.workspaceWriteHint": "指令會在代理人的工作區沙箱環境中執行，包括您在此處輸入的指令。",
   "cleanupFailed": "Terminal “{title}” 無法結束：{message}",
   "closed": "Terminal 已關閉。",
   "connecting": "正在連接…",

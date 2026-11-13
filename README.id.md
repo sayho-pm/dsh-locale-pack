@@ -2,9 +2,9 @@
 
 <p align="right"><strong>English</strong> | <a href="README.ko.md">한국어</a> | <a href="README.zh-TW.md">繁體中文</a> | <a href="README.id.md">Bahasa Indonesia</a> | <a href="README.vi.md">Tiếng Việt</a> | <a href="README.tr.md">Türkçe</a></p>
 
-<p align="center"><img src="docs/pack-overview.png" alt="dsh-locale-pack overview: 29 language dictionaries, 116,467 translated entries, DeepSeek Harness 0.2.2-rc.1, the supported languages, and the git clone install command" width="100%"></p>
+<p align="center"><img src="docs/pack-overview.png" alt="dsh-locale-pack overview: 23 language dictionaries, 102,767 translated entries, DeepSeek Harness 0.2.2-rc.2, the supported languages, and the git clone install command" width="100%"></p>
 
-Paket lokal untuk DeepSeek Harness, yang mencakup aplikasi desktop dan edisi browser. Paket ini mendaftarkan 29 kamus di pemilih bahasa: 23 bahasa yang belum disediakan DeepSeek Harness, ditambah kamus baru untuk 6 dari 8 bahasa resminya (Jepang, Spanyol, Prancis, Jerman, Rusia, Portugis). String yang belum diterjemahkan akan kembali ke bahasa Inggris, sehingga tampilan tetap terbaca selagi cakupan bertambah. Bersama bahasa Inggris dan Mandarin Sederhana bawaan, ada 31 bahasa yang dapat dipilih setelah pemasangan. Paket ini selalu diperbarui agar sesuai dengan rilis DeepSeek Harness terbaru. Paket ini juga terdaftar di [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness), indeks komunitas plugin dan alat DSH.
+Paket lokal untuk DeepSeek Harness, yang mencakup aplikasi desktop dan edisi browser. Paket ini mendaftarkan 23 kamus di pemilih bahasa, satu untuk setiap bahasa yang belum disediakan DeepSeek Harness. String yang belum diterjemahkan akan kembali ke bahasa Inggris, sehingga tampilan tetap terbaca selagi cakupan bertambah. Bersama bahasa Inggris dan Mandarin Sederhana bawaan, ada 25 bahasa yang dapat dipilih setelah pemasangan. Paket ini selalu diperbarui agar sesuai dengan rilis DeepSeek Harness terbaru. Paket ini juga terdaftar di [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness), indeks komunitas plug-in dan alat DSH.
 
 ## Mengapa ini ada
 
@@ -19,22 +19,19 @@ DeepSeek Harness awalnya hanya menyertakan bahasa Inggris dan Mandarin Sederhana
 | Language | Code | Language | Code |
 |---|---|---|---|
 | 한국어 | `ko` | Polski | `pl` |
-| 日本語 | `ja` | Русский | `ru` |
 | 繁體中文 (台灣) | `zh-tw` | Українська | `uk` |
 | 繁體中文 (香港) | `zh-hk` | Svenska | `sv` |
-| Deutsch | `de` | Türkçe | `tr` |
-| Français | `fr` | Bahasa Indonesia | `id` |
-| Español | `es` | Tiếng Việt | `vi` |
-| Português (Brasil) | `pt-br` | ไทย | `th` |
-| Italiano | `it` | हिन्दी | `hi` |
-| Nederlands | `nl` | العربية | `ar` |
-| Filipino | `tl` | Română | `ro` |
-| বাংলা | `bn` | اردو | `ur` |
-| עברית | `he` | فارسی | `fa` |
-| Português (Portugal) | `pt` | Kiswahili | `sw` |
-| Yorùbá | `yo` | | |
+| Türkçe | `tr` | Bahasa Indonesia | `id` |
+| Tiếng Việt | `vi` | Português (Brasil) | `pt-br` |
+| ไทย | `th` | Italiano | `it` |
+| हिन्दी | `hi` | Nederlands | `nl` |
+| العربية | `ar` | Filipino | `tl` |
+| Română | `ro` | বাংলা | `bn` |
+| اردو | `ur` | עברית | `he` |
+| فارسی | `fa` | Kiswahili | `sw` |
+| Yorùbá | `yo` |  |  |
 
-29 bahasa, 4,016 kunci masing-masing — 116,467 entri terjemahan secara keseluruhan. Kamus diperbarui setiap kali DeepSeek Harness merilis versi baru, dan saat ini mencakup rilis terbaru, `0.2.2-rc.1`.
+23 bahasa, 4,468 kunci masing-masing — 102,767 entri terjemahan secara keseluruhan. Kamus diperbarui setiap kali DeepSeek Harness merilis versi baru; saat ini mengikuti `0.2.2-rc.2`.
 
 ## Instal
 
@@ -142,6 +139,6 @@ Pengelola yang menjalankan alur terjemahan dapat menemukan perintahnya di [MAINT
 
 MIT
 
-<!-- fakta-paket: versi=0.8.0 dsh=0.2.2-rc.1 bahasa=29 kunci=4,016 entri=116,467 bundel="8.3 MB" -->
+<!-- fakta-paket: versi=0.8.0 dsh=0.2.2-rc.2 bahasa=29 kunci=4,016 entri=116,467 bundel="8.3 MB" -->
 
-<!-- pack-facts: version=0.8.0 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->
+<!-- pack-facts: version=0.9.0 dsh=0.2.2-rc.2 languages=23 keys=4,468 entries=102,767 bundle="7.4 MB" -->

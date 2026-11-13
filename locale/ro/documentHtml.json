@@ -1,6 +1,8 @@
 {
-  "failed": "Acest document HTML nu a putut fi previzualizat.",
+  "failed": "Această imagine nu a putut fi afișată.",
   "frame": "Previzualizare document HTML",
   "loading": "Se randează documentul...",
-  "title": "HTML"
+  "preview": "Previsualizare a imaginii: {name}",
+  "title": "Imagine",
+  "unsupported": "Previsualizarea imaginii necesită conținutul complet al fișierului."
 }

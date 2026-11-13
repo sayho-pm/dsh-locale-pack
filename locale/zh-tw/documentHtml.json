@@ -1,6 +1,8 @@
 {
-  "failed": "無法預覽此 HTML 文件。",
+  "failed": "無法顯示此圖片。",
   "frame": "HTML 文件預覽",
   "loading": "正在渲染文件...",
-  "title": "HTML"
+  "preview": "圖片預覽：{name}",
+  "title": "圖片",
+  "unsupported": "\"圖片預覽需要完整的檔案內容。」"
 }

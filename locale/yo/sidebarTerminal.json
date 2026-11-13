@@ -1,5 +1,9 @@
 {
   "attachmentEnded": "Ìsopọ̀ Terminal ti kúrò. Tún sopọ̀ láti tẹ̀síwájú.",
+  "badge.agent": "Òkùnrin",
+  "badge.readOnlyHint": "Àwọn ọjọ́ ò tún ṣe lọ sí ìlú-ìjọba òkùnrin, bao gồn àwọn ọjọ́ tí ó tún ṣe lọ sí àwọn ìjọba tí ó tún ṣe lọ sí wá.",
+  "badge.sandbox": "Ìlú-ìjọba",
+  "badge.workspaceWriteHint": "Àwọn ọjọ́ ò tún ṣe lọ sí ìlú-ìjọba ọjọ́-ọjọ́ òkùnrin, bao gồn àwọn ọjọ́ tí ó tún ṣe lọ sí àwọn ìjọba tí ó tún ṣe lọ sí wá.",
   "cleanupFailed": "Terminal “{title}” kò lè párí: {message}",
   "closed": "Terminal tì sé.",
   "connecting": "Ń sọpọ̀…",

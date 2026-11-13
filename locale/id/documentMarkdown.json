@@ -1,6 +1,11 @@
 {
   "code.copied": "Disalin",
   "code.copy": "Salin",
+  "failed": "Gambar ini tidak dapat ditampilkan.",
   "footnotes": "Catatan kaki",
+  "loading": "Mengolah dokumen...",
+  "preview": "Pratinjau gambar: {name}",
+  "title": "Gambar",
+  "unsupported": "Pratinjau gambar memerlukan isi file yang lengkap.",
   "viewer.label": "Markdown"
 }

@@ -1,6 +1,8 @@
 {
-  "failed": "Bu HTML belgesi önizlenemedi.",
+  "failed": "Bu görüntü gösterilemedi.",
   "frame": "HTML belge önizlemesi",
   "loading": "Belge oluşturuluyor...",
-  "title": "HTML"
+  "preview": "Görüntü önizlemesi: {name}",
+  "title": "Görüntü",
+  "unsupported": "Görüntü önizlemesi için dosyanın tam içeriği gereklidir."
 }

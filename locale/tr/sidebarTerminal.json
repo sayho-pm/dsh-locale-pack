@@ -1,5 +1,9 @@
 {
   "attachmentEnded": "Terminal bağlantısı sona erdi. Devam etmek için yeniden bağlanın.",
+  "badge.agent": "Ajan",
+  "badge.readOnlyHint": "Komutlar ajanın okunamaz Sandbox ortamında çalışır burada yazdığınız komutlar da dahildir.",
+  "badge.sandbox": "Sandbox",
+  "badge.workspaceWriteHint": "Komutlar ajanın çalışma alanı Sandbox ortamında çalışır burada yazdığınız komutlar da dahildir.",
   "cleanupFailed": "Terminal “{title}” sonlandırılamadı: {message}",
   "closed": "Terminal kapatıldı.",
   "connecting": "Bağlanıyor…",

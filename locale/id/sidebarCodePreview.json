@@ -1,5 +1,9 @@
 {
   "copied": "Disalin",
   "copy": "Salin",
-  "title": "Kode"
+  "failed": "Gambar ini tidak dapat ditampilkan.",
+  "loading": "Memproses dokumen...",
+  "preview": "Pratinjau gambar: {name}",
+  "title": "Gambar",
+  "unsupported": "Pratinjau gambar memerlukan isi file yang lengkap."
 }

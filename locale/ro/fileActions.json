@@ -1,0 +1,14 @@
+{
+  "menu.copied": "A fost copiat",
+  "menu.copyFailed": "Nu a fost posibil să se copieze. Verifică dacă conținutul este disponibil, apoi încerca din nou.",
+  "menu.copyImage": "Copiează imaginea",
+  "menu.download": "Descarcă",
+  "menu.downloadStarted": "Descărcarea a început",
+  "menu.downloaded": "Descărcarea a fost finalizată",
+  "menu.finder": "Afișa în Finder",
+  "menu.reveal": "Afișa în folder",
+  "menu.saveAs": "Salvează ca…",
+  "menu.saveFailed": "Nu a fost posibil să se salveze. Verifica sursa și destinația, apoi încerca din nou.",
+  "menu.saved": "A fost salvat",
+  "path.revealError": "Nu a fost posibil să se afișeze locația fișierului. Încerca din nou."
+}

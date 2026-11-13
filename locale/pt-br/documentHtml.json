@@ -1,6 +1,8 @@
 {
-  "failed": "Não foi possível pré-visualizar este documento HTML.",
+  "failed": "Esta imagem não pôde ser exibida.",
   "frame": "Pré-visualização de documento HTML",
   "loading": "Renderizando documento...",
-  "title": "HTML"
+  "preview": "Prévia da imagem: {name}",
+  "title": "Imagem",
+  "unsupported": "A prévia da imagem requer o conteúdo completo do arquivo."
 }

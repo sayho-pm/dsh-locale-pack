@@ -1,5 +1,9 @@
 {
   "attachmentEnded": "اتصال Terminal پایان یافت. برای ادامه دوباره متصل شوید.",
+  "badge.agent": "عامل",
+  "badge.readOnlyHint": "دستورات در ساندبکس تنها‌خواندنی عامل اجرا می‌شوند، از جمله دستوراتی که شما اینجا تایپ می‌کنید.",
+  "badge.sandbox": "ساندبکس",
+  "badge.workspaceWriteHint": "دستورات در ساندبکس فضای کاری عامل اجرا می‌شوند، از جمله دستوراتی که شما اینجا تایپ می‌کنید.",
   "cleanupFailed": "Terminal “{title}” خاتمه نیافت: {message}",
   "closed": "Terminal بسته شد.",
   "connecting": "در حال اتصال…",

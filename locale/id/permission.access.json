@@ -9,11 +9,15 @@
   "close": "Tutup",
   "confirm.acknowledge": "Saya memahami risikonya dan ingin melanjutkan",
   "confirm.cancel": "Batal",
-  "confirm.description": "Akses penuh mengurangi langkah konfirmasi dan memungkinkan agen melakukan lebih banyak tindakan secara langsung, termasuk operasi sensitif, perubahan file, atau perintah eksternal. Gunakan hanya jika Anda memercayai tugas saat ini.",
+  "confirm.description": "Akses penuh memungkinkan sesi baru mengurangi langkah konfirmasi dan melakukan lebih banyak tindakan langsung termasuk operasi sensitif perubahan file atau perintah eksternal. Gunakan hanya ketika Anda mempercayai tugas-tugas selanjutnya.",
   "confirm.enable": "Aktifkan Akses penuh",
   "confirm.title": "Aktifkan Akses penuh?",
+  "description": "Pilih mode izin default untuk sesi baru",
+  "loading": "Memuat",
   "mode": "Mode akses, saat ini: {name}",
   "preset.fullAccess": "Akses penuh",
   "preset.readOnly": "Hanya Baca",
-  "preset.workspaceWrite": "Tulis Ruang Kerja"
+  "preset.workspaceWrite": "Tulis Ruang Kerja",
+  "title": "Izin",
+  "unavailable": "Tidak tersedia"
 }

@@ -3,5 +3,7 @@
   "createPrompt.conversation": "Crea un plugin per la visualizzazione delle conversazioni DSH.",
   "createPrompt.rightbar": "Crea un plugin DSH con un elemento nella barra laterale destra.",
   "createPrompt.sidebar": "Crea un plugin DSH con un elemento nella barra laterale sinistra.",
-  "install": "Esplora altri plugin"
+  "install": "Esplora altri plugin",
+  "pin": "Fissare {name} nella barra laterale",
+  "pinTooltip": "Fissare nella barra laterale sinistra"
 }

@@ -1,5 +1,9 @@
 {
   "attachmentEnded": "انتهى اتصال Terminal. أعد الاتصال للمتابعة.",
+  "badge.agent": "عامل",
+  "badge.readOnlyHint": "تُنفذ الأوامر في صندوق الاختبار ذو القراءة فقط الخاص بالعامل، بما في ذلك الأوامر التي تكتبها هنا.",
+  "badge.sandbox": "صندوق اختبار",
+  "badge.workspaceWriteHint": "تُنفذ الأوامر في صندوق الاختبار الخاص بمساحة العمل الخاصة بالعامل، بما في ذلك الأوامر التي تكتبها هنا.",
   "cleanupFailed": "تعذر إنهاء Terminal “{title}”: {message}",
   "closed": "تم إغلاق Terminal.",
   "connecting": "جار الاتصال…",

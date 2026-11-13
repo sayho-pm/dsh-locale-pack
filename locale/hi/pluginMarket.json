@@ -79,6 +79,8 @@
   "switchToAscending": "आरोही क्रम में क्रमबद्ध करें",
   "switchToDescending": "अवरोही क्रम में क्रमबद्ध करें",
   "title": "खोजें",
+  "update": "अपडेट करें",
+  "updateTitle": "इस {name} को {version} में अपडेट करें",
   "versionDefault": "अनुशंसित",
   "versionExempted": "छूट प्राप्त",
   "versionIncompatible": "संगत नहीं",

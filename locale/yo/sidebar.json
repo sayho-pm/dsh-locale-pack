@@ -2,6 +2,8 @@
   "navigation.label": "Ìtọ́nà",
   "panels.label": "Àwọ̀n pánẹ́lì àgbáyé",
   "panels.more": "Àfìkún",
+  "panels.unpin": "E kọ ọdún {name} àti àwọn ìlú láti àwọn ìlú òfin òkè",
+  "panels.unpinTooltip": "E kọ ọdún àti àwọn ìlú láti àwọn ìlú òfin òkè",
   "session.new": "Ìpàdé Túntún",
   "session.new.label": "Ìpàdé túntún",
   "toggle.collapse": "Tẹ̀ ọ̀pá ẹ̀gbẹ́",

@@ -1,0 +1,14 @@
+{
+  "menu.copied": "Kopierades",
+  "menu.copyFailed": "Kunde inte kopiera. Kontrollera att innehållet är tillgängligt och försök igen.",
+  "menu.copyImage": "Kopiera bild",
+  "menu.download": "Ladda ner",
+  "menu.downloadStarted": "Laddning påbörjades",
+  "menu.downloaded": "Laddning slutförd",
+  "menu.finder": "Visa i Finder",
+  "menu.reveal": "Visa i mapp",
+  "menu.saveAs": "Spara som…",
+  "menu.saveFailed": "Kunde inte spara. Kontrollera källan och målet och försök igen.",
+  "menu.saved": "Sparades",
+  "path.revealError": "Kunde inte visa filens plats. Försök igen."
+}

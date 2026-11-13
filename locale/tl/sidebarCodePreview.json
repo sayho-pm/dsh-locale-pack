@@ -1,5 +1,9 @@
 {
   "copied": "Nakopya",
   "copy": "Kopyahin",
-  "title": "Kodigo"
+  "failed": "Hindi maaaring ipakita ang larawang ito.",
+  "loading": "Ipinoproseso ang dokumento...",
+  "preview": "Preview ng larawan: {name}",
+  "title": "Larawan",
+  "unsupported": "Kailangan ang buong nilalaman ng file para sa preview ng larawan."
 }

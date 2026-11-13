@@ -1,5 +1,9 @@
 {
   "attachmentEnded": "החיבור של Terminal הסתיים. התחבר מחדש כדי להמשיך.",
+  "badge.agent": "סוכן",
+  "badge.readOnlyHint": "הפקודות מבוצעות בסנדבוקס רק לקריאה של הסוכן, כולל הפקודות שאתם כותבים כאן.",
+  "badge.sandbox": "סנדבוקס",
+  "badge.workspaceWriteHint": "הפקודות מבוצעות בסנדבוקס של מרחב העבודה של הסוכן, כולל הפקודות שאתם כותבים כאן.",
   "cleanupFailed": "לא ניתן לסיים את Terminal “{title}”: {message}",
   "closed": "Terminal נסגר.",
   "connecting": "מתחבר…",

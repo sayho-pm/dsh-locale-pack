@@ -79,6 +79,8 @@
   "switchToAscending": "Sắp xếp theo thứ tự tăng dần",
   "switchToDescending": "Sắp xếp theo thứ tự giảm dần",
   "title": "Khám phá",
+  "update": "Cập nhật",
+  "updateTitle": "Cập nhật {name} lên {version}",
   "versionDefault": "Được khuyến nghị",
   "versionExempted": "Được miễn trừ",
   "versionIncompatible": "Không tương thích",

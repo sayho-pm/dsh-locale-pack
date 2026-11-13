@@ -9,11 +9,15 @@
   "close": "Zamknij",
   "confirm.acknowledge": "Rozumiem ryzyko i chcę kontynuować",
   "confirm.cancel": "Anuluj",
-  "confirm.description": "Pełny dostęp ogranicza liczbę potwierdzeń i pozwala agentowi wykonywać więcej działań bezpośrednio, w tym operacje wrażliwe, zmiany plików lub polecenia zewnętrzne. Używaj go tylko wtedy, gdy ufasz bieżącemu zadaniu.",
+  "confirm.description": "Pełny dostęp pozwala nowym sesjom skrócić kroki potwierdzania i wykonywać więcej działań bezpośrednio włączając w to operacje wrażliwe zmiany plików lub polecenia zewnętrzne. Używaj go tylko wtedy gdy ufasz kolejnym zadaniom.",
   "confirm.enable": "Włącz Pełny dostęp",
   "confirm.title": "Włączyć Pełny dostęp?",
+  "description": "Wybierz domyślny tryb praw dostępu dla nowych sesji",
+  "loading": "Ładowanie",
   "mode": "Tryb dostępu, bieżący: {name}",
   "preset.fullAccess": "Pełny dostęp",
   "preset.readOnly": "Tylko do odczytu",
-  "preset.workspaceWrite": "Zapis obszaru roboczego"
+  "preset.workspaceWrite": "Zapis obszaru roboczego",
+  "title": "Prawa dostępu",
+  "unavailable": "Niedostępne"
 }

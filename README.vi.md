@@ -2,9 +2,9 @@
 
 <p align="right"><a href="README.md">English</a> | <a href="README.ko.md">한국어</a> | <a href="README.zh-TW.md">繁體中文</a> | <a href="README.id.md">Bahasa Indonesia</a> | <strong>Tiếng Việt</strong> | <a href="README.tr.md">Türkçe</a></p>
 
-<p align="center"><img src="docs/pack-overview.png" alt="dsh-locale-pack overview: 29 language dictionaries, 116,467 translated entries, DeepSeek Harness 0.2.2-rc.1, the supported languages, and the git clone install command" width="100%"></p>
+<p align="center"><img src="docs/pack-overview.png" alt="dsh-locale-pack overview: 23 language dictionaries, 102,767 translated entries, DeepSeek Harness 0.2.2-rc.2, the supported languages, and the git clone install command" width="100%"></p>
 
-Gói ngôn ngữ cho DeepSeek Harness, bao gồm cả ứng dụng máy tính và phiên bản trình duyệt. Nó đăng ký 29 từ điển trong trình chọn ngôn ngữ: 23 ngôn ngữ mà DeepSeek Harness chưa cung cấp, cùng từ điển mới cho 6 trong 8 ngôn ngữ chính thức (Nhật, Tây Ban Nha, Pháp, Đức, Nga, Bồ Đào Nha). Các chuỗi chưa được dịch sẽ dùng tiếng Anh, vì vậy màn hình vẫn dễ đọc trong khi độ phủ bản dịch tiếp tục tăng. Cùng với tiếng Anh và tiếng Trung Giản thể có sẵn, sau khi cài đặt có 31 ngôn ngữ để chọn. Gói này luôn được cập nhật theo bản phát hành DeepSeek Harness mới nhất. Nó cũng được liệt kê trong [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness), chỉ mục cộng đồng gồm các plugin và công cụ DSH.
+Gói ngôn ngữ cho DeepSeek Harness, bao gồm cả ứng dụng máy tính và phiên bản trình duyệt. Nó đăng ký 23 từ điển trong trình chọn ngôn ngữ, mỗi từ điển cho một ngôn ngữ mà DeepSeek Harness chưa cung cấp. Các chuỗi chưa được dịch sẽ dùng tiếng Anh, vì vậy màn hình vẫn dễ đọc trong khi độ phủ bản dịch tiếp tục tăng. Cùng với tiếng Anh và tiếng Trung Giản thể có sẵn, sau khi cài đặt có 25 ngôn ngữ để chọn. Gói này luôn được cập nhật theo bản phát hành DeepSeek Harness mới nhất. Nó cũng được liệt kê trong [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness), chỉ mục cộng đồng gồm các plug-in và công cụ DSH.
 
 ## Tại sao điều này tồn tại
 
@@ -19,22 +19,19 @@ DeepSeek Harness ban đầu chỉ có tiếng Anh và tiếng Trung Giản thể
 | Language | Code | Language | Code |
 |---|---|---|---|
 | 한국어 | `ko` | Polski | `pl` |
-| 日本語 | `ja` | Русский | `ru` |
 | 繁體中文 (台灣) | `zh-tw` | Українська | `uk` |
 | 繁體中文 (香港) | `zh-hk` | Svenska | `sv` |
-| Deutsch | `de` | Türkçe | `tr` |
-| Français | `fr` | Bahasa Indonesia | `id` |
-| Español | `es` | Tiếng Việt | `vi` |
-| Português (Brasil) | `pt-br` | ไทย | `th` |
-| Italiano | `it` | हिन्दी | `hi` |
-| Nederlands | `nl` | العربية | `ar` |
-| Filipino | `tl` | Română | `ro` |
-| বাংলা | `bn` | اردو | `ur` |
-| עברית | `he` | فارسی | `fa` |
-| Português (Portugal) | `pt` | Kiswahili | `sw` |
-| Yorùbá | `yo` | | |
+| Türkçe | `tr` | Bahasa Indonesia | `id` |
+| Tiếng Việt | `vi` | Português (Brasil) | `pt-br` |
+| ไทย | `th` | Italiano | `it` |
+| हिन्दी | `hi` | Nederlands | `nl` |
+| العربية | `ar` | Filipino | `tl` |
+| Română | `ro` | বাংলা | `bn` |
+| اردو | `ur` | עברית | `he` |
+| فارسی | `fa` | Kiswahili | `sw` |
+| Yorùbá | `yo` |  |  |
 
-29 ngôn ngữ, 4,016 khóa mỗi ngôn ngữ — 116,467 mục đã dịch tổng cộng. Các từ điển được làm mới mỗi khi DeepSeek Harness phát hành phiên bản mới, và hiện bao gồm bản phát hành mới nhất, `0.2.2-rc.1`.
+23 ngôn ngữ, 4,468 khóa mỗi ngôn ngữ — 102,767 mục đã dịch tổng cộng. Các từ điển được làm mới mỗi khi DeepSeek Harness phát hành bản mới; hiện theo sát `0.2.2-rc.2`.
 
 ## Cài đặt
 
@@ -142,4 +139,4 @@ Người bảo trì chạy quy trình dịch có thể xem lệnh trong [MAINTAI
 
 MIT
 
-<!-- pack-facts: version=0.8.0 dsh=0.2.2-rc.1 languages=29 keys=4,016 entries=116,467 bundle="8.3 MB" -->
+<!-- pack-facts: version=0.9.0 dsh=0.2.2-rc.2 languages=23 keys=4,468 entries=102,767 bundle="7.4 MB" -->

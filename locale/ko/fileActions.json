@@ -1,0 +1,14 @@
+{
+ "menu.copied": "복사됨",
+ "menu.copyFailed": "복사에 실패했습니다. 내용이 사용 가능한지 확인한 후 다시 시도해 주세요.",
+ "menu.copyImage": "이미지 복사",
+ "menu.download": "다운로드",
+ "menu.downloadStarted": "다운로드가 시작되었습니다",
+ "menu.downloaded": "다운로드가 완료되었습니다",
+ "menu.finder": "Finder에 표시",
+ "menu.reveal": "폴더에 표시",
+ "menu.saveAs": "다른 이름으로 저장…",
+ "menu.saveFailed": "저장하지 못했습니다. 원본과 저장 위치를 확인한 후 다시 시도해 주십시오.",
+ "menu.saved": "저장됨",
+ "path.revealError": "파일 위치를 표시할 수 없습니다. 다시 시도해 주세요."
+}

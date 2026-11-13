@@ -1,0 +1,5 @@
+{
+  "approve": "Permettere per questa sessione",
+  "detail": "Gestire i permessi dell'app per tutte le sessioni sulla pagina del plugin.",
+  "question": "Permettere all'agente di controllare questa applicazione tramite l'uso del computer?"
+}

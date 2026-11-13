@@ -9,11 +9,15 @@
   "close": "Đóng",
   "confirm.acknowledge": "Tôi hiểu các rủi ro và muốn tiếp tục",
   "confirm.cancel": "Hủy",
-  "confirm.description": "Truy cập đầy đủ giúp giảm các bước xác nhận và cho phép tác nhân thực hiện trực tiếp nhiều hành động hơn, bao gồm các thao tác nhạy cảm, thay đổi tệp hoặc lệnh bên ngoài. Chỉ sử dụng khi bạn tin tưởng tác vụ hiện tại.",
+  "confirm.description": "Quyền truy cập đầy đủ cho phép các phiên mới giảm bớt các bước xác nhận và thực hiện nhiều thao tác trực tiếp hơn bao gồm các thao tác nhạy cảm thay đổi tệp hoặc các lệnh bên ngoài. Chỉ nên sử dụng nó khi bạn tin tưởng vào các tác vụ tiếp theo.",
   "confirm.enable": "Bật Truy cập đầy đủ",
   "confirm.title": "Bật Truy cập đầy đủ?",
+  "description": "Chọn chế độ quyền riêng tư mặc định cho các phiên mới",
+  "loading": "Đang tải",
   "mode": "Chế độ truy cập, hiện tại: {name}",
   "preset.fullAccess": "Truy cập đầy đủ",
   "preset.readOnly": "Chỉ đọc",
-  "preset.workspaceWrite": "Ghi vào không gian làm việc"
+  "preset.workspaceWrite": "Ghi vào không gian làm việc",
+  "title": "Quyền riêng tư",
+  "unavailable": "Không sẵn có"
 }

@@ -2,6 +2,8 @@
   "navigation.label": "Pag-navigate",
   "panels.label": "Mga pandaigdigang panel",
   "panels.more": "Higit pa",
+  "panels.unpin": "Alisin ang pagkakapin sa {name} mula sa sidebar",
+  "panels.unpinTooltip": "Alisin ang pagkakapin sa kaliwang sidebar",
   "session.new": "Bagong Sesyon",
   "session.new.label": "Bagong sesyon",
   "toggle.collapse": "Itiklop ang sidebar",

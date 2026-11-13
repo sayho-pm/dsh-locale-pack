@@ -1,5 +1,9 @@
 {
   "attachmentEnded": "Natapos ang koneksyon ng Terminal. Muling kumonekta upang magpatuloy.",
+  "badge.agent": "Ahente",
+  "badge.readOnlyHint": "Ang mga utos ay tumatakbo sa read-only sandbox ng ahente, kabilang ang mga utos na iyong isinusulat dito.",
+  "badge.sandbox": "Sandbox",
+  "badge.workspaceWriteHint": "Ang mga utos ay tumatakbo sa workspace sandbox ng ahente, kabilang ang mga utos na iyong isinusulat dito.",
   "cleanupFailed": "Hindi matapos ang Terminal “{title}”: {message}",
   "closed": "Nakasara ang Terminal.",
   "connecting": "Kumokonekta…",

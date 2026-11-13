@@ -1,0 +1,14 @@
+{
+  "menu.copied": "נשלח",
+  "menu.copyFailed": "לא ניתן להעתיק. בדקו שהתוכן זמין ונסו שוב.",
+  "menu.copyImage": "העתק תמונה",
+  "menu.download": "הורד",
+  "menu.downloadStarted": "ההורדה החלה",
+  "menu.downloaded": "ההורדה הסתיימה",
+  "menu.finder": "הצג ב Finder",
+  "menu.reveal": "הצג בתיקייה",
+  "menu.saveAs": "שמור כ…",
+  "menu.saveFailed": "לא ניתן לשמור. בדקו את המקור ואת היעד ונסו שוב.",
+  "menu.saved": "נשמר",
+  "path.revealError": "לא ניתן היה להציג את מיקום הקובץ. נסו שוב."
+}

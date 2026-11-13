@@ -1,6 +1,11 @@
 {
   "code.copied": "Copiato",
   "code.copy": "Copia",
+  "failed": "Non è stato possibile visualizzare questa immagine.",
   "footnotes": "Note a piè di pagina",
+  "loading": "Sto elaborando il documento...",
+  "preview": "Anteprima immagine: {name}",
+  "title": "Immagine",
+  "unsupported": "L'anteprima dell'immagine richiede i contenuti completi del file.",
   "viewer.label": "Markdown"
 }

@@ -3,5 +3,7 @@
   "createPrompt.conversation": "Tạo một plugin hiển thị trang trò chuyện cho DSH.",
   "createPrompt.rightbar": "Tạo một plugin DSH có mục trong thanh bên phải.",
   "createPrompt.sidebar": "Tạo một plugin DSH có mục trong thanh bên trái.",
-  "install": "Duyệt các plugin khác"
+  "install": "Duyệt các plugin khác",
+  "pin": "Dán {name} vào thanh bên",
+  "pinTooltip": "Dán vào thanh bên trái"
 }

@@ -3,5 +3,7 @@
   "createPrompt.conversation": "Bir DSH konuşma görünümü eklentisi oluşturun.",
   "createPrompt.rightbar": "Sağ kenar çubuğu girişi bulunan bir DSH eklentisi oluşturun.",
   "createPrompt.sidebar": "Sol kenar çubuğu girişi bulunan bir DSH eklentisi oluşturun.",
-  "install": "Diğer eklentilere göz atın"
+  "install": "Diğer eklentilere göz atın",
+  "pin": "{name} i kenar çubuğuna sabitle",
+  "pinTooltip": "Sol kenar çubuğuna sabitle"
 }

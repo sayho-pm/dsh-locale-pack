@@ -9,11 +9,15 @@
   "close": "關閉",
   "confirm.acknowledge": "我明白風險並希望繼續",
   "confirm.cancel": "取消",
-  "confirm.description": "完整存取會減少確認步驟，並讓代理人直接執行更多操作，包括敏感操作、檔案變更或外部命令。只有在信任目前工作時才使用。",
+  "confirm.description": "完整存取權限可讓新會話減少確認步驟，並能直接執行更多操作，包括敏感操作、檔案修改或外部指令。僅在您信任後續任務時才應使用此模式。",
   "confirm.enable": "啟用完整存取",
   "confirm.title": "啟用完整存取？",
+  "description": "選擇新會話的預設權限模式",
+  "loading": "正在載入",
   "mode": "存取模式，目前：{name}",
   "preset.fullAccess": "完整存取",
   "preset.readOnly": "唯讀",
-  "preset.workspaceWrite": "工作區寫入"
+  "preset.workspaceWrite": "工作區寫入",
+  "title": "權限",
+  "unavailable": "無法使用"
 }

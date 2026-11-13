@@ -9,11 +9,15 @@
   "close": "Fechar",
   "confirm.acknowledge": "Entendo os riscos e quero continuar",
   "confirm.cancel": "Cancelar",
-  "confirm.description": "O acesso total reduz as etapas de confirmação e permite que o agente execute mais ações diretamente, incluindo operações sensíveis, alterações de arquivos ou comandos externos. Use apenas quando confiar na tarefa atual.",
+  "confirm.description": "O acesso total permite que novas sessões reduzam os passos de confirmação e realizem mais ações diretamente, incluindo operações sensíveis, alterações de arquivos ou comandos externos. Use apenas quando confiar nas tarefas subsequentes.",
   "confirm.enable": "Ativar acesso total",
   "confirm.title": "Ativar acesso total?",
+  "description": "Escolha o modo de permissão padrão para novas sessões",
+  "loading": "Carregando",
   "mode": "Modo de acesso, atual: {name}",
   "preset.fullAccess": "Acesso total",
   "preset.readOnly": "Somente leitura",
-  "preset.workspaceWrite": "Escrita no espaço de trabalho"
+  "preset.workspaceWrite": "Escrita no espaço de trabalho",
+  "title": "Permissão",
+  "unavailable": "Indisponível"
 }

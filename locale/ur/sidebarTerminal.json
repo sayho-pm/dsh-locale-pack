@@ -1,5 +1,9 @@
 {
   "attachmentEnded": "Terminal کنکشن ختم ہو گیا ہے۔ جاری رکھنے کے لیے دوبارہ منسلک ہوں۔",
+  "badge.agent": "ایجنٹ",
+  "badge.readOnlyHint": "کمانڈز ایجنٹ کے ریڈ اونلی سینڈباکس میں چلتی ہیں، جن میں یہاں درج کیے گئے کمانڈز بھی شامل ہیں۔",
+  "badge.sandbox": "سینڈباکس",
+  "badge.workspaceWriteHint": "کمانڈز ایجنٹ کے ورکسپیس سینڈباکس میں چلتی ہیں، جن میں یہاں درج کیے گئے کمانڈز بھی شامل ہیں۔",
   "cleanupFailed": "Terminal “{title}” ختم نہیں کیا جا سکا: {message}",
   "closed": "Terminal بند ہو گیا۔",
   "connecting": "منسلک ہو رہا ہے…",

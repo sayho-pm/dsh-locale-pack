@@ -1,0 +1,14 @@
+{
+  "menu.copied": "Copiado",
+  "menu.copyFailed": "Não foi possível copiar. Verifique se o conteúdo está disponível e tente novamente.",
+  "menu.copyImage": "Copiar imagem",
+  "menu.download": "Baixar",
+  "menu.downloadStarted": "O download começou",
+  "menu.downloaded": "Download concluído",
+  "menu.finder": "Mostrar no Finder",
+  "menu.reveal": "Mostrar na pasta",
+  "menu.saveAs": "Salvar como…",
+  "menu.saveFailed": "Não foi possível salvar. Verifique a origem e o destino e tente novamente.",
+  "menu.saved": "Salvo",
+  "path.revealError": "Não foi possível exibir a localização do arquivo. Tente novamente."
+}

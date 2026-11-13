@@ -1,6 +1,11 @@
 {
   "code.copied": "Kopierat",
   "code.copy": "Kopiera",
+  "failed": "Denna bild kunde inte visas.",
   "footnotes": "Fotnoter",
+  "loading": "Man bearbetar dokumentet...",
+  "preview": "Förhandsvisning av bild: {name}",
+  "title": "Bild",
+  "unsupported": "Förhandsvisning av bild kräver hela filinnehållet.",
   "viewer.label": "Markdown"
 }

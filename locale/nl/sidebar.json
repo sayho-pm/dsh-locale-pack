@@ -2,6 +2,8 @@
   "navigation.label": "Navigatie",
   "panels.label": "Globale panelen",
   "panels.more": "Meer",
+  "panels.unpin": "Los {name} van de sidebar",
+  "panels.unpinTooltip": "sidebar.panels.unpinTooltip",
   "session.new": "Nieuwe sessie",
   "session.new.label": "Nieuwe sessie",
   "toggle.collapse": "Zijbalk inklappen",

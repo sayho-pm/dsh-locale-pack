@@ -41,6 +41,7 @@
   "menu.defaultApp": "以預設應用程式開啟",
   "menu.external": "以外部瀏覽器開啟",
   "menu.finder": "在 Finder 中顯示",
+  "menu.openIn": "在...中開啟",
   "menu.openInFloat": "在浮動面板中開啟",
   "menu.openInSidebar": "在側邊欄中開啟",
   "menu.reveal": "在資料夾中顯示",

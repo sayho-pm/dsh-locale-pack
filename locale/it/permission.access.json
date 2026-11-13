@@ -9,11 +9,15 @@
   "close": "Chiudi",
   "confirm.acknowledge": "Comprendo i rischi e voglio continuare",
   "confirm.cancel": "Annulla",
-  "confirm.description": "Accesso completo riduce i passaggi di conferma e consente all'agente di eseguire più azioni direttamente, incluse operazioni sensibili, modifiche ai file o comandi esterni. Usalo solo quando ritieni affidabile l'attività corrente.",
+  "confirm.description": "L accesso completo consente alle nuove sessioni di ridurre i passaggi di conferma e di eseguire più azioni direttamente, inclusi interventi sensibili modifiche di file o comandi esterni. Utilizzatelo solo quando si ha fiducia nelle operazioni successive.",
   "confirm.enable": "Attiva Accesso completo",
   "confirm.title": "Attivare Accesso completo?",
+  "description": "Scegliere il modalitÃ di permesso predefinito per le nuove sessioni",
+  "loading": "In carico",
   "mode": "Modalità di accesso, attuale: {name}",
   "preset.fullAccess": "Accesso completo",
   "preset.readOnly": "Sola lettura",
-  "preset.workspaceWrite": "Scrittura area di lavoro"
+  "preset.workspaceWrite": "Scrittura area di lavoro",
+  "title": "Permesso",
+  "unavailable": "Non disponibile"
 }

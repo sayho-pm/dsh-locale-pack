@@ -79,6 +79,8 @@
   "switchToAscending": "Сортувати по зростанню",
   "switchToDescending": "Сортувати по спаданню",
   "title": "Відкрити",
+  "update": "Оновлення",
+  "updateTitle": "Оновити {name} до {version}",
   "versionDefault": "Рекомендовано",
   "versionExempted": "Звільнено",
   "versionIncompatible": "Несумісна",

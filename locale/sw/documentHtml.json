@@ -1,6 +1,8 @@
 {
-  "failed": "Hati hii ya HTML haikuweza kuonyeshwa awali.",
+  "failed": "Picha hii haiwezi kuonyeshwa.",
   "frame": "Onyesho la awali la hati HTML",
   "loading": "Inatayarisha hati...",
-  "title": "HTML"
+  "preview": "Uonekano wa picha: {name}",
+  "title": "Picha",
+  "unsupported": "Uonekano wa picha unahitaji maudhui yote ya faili."
 }

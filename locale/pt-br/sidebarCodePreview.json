@@ -1,5 +1,9 @@
 {
   "copied": "Copiado",
   "copy": "Copiar",
-  "title": "Código"
+  "failed": "Não foi possível exibir esta imagem.",
+  "loading": "Processando o documento...",
+  "preview": "Prévia da imagem: {name}",
+  "title": "Imagem",
+  "unsupported": "A prévia da imagem requer o conteúdo completo do arquivo."
 }

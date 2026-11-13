@@ -79,6 +79,8 @@
   "switchToAscending": "Urutkan menaik",
   "switchToDescending": "Urutkan menurun",
   "title": "Temukan",
+  "update": "Memperbarui",
+  "updateTitle": "Memperbarui {name} menjadi {version}",
   "versionDefault": "Disarankan",
   "versionExempted": "Dikecualikan",
   "versionIncompatible": "Tidak kompatibel",

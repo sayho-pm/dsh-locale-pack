@@ -2,6 +2,8 @@
   "navigation.label": "ניווט",
   "panels.label": "פאנלים גלובליים",
   "panels.more": "עוד",
+  "panels.unpin": "להסיר נעילה מהצד מ{name}",
+  "panels.unpinTooltip": "להסיר נעילה מהצד השמאלי",
   "session.new": "הפעלה חדשה",
   "session.new.label": "הפעלה חדשה",
   "toggle.collapse": "כווץ את סרגל הצד",

@@ -1,0 +1,5 @@
+{
+  "approve": "Tillåt för denna session",
+  "detail": "Hantera applikationsrättigheter för alla sessioner på plugin-sidan.",
+  "question": "Tillåt agent att styra denna applikation via datoranvändning?"
+}

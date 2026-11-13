@@ -1,10 +1,12 @@
 {
-  "navigation.label": "탐색",
-  "panels.label": "전역 패널",
-  "panels.more": "더 보기",
-  "session.new": "새 세션",
-  "session.new.label": "새 세션",
-  "toggle.collapse": "사이드바 접기",
-  "toggle.open": "사이드바 열기",
-  "version.copied": "버전이 복사되었습니다"
+ "navigation.label": "탐색",
+ "panels.label": "전역 패널",
+ "panels.more": "더 보기",
+ "panels.unpin": "{name}을 사이드바에서 고정 해제",
+ "panels.unpinTooltip": "왼쪽 사이드바에서 고정 해제",
+ "session.new": "새 세션",
+ "session.new.label": "새 세션",
+ "toggle.collapse": "사이드바 접기",
+ "toggle.open": "사이드바 열기",
+ "version.copied": "버전이 복사되었습니다"
 }

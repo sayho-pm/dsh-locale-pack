@@ -1,5 +1,9 @@
 {
   "copied": "Đã sao chép",
   "copy": "Sao chép",
-  "title": "Mã"
+  "failed": "Không thể hiển thị hình ảnh này.",
+  "loading": "Đang xử lý tài liệu...",
+  "preview": "Xem trước hình ảnh: {name}",
+  "title": "Hình ảnh",
+  "unsupported": "Xem trước hình ảnh đòi hỏi toàn bộ nội dung tệp."
 }

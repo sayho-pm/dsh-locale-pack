@@ -9,11 +9,15 @@
   "close": "Stäng",
   "confirm.acknowledge": "Jag förstår riskerna och vill fortsätta",
   "confirm.cancel": "Avbryt",
-  "confirm.description": "Full åtkomst minskar antalet bekräftelsesteg och låter agenten utföra fler åtgärder direkt, inklusive känsliga åtgärder, filändringar eller externa kommandon. Använd det endast när du litar på den aktuella uppgiften.",
+  "confirm.description": "Fullständig åtkomst gör att nya sessioner kan minska bekräftningsstegen och utföra fler åtgärder direkt inklusive känsliga operationer filändringar eller externa kommandon. Använd det endast när du litar på de efterföljande uppgifterna.",
   "confirm.enable": "Aktivera Full åtkomst",
   "confirm.title": "Aktivera Full åtkomst?",
+  "description": "Välj standardrättighetsläge för nya sessioner",
+  "loading": "Laddar",
   "mode": "Åtkomstläge, aktuellt: {name}",
   "preset.fullAccess": "Full åtkomst",
   "preset.readOnly": "Skrivskyddad",
-  "preset.workspaceWrite": "Skriv i arbetsyta"
+  "preset.workspaceWrite": "Skriv i arbetsyta",
+  "title": "Rättigheter",
+  "unavailable": "Ogilligt"
 }

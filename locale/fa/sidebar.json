@@ -2,6 +2,8 @@
   "navigation.label": "ناوبری",
   "panels.label": "پنل‌های سراسری",
   "panels.more": "بیشتر",
+  "panels.unpin": "غیرفیکس کردن {name} از نوار سمت چپ",
+  "panels.unpinTooltip": "غیرفیکس کردن از نوار سمت چپ",
   "session.new": "نشست جدید",
   "session.new.label": "نشست جدید",
   "toggle.collapse": "جمع کردن نوار کناری",
