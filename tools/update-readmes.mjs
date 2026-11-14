@@ -83,10 +83,21 @@ for (const file of files) {
   }
 
   const diffs = Object.keys(facts).filter((k) => String(old[k]) !== String(facts[k]));
-  if (!diffs.length) continue;
+  // 주석은 갱신됐는데 본문 자리가 늦은 경우(이미지 대체 텍스트·숫자 문장·도구 목록 주석)까지
+  // 확인한다. 본문에 어떤 낡은 값이 있을지는 도구가 알 수 없으므로 '현행 값이 실제로
+  // 들어 있는가'만 검사한다.
+  const bodyMissing = [facts.keys, facts.entries, facts.dsh].filter((v) => !text.includes(v));
+  if (!diffs.length && !bodyMissing.length) continue;
 
+  const report = [...diffs.map((k) => `${k} ${old[k]} → ${facts[k]}`),
+                 ...bodyMissing.map((v) => `본문에 ${v} 없음`)];
   if (check) {
-    console.log(`${file}: ${diffs.map((k) => `${k} ${old[k]} → ${facts[k]}`).join(', ')}`);
+    console.log(`${file}: ${report.join(', ')}`);
+    stale += 1;
+    continue;
+  }
+  if (!diffs.length) {
+    console.log(`${file}: ${report.join(', ')} — 직접 고친다`);
     stale += 1;
     continue;
   }

@@ -2,7 +2,7 @@
 
 <p align="right"><strong>English</strong> | <a href="README.ko.md">한국어</a> | <a href="README.zh-TW.md">繁體中文</a> | <a href="README.id.md">Bahasa Indonesia</a> | <a href="README.vi.md">Tiếng Việt</a> | <a href="README.tr.md">Türkçe</a></p>
 
-<p align="center"><img src="docs/pack-overview.png" alt="dsh-locale-pack overview: 23 language dictionaries, 102,767 translated entries, DeepSeek Harness 0.2.2-rc.2, the supported languages, and the git clone install command" width="100%"></p>
+<p align="center"><img src="docs/pack-overview.png" alt="dsh-locale-pack overview: 23 language dictionaries, 103,296 translated entries, DeepSeek Harness 0.2.2-rc.3, the supported languages, and the git clone install command" width="100%"></p>
 
 Paket lokal untuk DeepSeek Harness, yang mencakup aplikasi desktop dan edisi browser. Paket ini mendaftarkan 23 kamus di pemilih bahasa, satu untuk setiap bahasa yang belum disediakan DeepSeek Harness. String yang belum diterjemahkan akan kembali ke bahasa Inggris, sehingga tampilan tetap terbaca selagi cakupan bertambah. Bersama bahasa Inggris dan Mandarin Sederhana bawaan, ada 25 bahasa yang dapat dipilih setelah pemasangan. Paket ini selalu diperbarui agar sesuai dengan rilis DeepSeek Harness terbaru. Paket ini juga terdaftar di [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness), indeks komunitas plug-in dan alat DSH.
 
@@ -31,7 +31,7 @@ DeepSeek Harness awalnya hanya menyertakan bahasa Inggris dan Mandarin Sederhana
 | فارسی | `fa` | Kiswahili | `sw` |
 | Yorùbá | `yo` |  |  |
 
-23 bahasa, 4,468 kunci masing-masing — 102,767 entri terjemahan secara keseluruhan. Kamus diperbarui setiap kali DeepSeek Harness merilis versi baru; saat ini mengikuti `0.2.2-rc.2`.
+23 bahasa, 4,491 kunci masing-masing — 103,296 entri terjemahan secara keseluruhan. Kamus diperbarui setiap kali DeepSeek Harness merilis versi baru; saat ini mengikuti `0.2.2-rc.3`.
 
 ## Instal
 
@@ -98,7 +98,7 @@ tools/smoke.mjs            Smoke test
 tools/check-keep.mjs       Translation quality check
 tools/translate_worker.py  Translation worker (runs outside the chat session)
 tools/clean-romanized.py   Fixes transliteration slips
-tools/en.baseline.json     English baseline (DeepSeek Harness 0.2.2-rc.1)
+tools/en.baseline.json     English baseline (DeepSeek Harness 0.2.2-rc.3)
 ```
 
 ## Mengedit string
@@ -139,6 +139,5 @@ Pengelola yang menjalankan alur terjemahan dapat menemukan perintahnya di [MAINT
 
 MIT
 
-23 bahasa, 4,491 kunci masing-masing — 103,296 entri terjemahan secara keseluruhan. Kamus diperbarui setiap kali DeepSeek Harness merilis versi baru; saat ini mengikuti `0.2.2-rc.3`.
 
 <!-- pack-facts: version=0.9.1 dsh=0.2.2-rc.3 languages=23 keys=4,491 entries=103,296 bundle="7.4 MB" -->

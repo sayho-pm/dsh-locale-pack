@@ -2,7 +2,7 @@
 
 <p align="right"><a href="README.md">English</a> | <a href="README.ko.md">한국어</a> | <a href="README.zh-TW.md">繁體中文</a> | <a href="README.id.md">Bahasa Indonesia</a> | <a href="README.vi.md">Tiếng Việt</a> | <strong>Türkçe</strong></p>
 
-<p align="center"><img src="docs/pack-overview.png" alt="dsh-locale-pack overview: 23 language dictionaries, 102,767 translated entries, DeepSeek Harness 0.2.2-rc.2, the supported languages, and the git clone install command" width="100%"></p>
+<p align="center"><img src="docs/pack-overview.png" alt="dsh-locale-pack overview: 23 language dictionaries, 103,296 translated entries, DeepSeek Harness 0.2.2-rc.3, the supported languages, and the git clone install command" width="100%"></p>
 
 DeepSeek Harness için hem masaüstü uygulamasını hem de tarayıcı sürümünü kapsayan bir yerel ayar paketi. Dil seçicide 23 sözlük kaydeder; her biri DeepSeek Harness'in sunmadığı bir dile karşılık gelir. Henüz çevrilmemiş dizeler İngilizce'ye geri döner, böylece kapsam genişlerken ekran okunabilir kalır. Yerleşik İngilizce ve Basitleştirilmiş Çince ile birlikte kurulumdan sonra 25 dil seçilebilir. Paket, en son DeepSeek Harness sürümüyle güncel tutulur. Ayrıca DSH eklentileri ve araçlarının topluluk dizini olan [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) içinde de listelenmiştir.
 
@@ -31,7 +31,7 @@ DeepSeek Harness başlangıçta yalnızca İngilizce ve Basitleştirilmiş Çinc
 | فارسی | `fa` | Kiswahili | `sw` |
 | Yorùbá | `yo` |  |  |
 
-23 dil, her biri 4,468 anahtar — toplamda 102,767 çevrilmiş girdi. Sözlükler, DeepSeek Harness yeni bir sürüm yayımladığında güncellenir; paket şu anda `0.2.2-rc.2` ile uyumludur.
+23 dil, her biri 4,491 anahtar — toplamda 103,296 çevrilmiş girdi. Sözlükler, DeepSeek Harness yeni bir sürüm yayımladığında güncellenir; paket şu anda `0.2.2-rc.3` ile uyumludur.
 
 ## Yükle
 
@@ -98,7 +98,7 @@ tools/smoke.mjs            Smoke test
 tools/check-keep.mjs       Translation quality check
 tools/translate_worker.py  Translation worker (runs outside the chat session)
 tools/clean-romanized.py   Fixes transliteration slips
-tools/en.baseline.json     English baseline (DeepSeek Harness 0.2.2-rc.1)
+tools/en.baseline.json     English baseline (DeepSeek Harness 0.2.2-rc.3)
 ```
 
 ## Dize düzenleme

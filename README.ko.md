@@ -2,7 +2,7 @@
 
 <p align="right"><a href="README.md">English</a> | <strong>한국어</strong> | <a href="README.zh-TW.md">繁體中文</a> | <a href="README.id.md">Bahasa Indonesia</a> | <a href="README.vi.md">Tiếng Việt</a> | <a href="README.tr.md">Türkçe</a></p>
 
-<p align="center"><img src="docs/pack-overview.png" alt="dsh-locale-pack 소개: 추가한 언어 23개, 번역 문구 102,767개, DeepSeek Harness 0.2.2-rc.2, 지원 언어 목록과 git clone 설치 명령" width="100%"></p>
+<p align="center"><img src="docs/pack-overview.png" alt="dsh-locale-pack 소개: 추가한 언어 23개, 번역 문구 103,296개, DeepSeek Harness 0.2.2-rc.3, 지원 언어 목록과 git clone 설치 명령" width="100%"></p>
 
 DeepSeek Harness 데스크톱 앱과 브라우저 웹판을 함께 지원하는 로케일 팩입니다. 언어 선택 목록에 사전 23개와 번역 문구 103,296개를 얹습니다. 23개는 모두 DeepSeek Harness가 제공하지 않는 언어입니다. 아직 번역되지 않은 문구는 영어로 보여 화면이 읽히도록 유지합니다. 기본 제공인 영어와 간체 중국어까지 합치면 설치 후 선택할 수 있는 언어는 25개가 됩니다. DeepSeek Harness 최신 버전에 맞게 사전을 계속 갱신합니다. 커뮤니티 목록인 [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness)에도 올라 있습니다.
 
@@ -31,7 +31,7 @@ DeepSeek Harness는 최초에는 영어와 간체 중국어로만 제공되었�
 | فارسی | `fa` | Kiswahili | `sw` |
 | Yorùbá | `yo` |  |  |
 
-언어 23개, 키 4,468개, 문구 102,767개가 들어 있습니다. DeepSeek Harness가 새 버전을 낼 때마다 문구를 다시 맞추고 있고, 지금은 `0.2.2-rc.2`까지 대응합니다.
+언어 23개, 키 4,491개, 문구 103,296개가 들어 있습니다. DeepSeek Harness가 새 버전을 낼 때마다 문구를 다시 맞추고 있고, 지금은 `0.2.2-rc.3`까지 대응합니다.
 
 ## 설치
 
@@ -100,7 +100,7 @@ tools/smoke.mjs         스모크 테스트
 tools/check-keep.mjs    번역 품질 점검
 tools/translate_worker.py  번역 워커(대화 세션과 분리되어 동작)
 tools/clean-romanized.py   로마자 표기 오류 정리
-tools/en.baseline.json  영문 기준선 (DeepSeek Harness 0.2.2-rc.1)
+tools/en.baseline.json  영문 기준선 (DeepSeek Harness 0.2.2-rc.3)
 ```
 
 ## 문구를 고치는 방법

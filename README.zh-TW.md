@@ -2,7 +2,7 @@
 
 <p align="right"><strong>English</strong> | <a href="README.ko.md">한국어</a> | <a href="README.zh-TW.md">繁體中文</a> | <a href="README.id.md">Bahasa Indonesia</a> | <a href="README.vi.md">Tiếng Việt</a> | <a href="README.tr.md">Türkçe</a></p>
 
-<p align="center"><img src="docs/pack-overview.png" alt="dsh-locale-pack overview: 23 language dictionaries, 102,767 translated entries, DeepSeek Harness 0.2.2-rc.2, the supported languages, and the git clone install command" width="100%"></p>
+<p align="center"><img src="docs/pack-overview.png" alt="dsh-locale-pack overview: 23 language dictionaries, 103,296 translated entries, DeepSeek Harness 0.2.2-rc.3, the supported languages, and the git clone install command" width="100%"></p>
 
 一個為 DeepSeek Harness 打造的語系包，同時涵蓋桌面應用程式和瀏覽器版本。它會在語言選擇器中註冊 23 份字典，每一份都對應一種 DeepSeek Harness 未提供的語言。尚未翻譯的字串會退回顯示英文，因此在涵蓋範圍逐步擴大期間，畫面依然保持可讀。加上內建的英文與簡體中文，安裝後可選擇 25 種語言。此語系包會與最新版 DeepSeek Harness 保持同步更新。它也被收錄於 [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness)，也就是 DSH 外掛與工具的社群索引。
 
@@ -31,7 +31,7 @@ DeepSeek Harness 最初只提供英文與簡體中文，到了 0.2.2-rc.1 已提
 | فارسی | `fa` | Kiswahili | `sw` |
 | Yorùbá | `yo` |  |  |
 
-23 種語言，每種 4,468 個鍵 — 總計 102,767 個已翻譯條目。字典會在 DeepSeek Harness 發布新版本時更新，目前涵蓋最新版本 `0.2.2-rc.2`。
+23 種語言，每種 4,491 個鍵 — 總計 103,296 個已翻譯條目。字典會在 DeepSeek Harness 發布新版本時更新，目前涵蓋最新版本 `0.2.2-rc.3`。
 
 ## 安裝
 
@@ -98,7 +98,7 @@ tools/smoke.mjs            Smoke test
 tools/check-keep.mjs       Translation quality check
 tools/translate_worker.py  Translation worker (runs outside the chat session)
 tools/clean-romanized.py   Fixes transliteration slips
-tools/en.baseline.json     English baseline (DeepSeek Harness 0.2.2-rc.1)
+tools/en.baseline.json     English baseline (DeepSeek Harness 0.2.2-rc.3)
 ```
 
 ## 編輯字串
