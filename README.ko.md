@@ -4,7 +4,7 @@
 
 <p align="center"><img src="docs/pack-overview.png" alt="dsh-locale-pack 소개: 추가한 언어 23개, 번역 문구 102,767개, DeepSeek Harness 0.2.2-rc.2, 지원 언어 목록과 git clone 설치 명령" width="100%"></p>
 
-DeepSeek Harness 데스크톱 앱과 브라우저 웹판을 함께 지원하는 로케일 팩입니다. 언어 선택 목록에 사전 23개와 번역 문구 102,767개를 얹습니다. 23개는 모두 DeepSeek Harness가 제공하지 않는 언어입니다. 아직 번역되지 않은 문구는 영어로 보여 화면이 읽히도록 유지합니다. 기본 제공인 영어와 간체 중국어까지 합치면 설치 후 선택할 수 있는 언어는 25개가 됩니다. DeepSeek Harness 최신 버전에 맞게 사전을 계속 갱신합니다. 커뮤니티 목록인 [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness)에도 올라 있습니다.
+DeepSeek Harness 데스크톱 앱과 브라우저 웹판을 함께 지원하는 로케일 팩입니다. 언어 선택 목록에 사전 23개와 번역 문구 103,296개를 얹습니다. 23개는 모두 DeepSeek Harness가 제공하지 않는 언어입니다. 아직 번역되지 않은 문구는 영어로 보여 화면이 읽히도록 유지합니다. 기본 제공인 영어와 간체 중국어까지 합치면 설치 후 선택할 수 있는 언어는 25개가 됩니다. DeepSeek Harness 최신 버전에 맞게 사전을 계속 갱신합니다. 커뮤니티 목록인 [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness)에도 올라 있습니다.
 
 ## 만든 이유
 
@@ -143,4 +143,4 @@ node tools/build-client.mjs --langs ko,ja   # 한국어와 일본어만
 
 MIT
 
-<!-- pack-facts: version=0.9.0 dsh=0.2.2-rc.2 languages=23 keys=4,468 entries=102,767 bundle="7.4 MB" -->
+<!-- pack-facts: version=0.9.1 dsh=0.2.2-rc.3 languages=23 keys=4,491 entries=103,296 bundle="7.4 MB" -->

@@ -1,6 +1,6 @@
 {
   "package": "@deepseek-ai/dsh-client-locale",
-  "version": "0.2.2-rc.2",
+  "version": "0.2.2-rc.3",
   "languages": [
     "de",
     "en",
