@@ -2,7 +2,7 @@
 
 <p align="right"><a href="README.md">English</a> | <a href="README.ko.md">한국어</a> | <a href="README.zh-TW.md">繁體中文</a> | <a href="README.id.md">Bahasa Indonesia</a> | <strong>Tiếng Việt</strong> | <a href="README.tr.md">Türkçe</a></p>
 
-<p align="center"><img src="docs/pack-overview.png" alt="dsh-locale-pack overview: 23 language dictionaries, 103,296 translated entries, DeepSeek Harness 0.2.2-rc.3, the supported languages, and the git clone install command" width="100%"></p>
+<p align="center"><img src="docs/pack-overview.png" alt="dsh-locale-pack overview: 23 language dictionaries, 103,296 translated entries, DeepSeek Harness 0.2.2-rc.4, the supported languages, and the git clone install command" width="100%"></p>
 
 Gói ngôn ngữ cho DeepSeek Harness, bao gồm cả ứng dụng máy tính và phiên bản trình duyệt. Nó đăng ký 23 từ điển trong trình chọn ngôn ngữ, mỗi từ điển cho một ngôn ngữ mà DeepSeek Harness chưa cung cấp. Các chuỗi chưa được dịch sẽ dùng tiếng Anh, vì vậy màn hình vẫn dễ đọc trong khi độ phủ bản dịch tiếp tục tăng. Cùng với tiếng Anh và tiếng Trung Giản thể có sẵn, sau khi cài đặt có 25 ngôn ngữ để chọn. Gói này luôn được cập nhật theo bản phát hành DeepSeek Harness mới nhất. Nó cũng được liệt kê trong [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness), chỉ mục cộng đồng gồm các plug-in và công cụ DSH.
 
@@ -31,7 +31,7 @@ DeepSeek Harness ban đầu chỉ có tiếng Anh và tiếng Trung Giản thể
 | فارسی | `fa` | Kiswahili | `sw` |
 | Yorùbá | `yo` |  |  |
 
-23 ngôn ngữ, 4,491 khóa mỗi ngôn ngữ — 103,296 mục đã dịch tổng cộng. Các từ điển được làm mới mỗi khi DeepSeek Harness phát hành bản mới; hiện theo sát `0.2.2-rc.3`.
+23 ngôn ngữ, 4,491 khóa mỗi ngôn ngữ — 103,296 mục đã dịch tổng cộng. Các từ điển được làm mới mỗi khi DeepSeek Harness phát hành bản mới; hiện theo sát `0.2.2-rc.4`.
 
 ## Cài đặt
 
@@ -98,7 +98,7 @@ tools/smoke.mjs            Smoke test
 tools/check-keep.mjs       Translation quality check
 tools/translate_worker.py  Translation worker (runs outside the chat session)
 tools/clean-romanized.py   Fixes transliteration slips
-tools/en.baseline.json     English baseline (DeepSeek Harness 0.2.2-rc.3)
+tools/en.baseline.json     English baseline (DeepSeek Harness 0.2.2-rc.4)
 ```
 
 ## Chỉnh sửa chuỗi
@@ -139,4 +139,4 @@ Người bảo trì chạy quy trình dịch có thể xem lệnh trong [MAINTAI
 
 MIT
 
-<!-- pack-facts: version=0.9.1 dsh=0.2.2-rc.3 languages=23 keys=4,491 entries=103,296 bundle="7.4 MB" -->
+<!-- pack-facts: version=0.9.2 dsh=0.2.2-rc.4 languages=23 keys=4,491 entries=103,296 bundle="7.4 MB" -->

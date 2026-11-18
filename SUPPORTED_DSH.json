@@ -1,11 +1,11 @@
 {
-  "dsh": "0.2.2-rc.3",
+  "dsh": "0.2.2-rc.4",
   "namespaces": 72,
   "keys": 4491,
   "languages": 23,
   "translatedKeysPerLanguage": 4016,
   "koKeys": 4016,
-  "checkedAt": "2026-11-13",
+  "checkedAt": "2026-11-18",
   "coveredLanguages": [
     "ar",
     "bn",
